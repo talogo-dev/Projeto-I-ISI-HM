@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pacientes>
+	<Paciente id="1">
+		<Nome>Maria Silva</Nome>
+		<Email>maria@@hotmail.com</Email>
+		<Telefone>9123-4567</Telefone>
+		<NIF>12345678</NIF>
+		<DataNascimento>1990/05/20</DataNascimento>
+	</Paciente>
+	<Paciente id="2">
+		<Nome>João Costa</Nome>
+		<Email>joao.costa@gmail</Email>
+		<Telefone>+351 912345678</Telefone>
+		<NIF>123456789</NIF>
+		<DataNascimento>20-05-1985</DataNascimento>
+	</Paciente>
+	<Paciente id="3">
+		<Nome>Ana Pereira</Nome>
+		<Email>ana.pereira@outlook.com</Email>
+		<Telefone>+351 987 654 321</Telefone>
+		<NIF>987654321</NIF>
+		<DataNascimento>1988-12-01</DataNascimento>
+	</Paciente>
+	<Paciente id="4">
+		<Nome>Carlos Martins</Nome>
+		<Email>carlos.martins@gmail..com</Email>
+		<Telefone>965432100</Telefone>
+		<NIF>123456789</NIF>
+		<DataNascimento>1975/07/15</DataNascimento>
+	</Paciente>
+	<Paciente id="5">
+		<Nome>Beatriz Lopes</Nome>
+		<Email>beatriz.lopes@gmail.com</Email>
+		<Telefone>+351 912-345-432</Telefone>
+		<NIF>98765432</NIF>
+		<DataNascimento>1992-11-30</DataNascimento>
+	</Paciente>
+	<Paciente id="6">
+		<Nome>Pedro Fernandes</Nome>
+		<Email>pedro.fernandes@@yahoo.com</Email>
+		<Telefone>912345678</Telefone>
+		<NIF>234567890</NIF>
+		<DataNascimento>1980/03/22</DataNascimento>
+	</Paciente>
+	<Paciente id="7">
+		<Nome>Carla Gomes</Nome>
+		<Email>c.gomes@hotmail.com</Email>
+		<Telefone>+351912345679</Telefone>
+		<NIF>123456789</NIF>
+		<DataNascimento>1995-08-14</DataNascimento>
+	</Paciente>
+	<Paciente id="8">
+		<Nome>Rui Almeida</Nome>
+		<Email>rui.almeida@gmail.com</Email>
+		<Telefone>+351 912 345 680</Telefone>
+		<NIF>234567891</NIF>
+		<DataNascimento>1983/01/10</DataNascimento>
+	</Paciente>
+	<Paciente id="9">
+		<Nome>Inês Rodrigues</Nome>
+		<Email>ines.rodrigues@outlook</Email>
+		<Telefone>913-456-789</Telefone>
+		<NIF>345678912</NIF>
+		<DataNascimento>1991-09-05</DataNascimento>
+	</Paciente>
+	<Paciente id="10">
+		<Nome>Tiago Sousa</Nome>
+		<Email>tiago.sousa@gmail.com</Email>
+		<Telefone>+351914567890</Telefone>
+		<NIF>456789123</NIF>
+		<DataNascimento>1987/06/18</DataNascimento>
+	</Paciente>
+</Pacientes>

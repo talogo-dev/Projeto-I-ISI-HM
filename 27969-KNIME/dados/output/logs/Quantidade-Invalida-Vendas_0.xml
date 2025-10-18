@@ -1,147 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Vendas-Invalidas>
     <item>
-        <Order_ID>417</Order_ID>
-        <Customer_ID>222</Customer_ID>
-        <Book_ID>254</Book_ID>
-        <Order_Date>2024-29-03</Order_Date>
+        <Order_ID>354</Order_ID>
+        <Customer_ID>388</Customer_ID>
+        <Book_ID>225</Book_ID>
+        <Order_Date>2024-28-07</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>170.28</Total_Amount>
+        <Total_Amount>72.08</Total_Amount>
     </item>
     <item>
-        <Order_ID>244</Order_ID>
-        <Customer_ID>12</Customer_ID>
-        <Book_ID>380</Book_ID>
-        <Order_Date>2024-28-10</Order_Date>
+        <Order_ID>434</Order_ID>
+        <Customer_ID>45</Customer_ID>
+        <Book_ID>83</Book_ID>
+        <Order_Date>2023-20-10</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>39.51</Total_Amount>
+        <Total_Amount>89.4</Total_Amount>
     </item>
     <item>
-        <Order_ID>227</Order_ID>
-        <Customer_ID>461</Customer_ID>
-        <Book_ID>308</Book_ID>
-        <Order_Date>2023-04-05</Order_Date>
+        <Order_ID>212</Order_ID>
+        <Customer_ID>244</Customer_ID>
+        <Book_ID>300</Book_ID>
+        <Order_Date>2024-20-04</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>166.0</Total_Amount>
+        <Total_Amount>53.74</Total_Amount>
     </item>
     <item>
-        <Order_ID>202</Order_ID>
-        <Customer_ID>137</Customer_ID>
-        <Book_ID>69</Book_ID>
-        <Order_Date>2023-17-12</Order_Date>
+        <Order_ID>282</Order_ID>
+        <Customer_ID>364</Customer_ID>
+        <Book_ID>154</Book_ID>
+        <Order_Date>2024-22-11</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>70.32</Total_Amount>
+        <Total_Amount>104.64</Total_Amount>
     </item>
     <item>
-        <Order_ID>25</Order_ID>
-        <Customer_ID>265</Customer_ID>
-        <Book_ID>250</Book_ID>
-        <Order_Date>2023-25-05</Order_Date>
-        <Quantity>0.0</Quantity>
-        <Total_Amount>126.5</Total_Amount>
-    </item>
-    <item>
-        <Order_ID>366</Order_ID>
-        <Customer_ID>425</Customer_ID>
-        <Book_ID>231</Book_ID>
-        <Order_Date>2024-08-03</Order_Date>
-        <Quantity>0.0</Quantity>
-        <Total_Amount>56.22</Total_Amount>
-    </item>
-    <item>
-        <Order_ID>367</Order_ID>
-        <Customer_ID>497</Customer_ID>
-        <Book_ID>309</Book_ID>
-        <Order_Date>2023-04-04</Order_Date>
-        <Quantity>0.0</Quantity>
-        <Total_Amount>58.7</Total_Amount>
-    </item>
-    <item>
-        <Order_ID>146</Order_ID>
-        <Customer_ID>394</Customer_ID>
-        <Book_ID>404</Book_ID>
-        <Order_Date>2024-07-04</Order_Date>
-        <Quantity>0.0</Quantity>
-        <Total_Amount>62.6</Total_Amount>
-    </item>
-    <item>
-        <Order_ID>176</Order_ID>
-        <Customer_ID>86</Customer_ID>
-        <Book_ID>479</Book_ID>
-        <Order_Date>2023-19-09</Order_Date>
-        <Quantity>0.0</Quantity>
-        <Total_Amount>229.62</Total_Amount>
-    </item>
-    <item>
-        <Order_ID>3</Order_ID>
-        <Customer_ID>216</Customer_ID>
-        <Book_ID>261</Book_ID>
+        <Order_ID>131</Order_ID>
+        <Customer_ID>16</Customer_ID>
+        <Book_ID>1</Book_ID>
         <Order_Date>2024-27-05</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>85.5</Total_Amount>
+        <Total_Amount>64.02</Total_Amount>
     </item>
     <item>
-        <Order_ID>450</Order_ID>
-        <Customer_ID>451</Customer_ID>
+        <Order_ID>321</Order_ID>
+        <Customer_ID>114</Customer_ID>
+        <Book_ID>386</Book_ID>
+        <Order_Date>2023-05-08</Order_Date>
+        <Quantity>0.0</Quantity>
+        <Total_Amount>50.88</Total_Amount>
+    </item>
+    <item>
+        <Order_ID>306</Order_ID>
+        <Customer_ID>54</Customer_ID>
+        <Book_ID>316</Book_ID>
+        <Order_Date>2024-28-11</Order_Date>
+        <Quantity>0.0</Quantity>
+        <Total_Amount>35.24</Total_Amount>
+    </item>
+    <item>
+        <Order_ID>228</Order_ID>
+        <Customer_ID>400</Customer_ID>
+        <Book_ID>104</Book_ID>
+        <Order_Date>2024-07-06</Order_Date>
+        <Quantity>0.0</Quantity>
+        <Total_Amount>31.68</Total_Amount>
+    </item>
+    <item>
+        <Order_ID>14</Order_ID>
+        <Customer_ID>454</Customer_ID>
+        <Book_ID>319</Book_ID>
+        <Order_Date>2023-24-08</Order_Date>
+        <Quantity>0.0</Quantity>
+        <Total_Amount>85.22</Total_Amount>
+    </item>
+    <item>
+        <Order_ID>65</Order_ID>
+        <Customer_ID>54</Customer_ID>
+        <Book_ID>198</Book_ID>
+        <Order_Date>2023-06-05</Order_Date>
+        <Quantity>0.0</Quantity>
+        <Total_Amount>201.42</Total_Amount>
+    </item>
+    <item>
+        <Order_ID>68</Order_ID>
+        <Customer_ID>246</Customer_ID>
+        <Book_ID>319</Book_ID>
+        <Order_Date>2023-21-03</Order_Date>
+        <Quantity>0.0</Quantity>
+        <Total_Amount>426.1</Total_Amount>
+    </item>
+    <item>
+        <Order_ID>151</Order_ID>
+        <Customer_ID>361</Customer_ID>
         <Book_ID>288</Book_ID>
-        <Order_Date>2023-18-05</Order_Date>
+        <Order_Date>2024-27-08</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>223.28</Total_Amount>
+        <Total_Amount>195.37</Total_Amount>
     </item>
     <item>
-        <Order_ID>139</Order_ID>
-        <Customer_ID>189</Customer_ID>
-        <Book_ID>26</Book_ID>
-        <Order_Date>2024-31-05</Order_Date>
+        <Order_ID>93</Order_ID>
+        <Customer_ID>366</Customer_ID>
+        <Book_ID>427</Book_ID>
+        <Order_Date>2024-23-10</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>189.45</Total_Amount>
+        <Total_Amount>54.0</Total_Amount>
     </item>
     <item>
-        <Order_ID>59</Order_ID>
-        <Customer_ID>225</Customer_ID>
-        <Book_ID>188</Book_ID>
-        <Order_Date>2023-11-02</Order_Date>
+        <Order_ID>36</Order_ID>
+        <Customer_ID>417</Customer_ID>
+        <Book_ID>260</Book_ID>
+        <Order_Date>2024-21-01</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>140.98</Total_Amount>
+        <Total_Amount>446.31</Total_Amount>
     </item>
     <item>
-        <Order_ID>438</Order_ID>
-        <Customer_ID>304</Customer_ID>
-        <Book_ID>434</Book_ID>
-        <Order_Date>2024-16-08</Order_Date>
+        <Order_ID>462</Order_ID>
+        <Customer_ID>22</Customer_ID>
+        <Book_ID>282</Book_ID>
+        <Order_Date>2024-24-11</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>91.16</Total_Amount>
+        <Total_Amount>114.57</Total_Amount>
     </item>
     <item>
-        <Order_ID>164</Order_ID>
-        <Customer_ID>467</Customer_ID>
-        <Book_ID>184</Book_ID>
-        <Order_Date>2024-27-06</Order_Date>
+        <Order_ID>237</Order_ID>
+        <Customer_ID>47</Customer_ID>
+        <Book_ID>199</Book_ID>
+        <Order_Date>2023-15-08</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>47.25</Total_Amount>
+        <Total_Amount>299.67</Total_Amount>
     </item>
     <item>
-        <Order_ID>324</Order_ID>
-        <Customer_ID>306</Customer_ID>
-        <Book_ID>214</Book_ID>
-        <Order_Date>2023-31-01</Order_Date>
+        <Order_ID>178</Order_ID>
+        <Customer_ID>70</Customer_ID>
+        <Book_ID>298</Book_ID>
+        <Order_Date>2023-03-05</Order_Date>
         <Quantity>0.0</Quantity>
-        <Total_Amount>127.12</Total_Amount>
-    </item>
-    <item>
-        <Order_ID>192</Order_ID>
-        <Customer_ID>144</Customer_ID>
-        <Book_ID>380</Book_ID>
-        <Order_Date>2024-24-06</Order_Date>
-        <Quantity>0.0</Quantity>
-        <Total_Amount>26.34</Total_Amount>
-    </item>
-    <item>
-        <Order_ID>443</Order_ID>
-        <Customer_ID>425</Customer_ID>
-        <Book_ID>108</Book_ID>
-        <Order_Date>2024-30-04</Order_Date>
-        <Quantity>0.0</Quantity>
-        <Total_Amount>253.8</Total_Amount>
+        <Total_Amount>466.6</Total_Amount>
     </item>
 </Vendas-Invalidas>

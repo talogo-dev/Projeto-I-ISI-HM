@@ -1,0 +1,307 @@
+[ {
+  "Pais" : "Afghanistan",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Angola",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Anguilla",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Antigua and Barbuda",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Argentina",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Armenia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Aruba",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Australia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Bahamas",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Barbados",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Belgium",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Benin",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Bermuda",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Bhutan",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Botswana",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Bouvet Island (Bouvetoya)",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "British Virgin Islands",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Cayman Islands",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Costa Rica",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Cote d'Ivoire",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Croatia",
+  "Count*(Id)" : 3
+}, {
+  "Pais" : "Cuba",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Denmark",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Djibouti",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Dominican Republic",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Ecuador",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Estonia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Falkland Islands (Malvinas)",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Faroe Islands",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Gambia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Ghana",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Greece",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Guatemala",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Guinea-Bissau",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Guyana",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Heard Island and McDonald Islands",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Honduras",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Hungary",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Iceland",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Indonesia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Iraq",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Isle of Man",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Israel",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Italy",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Jamaica",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Japan",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Jersey",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Jordan",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Kenya",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Korea",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Kuwait",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Lesotho",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Liechtenstein",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Lithuania",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Luxembourg",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Macao",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Macedonia",
+  "Count*(Id)" : 3
+}, {
+  "Pais" : "Malawi",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Malaysia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Mauritania",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Micronesia",
+  "Count*(Id)" : 3
+}, {
+  "Pais" : "Monaco",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Mongolia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Montenegro",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Montserrat",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Morocco",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Nepal",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Netherlands",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "New Caledonia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Nicaragua",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Norfolk Island",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Pakistan",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Panama",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Papua New Guinea",
+  "Count*(Id)" : 3
+}, {
+  "Pais" : "Pitcairn Islands",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Romania",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Russian Federation",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Saint Kitts and Nevis",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Saint Martin",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "San Marino",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Serbia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Sierra Leone",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Slovakia (Slovak Republic)",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Slovenia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Somalia",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Spain",
+  "Count*(Id)" : 3
+}, {
+  "Pais" : "Sri Lanka",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Svalbard & Jan Mayen Islands",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Switzerland",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Tajikistan",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Timor-Leste",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Tokelau",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Tunisia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Turkey",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "United States Minor Outlying Islands",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "United States Virgin Islands",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Vanuatu",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Wallis and Futuna",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Western Sahara",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Yemen",
+  "Count*(Id)" : 2
+}, {
+  "Pais" : "Zambia",
+  "Count*(Id)" : 1
+}, {
+  "Pais" : "Zimbabwe",
+  "Count*(Id)" : 2
+} ]

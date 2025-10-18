@@ -1,0 +1,4503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Livros>
+    <item>
+        <Book_ID>1</Book_ID>
+        <Title>Configurable modular throughput</Title>
+        <Author>Joseph Crane</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1949</Published_Year>
+        <Price>21.34</Price>
+        <Stock>100</Stock>
+    </item>
+    <item>
+        <Book_ID>2</Book_ID>
+        <Title>Persevering reciprocal knowledge user</Title>
+        <Author>Mario Moore</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1971</Published_Year>
+        <Price>35.8</Price>
+        <Stock>19</Stock>
+    </item>
+    <item>
+        <Book_ID>3</Book_ID>
+        <Title>Streamlined coherent initiative</Title>
+        <Author>Derrick Howard</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1913</Published_Year>
+        <Price>15.75</Price>
+        <Stock>27</Stock>
+    </item>
+    <item>
+        <Book_ID>4</Book_ID>
+        <Title>Customizable 24hour product</Title>
+        <Author>Christopher Andrews</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>2020</Published_Year>
+        <Price>43.52</Price>
+        <Stock>8</Stock>
+    </item>
+    <item>
+        <Book_ID>5</Book_ID>
+        <Title>Adaptive 5thgeneration encoding</Title>
+        <Author>Juan Miller</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1956</Published_Year>
+        <Price>10.95</Price>
+        <Stock>16</Stock>
+    </item>
+    <item>
+        <Book_ID>6</Book_ID>
+        <Title>Advanced encompassing implementation</Title>
+        <Author>Bryan Morgan</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1985</Published_Year>
+        <Price>6.56</Price>
+        <Stock>2</Stock>
+    </item>
+    <item>
+        <Book_ID>7</Book_ID>
+        <Title>Open-architected exuding structure</Title>
+        <Author>Jacqueline Young</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1927</Published_Year>
+        <Price>43.63</Price>
+        <Stock>95</Stock>
+    </item>
+    <item>
+        <Book_ID>8</Book_ID>
+        <Title>Persistent local encoding</Title>
+        <Author>Troy Cox</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2019</Published_Year>
+        <Price>48.99</Price>
+        <Stock>84</Stock>
+    </item>
+    <item>
+        <Book_ID>9</Book_ID>
+        <Title>Optimized interactive challenge</Title>
+        <Author>Colin Buckley</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1987</Published_Year>
+        <Price>14.33</Price>
+        <Stock>70</Stock>
+    </item>
+    <item>
+        <Book_ID>10</Book_ID>
+        <Title>Ergonomic national hub</Title>
+        <Author>Samantha Ruiz</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2015</Published_Year>
+        <Price>24.63</Price>
+        <Stock>25</Stock>
+    </item>
+    <item>
+        <Book_ID>11</Book_ID>
+        <Title>Secured zero tolerance time-frame</Title>
+        <Author>Denise Barnes</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1998</Published_Year>
+        <Price>35.95</Price>
+        <Stock>10</Stock>
+    </item>
+    <item>
+        <Book_ID>12</Book_ID>
+        <Title>Polarized optimal array</Title>
+        <Author>Destiny Scott</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1989</Published_Year>
+        <Price>27.43</Price>
+        <Stock>63</Stock>
+    </item>
+    <item>
+        <Book_ID>13</Book_ID>
+        <Title>Adaptive 5thgeneration orchestration</Title>
+        <Author>Jaclyn Miller</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1913</Published_Year>
+        <Price>14.04</Price>
+        <Stock>99</Stock>
+    </item>
+    <item>
+        <Book_ID>14</Book_ID>
+        <Title>Re-engineered demand-driven parallelism</Title>
+        <Author>Jeremy Hayes</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1933</Published_Year>
+        <Price>6.04</Price>
+        <Stock>95</Stock>
+    </item>
+    <item>
+        <Book_ID>15</Book_ID>
+        <Title>User-friendly motivating strategy</Title>
+        <Author>Keith Smith</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1997</Published_Year>
+        <Price>23.83</Price>
+        <Stock>58</Stock>
+    </item>
+    <item>
+        <Book_ID>16</Book_ID>
+        <Title>Vision-oriented tangible project</Title>
+        <Author>Christopher Price</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1941</Published_Year>
+        <Price>10.07</Price>
+        <Stock>8</Stock>
+    </item>
+    <item>
+        <Book_ID>17</Book_ID>
+        <Title>Reduced secondary core</Title>
+        <Author>Benjamin Peters</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1966</Published_Year>
+        <Price>5.37</Price>
+        <Stock>45</Stock>
+    </item>
+    <item>
+        <Book_ID>18</Book_ID>
+        <Title>Adaptive 4thgeneration concept</Title>
+        <Author>Hector Palmer</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2021</Published_Year>
+        <Price>39.47</Price>
+        <Stock>32</Stock>
+    </item>
+    <item>
+        <Book_ID>19</Book_ID>
+        <Title>Progressive asymmetric Internet solution</Title>
+        <Author>Sean Miller</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1990</Published_Year>
+        <Price>11.31</Price>
+        <Stock>1</Stock>
+    </item>
+    <item>
+        <Book_ID>20</Book_ID>
+        <Title>Face-to-face systematic throughput</Title>
+        <Author>Teresa Brennan</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1978</Published_Year>
+        <Price>48.13</Price>
+        <Stock>64</Stock>
+    </item>
+    <item>
+        <Book_ID>21</Book_ID>
+        <Title>Down-sized static interface</Title>
+        <Author>Todd Brown</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1925</Published_Year>
+        <Price>47.13</Price>
+        <Stock>87</Stock>
+    </item>
+    <item>
+        <Book_ID>22</Book_ID>
+        <Title>Multi-layered optimizing migration</Title>
+        <Author>Wesley Escobar</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1908</Published_Year>
+        <Price>39.23</Price>
+        <Stock>78</Stock>
+    </item>
+    <item>
+        <Book_ID>23</Book_ID>
+        <Title>Reverse-engineered context-sensitive hardware</Title>
+        <Author>Christina Hernandez</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1967</Published_Year>
+        <Price>38.55</Price>
+        <Stock>70</Stock>
+    </item>
+    <item>
+        <Book_ID>24</Book_ID>
+        <Title>Ergonomic incremental hub</Title>
+        <Author>Tanya Mcdonald</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1907</Published_Year>
+        <Price>32.74</Price>
+        <Stock>54</Stock>
+    </item>
+    <item>
+        <Book_ID>25</Book_ID>
+        <Title>Devolved mobile conglomeration</Title>
+        <Author>Alexander Bailey</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1984</Published_Year>
+        <Price>8.55</Price>
+        <Stock>79</Stock>
+    </item>
+    <item>
+        <Book_ID>26</Book_ID>
+        <Title>Multi-channeled multi-tasking capability</Title>
+        <Author>Patricia Buck</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1964</Published_Year>
+        <Price>21.05</Price>
+        <Stock>41</Stock>
+    </item>
+    <item>
+        <Book_ID>27</Book_ID>
+        <Title>Team-oriented human-resource access</Title>
+        <Author>Cody Shah</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1927</Published_Year>
+        <Price>42.14</Price>
+        <Stock>76</Stock>
+    </item>
+    <item>
+        <Book_ID>28</Book_ID>
+        <Title>Expanded analyzing portal</Title>
+        <Author>Lisa Coffey</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1941</Published_Year>
+        <Price>37.51</Price>
+        <Stock>79</Stock>
+    </item>
+    <item>
+        <Book_ID>29</Book_ID>
+        <Title>Quality-focused multi-tasking challenge</Title>
+        <Author>Katrina Underwood</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1905</Published_Year>
+        <Price>31.12</Price>
+        <Stock>100</Stock>
+    </item>
+    <item>
+        <Book_ID>30</Book_ID>
+        <Title>Multi-layered global open system</Title>
+        <Author>Jose Meyer</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2012</Published_Year>
+        <Price>30.58</Price>
+        <Stock>37</Stock>
+    </item>
+    <item>
+        <Book_ID>31</Book_ID>
+        <Title>Implemented encompassing conglomeration</Title>
+        <Author>Melissa Taylor</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>2010</Published_Year>
+        <Price>21.23</Price>
+        <Stock>44</Stock>
+    </item>
+    <item>
+        <Book_ID>32</Book_ID>
+        <Title>Synergistic dedicated concept</Title>
+        <Author>Lisa Bailey</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2021</Published_Year>
+        <Price>21.56</Price>
+        <Stock>100</Stock>
+    </item>
+    <item>
+        <Book_ID>33</Book_ID>
+        <Title>Team-oriented empowering synergy</Title>
+        <Author>Sandra Williams</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2023</Published_Year>
+        <Price>35.06</Price>
+        <Stock>49</Stock>
+    </item>
+    <item>
+        <Book_ID>34</Book_ID>
+        <Title>Stand-alone multimedia throughput</Title>
+        <Author>Jason Jefferson</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1939</Published_Year>
+        <Price>16.49</Price>
+        <Stock>43</Stock>
+    </item>
+    <item>
+        <Book_ID>35</Book_ID>
+        <Title>Grass-roots solution-oriented adapter</Title>
+        <Author>William Turner</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2018</Published_Year>
+        <Price>31.81</Price>
+        <Stock>85</Stock>
+    </item>
+    <item>
+        <Book_ID>36</Book_ID>
+        <Title>Open-source needs-based secured line</Title>
+        <Author>Jacob French</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1949</Published_Year>
+        <Price>34.51</Price>
+        <Stock>86</Stock>
+    </item>
+    <item>
+        <Book_ID>37</Book_ID>
+        <Title>Up-sized tertiary archive</Title>
+        <Author>Todd Kennedy</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1955</Published_Year>
+        <Price>13.08</Price>
+        <Stock>3</Stock>
+    </item>
+    <item>
+        <Book_ID>38</Book_ID>
+        <Title>Pre-emptive asynchronous leverage</Title>
+        <Author>Courtney Nichols</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>2022</Published_Year>
+        <Price>16.47</Price>
+        <Stock>72</Stock>
+    </item>
+    <item>
+        <Book_ID>39</Book_ID>
+        <Title>Optimized national process improvement</Title>
+        <Author>Megan Goodwin</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1978</Published_Year>
+        <Price>10.99</Price>
+        <Stock>42</Stock>
+    </item>
+    <item>
+        <Book_ID>40</Book_ID>
+        <Title>Adaptive didactic interface</Title>
+        <Author>Natalie Gonzalez</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1923</Published_Year>
+        <Price>25.97</Price>
+        <Stock>94</Stock>
+    </item>
+    <item>
+        <Book_ID>41</Book_ID>
+        <Title>Integrated grid-enabled superstructure</Title>
+        <Author>Katherine Robbins</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1950</Published_Year>
+        <Price>43.09</Price>
+        <Stock>78</Stock>
+    </item>
+    <item>
+        <Book_ID>42</Book_ID>
+        <Title>Pre-emptive interactive focus group</Title>
+        <Author>Shannon Reese</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1937</Published_Year>
+        <Price>48.35</Price>
+        <Stock>82</Stock>
+    </item>
+    <item>
+        <Book_ID>43</Book_ID>
+        <Title>Function-based zero-defect initiative</Title>
+        <Author>Daniel Nunez</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1952</Published_Year>
+        <Price>47.39</Price>
+        <Stock>61</Stock>
+    </item>
+    <item>
+        <Book_ID>44</Book_ID>
+        <Title>Networked systemic implementation</Title>
+        <Author>Ryan Frank</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1965</Published_Year>
+        <Price>13.55</Price>
+        <Stock>0</Stock>
+    </item>
+    <item>
+        <Book_ID>45</Book_ID>
+        <Title>Centralized cohesive website</Title>
+        <Author>Luis Rogers</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1984</Published_Year>
+        <Price>25.49</Price>
+        <Stock>59</Stock>
+    </item>
+    <item>
+        <Book_ID>46</Book_ID>
+        <Title>Distributed attitude-oriented open system</Title>
+        <Author>Jamie Lambert</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1923</Published_Year>
+        <Price>33.17</Price>
+        <Stock>75</Stock>
+    </item>
+    <item>
+        <Book_ID>47</Book_ID>
+        <Title>Reverse-engineered directional conglomeration</Title>
+        <Author>John Christian</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>2006</Published_Year>
+        <Price>20.37</Price>
+        <Stock>90</Stock>
+    </item>
+    <item>
+        <Book_ID>48</Book_ID>
+        <Title>Multi-channeled 5thgeneration Internet solution</Title>
+        <Author>Jennifer Powell</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1963</Published_Year>
+        <Price>24.7</Price>
+        <Stock>94</Stock>
+    </item>
+    <item>
+        <Book_ID>49</Book_ID>
+        <Title>Robust attitude-oriented attitude</Title>
+        <Author>Zachary Hayes</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1955</Published_Year>
+        <Price>49.5</Price>
+        <Stock>15</Stock>
+    </item>
+    <item>
+        <Book_ID>50</Book_ID>
+        <Title>Face-to-face responsive secured line</Title>
+        <Author>Lindsey Rodriguez</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1970</Published_Year>
+        <Price>37</Price>
+        <Stock>63</Stock>
+    </item>
+    <item>
+        <Book_ID>51</Book_ID>
+        <Title>Visionary optimizing project</Title>
+        <Author>Douglas Bush</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2022</Published_Year>
+        <Price>46.3</Price>
+        <Stock>95</Stock>
+    </item>
+    <item>
+        <Book_ID>52</Book_ID>
+        <Title>Triple-buffered neutral adapter</Title>
+        <Author>Kristi Phillips</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2003</Published_Year>
+        <Price>16.53</Price>
+        <Stock>85</Stock>
+    </item>
+    <item>
+        <Book_ID>53</Book_ID>
+        <Title>Triple-buffered multi-tasking help-desk</Title>
+        <Author>Brian Johnson</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1969</Published_Year>
+        <Price>29.28</Price>
+        <Stock>60</Stock>
+    </item>
+    <item>
+        <Book_ID>54</Book_ID>
+        <Title>Progressive bi-directional methodology</Title>
+        <Author>Adrian Taylor</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>2015</Published_Year>
+        <Price>44.78</Price>
+        <Stock>27</Stock>
+    </item>
+    <item>
+        <Book_ID>55</Book_ID>
+        <Title>Streamlined well-modulated migration</Title>
+        <Author>Isabel Wood</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1934</Published_Year>
+        <Price>27.32</Price>
+        <Stock>66</Stock>
+    </item>
+    <item>
+        <Book_ID>56</Book_ID>
+        <Title>Integrated intermediate Internet solution</Title>
+        <Author>Stacy Cabrera</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1976</Published_Year>
+        <Price>7.87</Price>
+        <Stock>67</Stock>
+    </item>
+    <item>
+        <Book_ID>57</Book_ID>
+        <Title>Team-oriented 3rdgeneration encryption</Title>
+        <Author>Sabrina Hernandez DVM</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1962</Published_Year>
+        <Price>23.59</Price>
+        <Stock>27</Stock>
+    </item>
+    <item>
+        <Book_ID>58</Book_ID>
+        <Title>Profound logistical capacity</Title>
+        <Author>Ray Walsh</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1995</Published_Year>
+        <Price>34.54</Price>
+        <Stock>14</Stock>
+    </item>
+    <item>
+        <Book_ID>59</Book_ID>
+        <Title>Distributed directional adapter</Title>
+        <Author>Sarah Smith</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2012</Published_Year>
+        <Price>26</Price>
+        <Stock>41</Stock>
+    </item>
+    <item>
+        <Book_ID>60</Book_ID>
+        <Title>Robust eco-centric capacity</Title>
+        <Author>Brian Haney</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1990</Published_Year>
+        <Price>35.14</Price>
+        <Stock>0</Stock>
+    </item>
+    <item>
+        <Book_ID>61</Book_ID>
+        <Title>Future-proofed upward-trending process improvement</Title>
+        <Author>Gregory Wallace</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1934</Published_Year>
+        <Price>41.05</Price>
+        <Stock>10</Stock>
+    </item>
+    <item>
+        <Book_ID>62</Book_ID>
+        <Title>Re-contextualized real-time strategy</Title>
+        <Author>Nicole Lynch</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1953</Published_Year>
+        <Price>26.34</Price>
+        <Stock>23</Stock>
+    </item>
+    <item>
+        <Book_ID>63</Book_ID>
+        <Title>Polarized heuristic database</Title>
+        <Author>Franklin Mack</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1989</Published_Year>
+        <Price>22.38</Price>
+        <Stock>56</Stock>
+    </item>
+    <item>
+        <Book_ID>64</Book_ID>
+        <Title>Polarized hybrid emulation</Title>
+        <Author>Christopher Washington</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1963</Published_Year>
+        <Price>24.1</Price>
+        <Stock>86</Stock>
+    </item>
+    <item>
+        <Book_ID>65</Book_ID>
+        <Title>Total explicit open architecture</Title>
+        <Author>Zachary Williams</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1982</Published_Year>
+        <Price>22.7</Price>
+        <Stock>7</Stock>
+    </item>
+    <item>
+        <Book_ID>66</Book_ID>
+        <Title>Synergized bandwidth-monitored workforce</Title>
+        <Author>Amy Marks</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1961</Published_Year>
+        <Price>28.29</Price>
+        <Stock>93</Stock>
+    </item>
+    <item>
+        <Book_ID>67</Book_ID>
+        <Title>Grass-roots zero tolerance archive</Title>
+        <Author>Michelle Taylor</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1966</Published_Year>
+        <Price>10.23</Price>
+        <Stock>25</Stock>
+    </item>
+    <item>
+        <Book_ID>68</Book_ID>
+        <Title>Centralized responsive firmware</Title>
+        <Author>Alexander Nelson</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1919</Published_Year>
+        <Price>29.55</Price>
+        <Stock>23</Stock>
+    </item>
+    <item>
+        <Book_ID>69</Book_ID>
+        <Title>Cloned impactful solution</Title>
+        <Author>Nichole Smith</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1961</Published_Year>
+        <Price>8.79</Price>
+        <Stock>50</Stock>
+    </item>
+    <item>
+        <Book_ID>70</Book_ID>
+        <Title>Customer-focused context-sensitive process improvement</Title>
+        <Author>Mary Warren</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2021</Published_Year>
+        <Price>23.45</Price>
+        <Stock>19</Stock>
+    </item>
+    <item>
+        <Book_ID>71</Book_ID>
+        <Title>Organized methodical productivity</Title>
+        <Author>Daniel Santos</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1950</Published_Year>
+        <Price>38.5</Price>
+        <Stock>40</Stock>
+    </item>
+    <item>
+        <Book_ID>72</Book_ID>
+        <Title>Networked contextually-based throughput</Title>
+        <Author>Andrea Eaton</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1959</Published_Year>
+        <Price>46.54</Price>
+        <Stock>65</Stock>
+    </item>
+    <item>
+        <Book_ID>73</Book_ID>
+        <Title>Realigned multi-tasking installation</Title>
+        <Author>Patrick Contreras</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1933</Published_Year>
+        <Price>21.23</Price>
+        <Stock>39</Stock>
+    </item>
+    <item>
+        <Book_ID>74</Book_ID>
+        <Title>Automated scalable installation</Title>
+        <Author>Mitchell Hess</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1986</Published_Year>
+        <Price>45.12</Price>
+        <Stock>83</Stock>
+    </item>
+    <item>
+        <Book_ID>75</Book_ID>
+        <Title>Multi-layered fresh-thinking solution</Title>
+        <Author>James Buckley</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1912</Published_Year>
+        <Price>47.11</Price>
+        <Stock>3</Stock>
+    </item>
+    <item>
+        <Book_ID>76</Book_ID>
+        <Title>Innovative directional matrix</Title>
+        <Author>David Castaneda</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2009</Published_Year>
+        <Price>41.33</Price>
+        <Stock>9</Stock>
+    </item>
+    <item>
+        <Book_ID>77</Book_ID>
+        <Title>Cross-platform asynchronous encryption</Title>
+        <Author>Michelle Edwards</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1935</Published_Year>
+        <Price>44.28</Price>
+        <Stock>88</Stock>
+    </item>
+    <item>
+        <Book_ID>78</Book_ID>
+        <Title>Synergized mobile architecture</Title>
+        <Author>Gregory Perez</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1988</Published_Year>
+        <Price>13.07</Price>
+        <Stock>86</Stock>
+    </item>
+    <item>
+        <Book_ID>79</Book_ID>
+        <Title>Extended actuating encryption</Title>
+        <Author>Kylie Brown</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1935</Published_Year>
+        <Price>32.48</Price>
+        <Stock>4</Stock>
+    </item>
+    <item>
+        <Book_ID>80</Book_ID>
+        <Title>Compatible 24/7 forecast</Title>
+        <Author>Michael Anderson</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1985</Published_Year>
+        <Price>34.84</Price>
+        <Stock>19</Stock>
+    </item>
+    <item>
+        <Book_ID>81</Book_ID>
+        <Title>Team-oriented logistical analyzer</Title>
+        <Author>Scott Gentry</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2010</Published_Year>
+        <Price>44.19</Price>
+        <Stock>13</Stock>
+    </item>
+    <item>
+        <Book_ID>82</Book_ID>
+        <Title>Optimized multi-state capacity</Title>
+        <Author>Sean Griffin</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2001</Published_Year>
+        <Price>45.7</Price>
+        <Stock>38</Stock>
+    </item>
+    <item>
+        <Book_ID>83</Book_ID>
+        <Title>Sharable regional product</Title>
+        <Author>Michael Walker</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2022</Published_Year>
+        <Price>8.94</Price>
+        <Stock>92</Stock>
+    </item>
+    <item>
+        <Book_ID>84</Book_ID>
+        <Title>Stand-alone 24hour interface</Title>
+        <Author>James Ortiz</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1980</Published_Year>
+        <Price>44.59</Price>
+        <Stock>20</Stock>
+    </item>
+    <item>
+        <Book_ID>85</Book_ID>
+        <Title>Enhanced impactful system engine</Title>
+        <Author>Bianca Matthews</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1939</Published_Year>
+        <Price>19.43</Price>
+        <Stock>29</Stock>
+    </item>
+    <item>
+        <Book_ID>86</Book_ID>
+        <Title>Re-engineered 24/7 projection</Title>
+        <Author>Kathryn Williams</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1948</Published_Year>
+        <Price>25.51</Price>
+        <Stock>44</Stock>
+    </item>
+    <item>
+        <Book_ID>87</Book_ID>
+        <Title>Decentralized actuating analyzer</Title>
+        <Author>Robert Johnson</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1986</Published_Year>
+        <Price>34.84</Price>
+        <Stock>98</Stock>
+    </item>
+    <item>
+        <Book_ID>88</Book_ID>
+        <Title>Robust tangible hardware</Title>
+        <Author>Paul Miles</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1999</Published_Year>
+        <Price>40.22</Price>
+        <Stock>32</Stock>
+    </item>
+    <item>
+        <Book_ID>89</Book_ID>
+        <Title>Mandatory exuding monitoring</Title>
+        <Author>Vincent Miles</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1959</Published_Year>
+        <Price>14.72</Price>
+        <Stock>16</Stock>
+    </item>
+    <item>
+        <Book_ID>90</Book_ID>
+        <Title>Business-focused eco-centric help-desk</Title>
+        <Author>Sarah Miller</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1965</Published_Year>
+        <Price>16.56</Price>
+        <Stock>10</Stock>
+    </item>
+    <item>
+        <Book_ID>91</Book_ID>
+        <Title>Integrated exuding application</Title>
+        <Author>Elizabeth Morrison</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1923</Published_Year>
+        <Price>27.82</Price>
+        <Stock>81</Stock>
+    </item>
+    <item>
+        <Book_ID>92</Book_ID>
+        <Title>Switchable context-sensitive productivity</Title>
+        <Author>Ashley Rodriguez</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1911</Published_Year>
+        <Price>34.21</Price>
+        <Stock>58</Stock>
+    </item>
+    <item>
+        <Book_ID>93</Book_ID>
+        <Title>Object-based multimedia algorithm</Title>
+        <Author>Frank Aguilar</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2009</Published_Year>
+        <Price>17.43</Price>
+        <Stock>37</Stock>
+    </item>
+    <item>
+        <Book_ID>94</Book_ID>
+        <Title>Open-source 5thgeneration alliance</Title>
+        <Author>Laurie Allen</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2001</Published_Year>
+        <Price>16.86</Price>
+        <Stock>75</Stock>
+    </item>
+    <item>
+        <Book_ID>95</Book_ID>
+        <Title>Function-based heuristic analyzer</Title>
+        <Author>Craig Smith</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1990</Published_Year>
+        <Price>49.53</Price>
+        <Stock>11</Stock>
+    </item>
+    <item>
+        <Book_ID>96</Book_ID>
+        <Title>Up-sized impactful artificial intelligence</Title>
+        <Author>Rebecca Delgado</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1913</Published_Year>
+        <Price>12.55</Price>
+        <Stock>73</Stock>
+    </item>
+    <item>
+        <Book_ID>97</Book_ID>
+        <Title>Open-architected stable solution</Title>
+        <Author>Chad Nichols</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2017</Published_Year>
+        <Price>45.74</Price>
+        <Stock>70</Stock>
+    </item>
+    <item>
+        <Book_ID>98</Book_ID>
+        <Title>Digitized encompassing definition</Title>
+        <Author>Thomas Gonzales</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1996</Published_Year>
+        <Price>46.71</Price>
+        <Stock>83</Stock>
+    </item>
+    <item>
+        <Book_ID>99</Book_ID>
+        <Title>Optimized heuristic challenge</Title>
+        <Author>Tracy Hendrix</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1962</Published_Year>
+        <Price>46.93</Price>
+        <Stock>26</Stock>
+    </item>
+    <item>
+        <Book_ID>100</Book_ID>
+        <Title>Synchronized client-server service-desk</Title>
+        <Author>James Alvarado</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1906</Published_Year>
+        <Price>49.89</Price>
+        <Stock>29</Stock>
+    </item>
+    <item>
+        <Book_ID>101</Book_ID>
+        <Title>Multi-tiered context-sensitive hub</Title>
+        <Author>Amanda Knight</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1923</Published_Year>
+        <Price>48.49</Price>
+        <Stock>40</Stock>
+    </item>
+    <item>
+        <Book_ID>102</Book_ID>
+        <Title>Ergonomic stable open architecture</Title>
+        <Author>Robin Brown</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1955</Published_Year>
+        <Price>40.22</Price>
+        <Stock>31</Stock>
+    </item>
+    <item>
+        <Book_ID>103</Book_ID>
+        <Title>Upgradable foreground open system</Title>
+        <Author>Kathryn Lopez</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1907</Published_Year>
+        <Price>43.25</Price>
+        <Stock>11</Stock>
+    </item>
+    <item>
+        <Book_ID>104</Book_ID>
+        <Title>Automated radical solution</Title>
+        <Author>Leonard Vega</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1948</Published_Year>
+        <Price>10.56</Price>
+        <Stock>82</Stock>
+    </item>
+    <item>
+        <Book_ID>105</Book_ID>
+        <Title>Expanded explicit neural-net</Title>
+        <Author>Melissa Tucker</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2005</Published_Year>
+        <Price>30.02</Price>
+        <Stock>4</Stock>
+    </item>
+    <item>
+        <Book_ID>106</Book_ID>
+        <Title>Cross-group zero administration utilization</Title>
+        <Author>Mary Barnett</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1988</Published_Year>
+        <Price>29.58</Price>
+        <Stock>80</Stock>
+    </item>
+    <item>
+        <Book_ID>107</Book_ID>
+        <Title>Front-line client-driven projection</Title>
+        <Author>Amy Andrews</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1996</Published_Year>
+        <Price>19.85</Price>
+        <Stock>44</Stock>
+    </item>
+    <item>
+        <Book_ID>108</Book_ID>
+        <Title>Future-proofed fault-tolerant encoding</Title>
+        <Author>Larry Andrews</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1918</Published_Year>
+        <Price>25.38</Price>
+        <Stock>28</Stock>
+    </item>
+    <item>
+        <Book_ID>109</Book_ID>
+        <Title>Operative foreground project</Title>
+        <Author>Valerie Mcfarland</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1970</Published_Year>
+        <Price>8.54</Price>
+        <Stock>60</Stock>
+    </item>
+    <item>
+        <Book_ID>110</Book_ID>
+        <Title>Re-contextualized radical matrix</Title>
+        <Author>Michael Howell</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1903</Published_Year>
+        <Price>30.15</Price>
+        <Stock>2</Stock>
+    </item>
+    <item>
+        <Book_ID>111</Book_ID>
+        <Title>Switchable full-range definition</Title>
+        <Author>Joseph Rivas</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1932</Published_Year>
+        <Price>40.29</Price>
+        <Stock>54</Stock>
+    </item>
+    <item>
+        <Book_ID>112</Book_ID>
+        <Title>Distributed secondary software</Title>
+        <Author>Erik Reynolds</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1969</Published_Year>
+        <Price>8.02</Price>
+        <Stock>21</Stock>
+    </item>
+    <item>
+        <Book_ID>113</Book_ID>
+        <Title>Versatile value-added structure</Title>
+        <Author>Jackson Hill</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1936</Published_Year>
+        <Price>6.38</Price>
+        <Stock>76</Stock>
+    </item>
+    <item>
+        <Book_ID>114</Book_ID>
+        <Title>Open-architected scalable knowledge user</Title>
+        <Author>Mitchell Larson</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2016</Published_Year>
+        <Price>7.28</Price>
+        <Stock>2</Stock>
+    </item>
+    <item>
+        <Book_ID>115</Book_ID>
+        <Title>Upgradable interactive emulation</Title>
+        <Author>Christopher Ross</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2021</Published_Year>
+        <Price>28.12</Price>
+        <Stock>37</Stock>
+    </item>
+    <item>
+        <Book_ID>116</Book_ID>
+        <Title>Multi-tiered foreground contingency</Title>
+        <Author>Jamie Gates</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1938</Published_Year>
+        <Price>41.82</Price>
+        <Stock>50</Stock>
+    </item>
+    <item>
+        <Book_ID>117</Book_ID>
+        <Title>Self-enabling contextually-based frame</Title>
+        <Author>Lori Taylor</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1966</Published_Year>
+        <Price>14.87</Price>
+        <Stock>20</Stock>
+    </item>
+    <item>
+        <Book_ID>118</Book_ID>
+        <Title>Profound didactic leverage</Title>
+        <Author>Andrew Murphy</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>2017</Published_Year>
+        <Price>5.52</Price>
+        <Stock>22</Stock>
+    </item>
+    <item>
+        <Book_ID>119</Book_ID>
+        <Title>Switchable modular moratorium</Title>
+        <Author>Tonya Saunders</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2010</Published_Year>
+        <Price>49.88</Price>
+        <Stock>76</Stock>
+    </item>
+    <item>
+        <Book_ID>120</Book_ID>
+        <Title>Integrated secondary access</Title>
+        <Author>Sheena Harris</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1984</Published_Year>
+        <Price>48.03</Price>
+        <Stock>93</Stock>
+    </item>
+    <item>
+        <Book_ID>121</Book_ID>
+        <Title>Switchable needs-based strategy</Title>
+        <Author>Richard Fisher</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1957</Published_Year>
+        <Price>42.47</Price>
+        <Stock>38</Stock>
+    </item>
+    <item>
+        <Book_ID>122</Book_ID>
+        <Title>Profound leadingedge capability</Title>
+        <Author>Mary French</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1992</Published_Year>
+        <Price>30.75</Price>
+        <Stock>17</Stock>
+    </item>
+    <item>
+        <Book_ID>123</Book_ID>
+        <Title>Enterprise-wide dedicated knowledge user</Title>
+        <Author>Jordan Merritt</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1938</Published_Year>
+        <Price>37.6</Price>
+        <Stock>16</Stock>
+    </item>
+    <item>
+        <Book_ID>124</Book_ID>
+        <Title>Seamless demand-driven focus group</Title>
+        <Author>Matthew Fuentes</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1968</Published_Year>
+        <Price>27.1</Price>
+        <Stock>11</Stock>
+    </item>
+    <item>
+        <Book_ID>125</Book_ID>
+        <Title>Public-key analyzing Graphic Interface</Title>
+        <Author>Abigail Madden</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1990</Published_Year>
+        <Price>32.41</Price>
+        <Stock>16</Stock>
+    </item>
+    <item>
+        <Book_ID>126</Book_ID>
+        <Title>Persevering national encoding</Title>
+        <Author>Paul Moore</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1949</Published_Year>
+        <Price>25.33</Price>
+        <Stock>78</Stock>
+    </item>
+    <item>
+        <Book_ID>127</Book_ID>
+        <Title>Business-focused real-time benchmark</Title>
+        <Author>David Nelson</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1997</Published_Year>
+        <Price>11.66</Price>
+        <Stock>0</Stock>
+    </item>
+    <item>
+        <Book_ID>128</Book_ID>
+        <Title>Visionary modular productivity</Title>
+        <Author>Ruben Nichols</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1949</Published_Year>
+        <Price>24.04</Price>
+        <Stock>35</Stock>
+    </item>
+    <item>
+        <Book_ID>129</Book_ID>
+        <Title>Decentralized multi-tasking data-warehouse</Title>
+        <Author>Dr. Kelly Armstrong</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1959</Published_Year>
+        <Price>40.74</Price>
+        <Stock>29</Stock>
+    </item>
+    <item>
+        <Book_ID>130</Book_ID>
+        <Title>Realigned context-sensitive pricing structure</Title>
+        <Author>Jason Rodriguez</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>2004</Published_Year>
+        <Price>6.64</Price>
+        <Stock>90</Stock>
+    </item>
+    <item>
+        <Book_ID>131</Book_ID>
+        <Title>Proactive 6thgeneration methodology</Title>
+        <Author>Betty Carroll</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1902</Published_Year>
+        <Price>27.28</Price>
+        <Stock>11</Stock>
+    </item>
+    <item>
+        <Book_ID>132</Book_ID>
+        <Title>Multi-lateral methodical implementation</Title>
+        <Author>Lauren Moore</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1907</Published_Year>
+        <Price>20.46</Price>
+        <Stock>53</Stock>
+    </item>
+    <item>
+        <Book_ID>133</Book_ID>
+        <Title>Reduced discrete leverage</Title>
+        <Author>Zachary Buchanan</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1911</Published_Year>
+        <Price>20.96</Price>
+        <Stock>90</Stock>
+    </item>
+    <item>
+        <Book_ID>134</Book_ID>
+        <Title>Polarized bandwidth-monitored throughput</Title>
+        <Author>Linda Newman</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1955</Published_Year>
+        <Price>35.72</Price>
+        <Stock>49</Stock>
+    </item>
+    <item>
+        <Book_ID>135</Book_ID>
+        <Title>Customizable bi-directional focus group</Title>
+        <Author>Kristin Farley</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2001</Published_Year>
+        <Price>15.13</Price>
+        <Stock>83</Stock>
+    </item>
+    <item>
+        <Book_ID>136</Book_ID>
+        <Title>Stand-alone intangible installation</Title>
+        <Author>Morgan Mata</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2012</Published_Year>
+        <Price>9.89</Price>
+        <Stock>84</Stock>
+    </item>
+    <item>
+        <Book_ID>137</Book_ID>
+        <Title>Networked contextually-based encryption</Title>
+        <Author>Leslie Montoya</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1942</Published_Year>
+        <Price>26.33</Price>
+        <Stock>1</Stock>
+    </item>
+    <item>
+        <Book_ID>138</Book_ID>
+        <Title>Profound zero-defect knowledgebase</Title>
+        <Author>Carolyn Garcia</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1978</Published_Year>
+        <Price>24.77</Price>
+        <Stock>8</Stock>
+    </item>
+    <item>
+        <Book_ID>139</Book_ID>
+        <Title>Synergistic analyzing intranet</Title>
+        <Author>Robert Garcia</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1923</Published_Year>
+        <Price>35.4</Price>
+        <Stock>51</Stock>
+    </item>
+    <item>
+        <Book_ID>140</Book_ID>
+        <Title>Assimilated asymmetric Local Area Network</Title>
+        <Author>Timothy Williams</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2003</Published_Year>
+        <Price>31.49</Price>
+        <Stock>6</Stock>
+    </item>
+    <item>
+        <Book_ID>141</Book_ID>
+        <Title>Exclusive hybrid monitoring</Title>
+        <Author>Dr. Heather Boyd</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1909</Published_Year>
+        <Price>49.42</Price>
+        <Stock>36</Stock>
+    </item>
+    <item>
+        <Book_ID>142</Book_ID>
+        <Title>Multi-tiered responsive parallelism</Title>
+        <Author>Amanda Wilson</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1940</Published_Year>
+        <Price>48.96</Price>
+        <Stock>11</Stock>
+    </item>
+    <item>
+        <Book_ID>143</Book_ID>
+        <Title>Networked multimedia support</Title>
+        <Author>Nancy Goodman</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>2012</Published_Year>
+        <Price>43.65</Price>
+        <Stock>50</Stock>
+    </item>
+    <item>
+        <Book_ID>144</Book_ID>
+        <Title>Future-proofed scalable software</Title>
+        <Author>Matthew Wolf</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1945</Published_Year>
+        <Price>19.27</Price>
+        <Stock>90</Stock>
+    </item>
+    <item>
+        <Book_ID>145</Book_ID>
+        <Title>Phased eco-centric array</Title>
+        <Author>Barry Bennett</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1905</Published_Year>
+        <Price>22.53</Price>
+        <Stock>57</Stock>
+    </item>
+    <item>
+        <Book_ID>146</Book_ID>
+        <Title>Stand-alone hybrid framework</Title>
+        <Author>Ethan Kennedy</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1903</Published_Year>
+        <Price>14.5</Price>
+        <Stock>91</Stock>
+    </item>
+    <item>
+        <Book_ID>147</Book_ID>
+        <Title>Innovative empowering concept</Title>
+        <Author>Brad Vasquez</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1964</Published_Year>
+        <Price>45.2</Price>
+        <Stock>74</Stock>
+    </item>
+    <item>
+        <Book_ID>148</Book_ID>
+        <Title>Upgradable contextually-based hierarchy</Title>
+        <Author>Jared Reyes</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1941</Published_Year>
+        <Price>12.25</Price>
+        <Stock>97</Stock>
+    </item>
+    <item>
+        <Book_ID>149</Book_ID>
+        <Title>Expanded explicit solution</Title>
+        <Author>Tonya Robertson</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1957</Published_Year>
+        <Price>17.09</Price>
+        <Stock>73</Stock>
+    </item>
+    <item>
+        <Book_ID>150</Book_ID>
+        <Title>Phased logistical open system</Title>
+        <Author>Jenna Henderson</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1952</Published_Year>
+        <Price>31.95</Price>
+        <Stock>32</Stock>
+    </item>
+    <item>
+        <Book_ID>151</Book_ID>
+        <Title>Innovative real-time neural-net</Title>
+        <Author>David Miller</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1998</Published_Year>
+        <Price>33.87</Price>
+        <Stock>38</Stock>
+    </item>
+    <item>
+        <Book_ID>152</Book_ID>
+        <Title>Advanced dynamic complexity</Title>
+        <Author>Elizabeth Ayala</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1983</Published_Year>
+        <Price>46.77</Price>
+        <Stock>84</Stock>
+    </item>
+    <item>
+        <Book_ID>153</Book_ID>
+        <Title>Synergistic needs-based capability</Title>
+        <Author>Aaron Alvarez</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1950</Published_Year>
+        <Price>8.05</Price>
+        <Stock>52</Stock>
+    </item>
+    <item>
+        <Book_ID>154</Book_ID>
+        <Title>Horizontal hybrid forecast</Title>
+        <Author>Alexander Wallace</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1919</Published_Year>
+        <Price>17.44</Price>
+        <Stock>19</Stock>
+    </item>
+    <item>
+        <Book_ID>155</Book_ID>
+        <Title>Optimized content-based standardization</Title>
+        <Author>Timothy Adams</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1901</Published_Year>
+        <Price>49.96</Price>
+        <Stock>88</Stock>
+    </item>
+    <item>
+        <Book_ID>156</Book_ID>
+        <Title>Synergistic grid-enabled website</Title>
+        <Author>Brandon Black</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1953</Published_Year>
+        <Price>31.68</Price>
+        <Stock>34</Stock>
+    </item>
+    <item>
+        <Book_ID>157</Book_ID>
+        <Title>Advanced didactic time-frame</Title>
+        <Author>Thomas Trujillo</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2005</Published_Year>
+        <Price>19.17</Price>
+        <Stock>57</Stock>
+    </item>
+    <item>
+        <Book_ID>158</Book_ID>
+        <Title>Digitized optimal intranet</Title>
+        <Author>James Silva</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1919</Published_Year>
+        <Price>24.69</Price>
+        <Stock>40</Stock>
+    </item>
+    <item>
+        <Book_ID>159</Book_ID>
+        <Title>Proactive 5thgeneration middleware</Title>
+        <Author>Brandon Foster</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1999</Published_Year>
+        <Price>36.21</Price>
+        <Stock>49</Stock>
+    </item>
+    <item>
+        <Book_ID>160</Book_ID>
+        <Title>Digitized cohesive emulation</Title>
+        <Author>Jared Cortez</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1924</Published_Year>
+        <Price>34.48</Price>
+        <Stock>65</Stock>
+    </item>
+    <item>
+        <Book_ID>161</Book_ID>
+        <Title>Focused high-level strategy</Title>
+        <Author>Stephanie Sloan</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1963</Published_Year>
+        <Price>21.6</Price>
+        <Stock>11</Stock>
+    </item>
+    <item>
+        <Book_ID>162</Book_ID>
+        <Title>Centralized maximized database</Title>
+        <Author>Tracy Pace</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1981</Published_Year>
+        <Price>48.84</Price>
+        <Stock>64</Stock>
+    </item>
+    <item>
+        <Book_ID>163</Book_ID>
+        <Title>Object-based eco-centric challenge</Title>
+        <Author>Douglas Mccarthy</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1905</Published_Year>
+        <Price>19.11</Price>
+        <Stock>0</Stock>
+    </item>
+    <item>
+        <Book_ID>164</Book_ID>
+        <Title>Expanded scalable time-frame</Title>
+        <Author>Ashley Mason</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2013</Published_Year>
+        <Price>41.83</Price>
+        <Stock>4</Stock>
+    </item>
+    <item>
+        <Book_ID>165</Book_ID>
+        <Title>Exclusive uniform superstructure</Title>
+        <Author>Carl Cantrell</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1912</Published_Year>
+        <Price>32.1</Price>
+        <Stock>19</Stock>
+    </item>
+    <item>
+        <Book_ID>166</Book_ID>
+        <Title>Customizable discrete Graphical User Interface</Title>
+        <Author>Rebecca Alexander</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1951</Published_Year>
+        <Price>11.02</Price>
+        <Stock>56</Stock>
+    </item>
+    <item>
+        <Book_ID>167</Book_ID>
+        <Title>User-friendly radical standardization</Title>
+        <Author>Leon Davis</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1954</Published_Year>
+        <Price>36.02</Price>
+        <Stock>55</Stock>
+    </item>
+    <item>
+        <Book_ID>168</Book_ID>
+        <Title>Vision-oriented radical capability</Title>
+        <Author>Tracy Parker</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2018</Published_Year>
+        <Price>14.13</Price>
+        <Stock>61</Stock>
+    </item>
+    <item>
+        <Book_ID>169</Book_ID>
+        <Title>Networked tertiary approach</Title>
+        <Author>Margaret Moore</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1963</Published_Year>
+        <Price>23.57</Price>
+        <Stock>45</Stock>
+    </item>
+    <item>
+        <Book_ID>170</Book_ID>
+        <Title>Optional stable matrix</Title>
+        <Author>Michael Wells</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1947</Published_Year>
+        <Price>11.28</Price>
+        <Stock>62</Stock>
+    </item>
+    <item>
+        <Book_ID>171</Book_ID>
+        <Title>Integrated hybrid collaboration</Title>
+        <Author>Sarah Vincent</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2004</Published_Year>
+        <Price>32.15</Price>
+        <Stock>99</Stock>
+    </item>
+    <item>
+        <Book_ID>172</Book_ID>
+        <Title>Centralized homogeneous open system</Title>
+        <Author>Dennis Smith</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1977</Published_Year>
+        <Price>36.82</Price>
+        <Stock>97</Stock>
+    </item>
+    <item>
+        <Book_ID>173</Book_ID>
+        <Title>Ergonomic foreground Graphic Interface</Title>
+        <Author>Patrick Williams</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1948</Published_Year>
+        <Price>6.07</Price>
+        <Stock>100</Stock>
+    </item>
+    <item>
+        <Book_ID>174</Book_ID>
+        <Title>Pre-emptive executive knowledge user</Title>
+        <Author>Rebecca Mann</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1951</Published_Year>
+        <Price>37.83</Price>
+        <Stock>18</Stock>
+    </item>
+    <item>
+        <Book_ID>175</Book_ID>
+        <Title>Networked disintermediate projection</Title>
+        <Author>John Bradley</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1910</Published_Year>
+        <Price>32.85</Price>
+        <Stock>39</Stock>
+    </item>
+    <item>
+        <Book_ID>176</Book_ID>
+        <Title>Fundamental system-worthy parallelism</Title>
+        <Author>Cameron Garcia</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1924</Published_Year>
+        <Price>16.11</Price>
+        <Stock>52</Stock>
+    </item>
+    <item>
+        <Book_ID>177</Book_ID>
+        <Title>Visionary exuding product</Title>
+        <Author>Christopher Johnson</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1904</Published_Year>
+        <Price>36.2</Price>
+        <Stock>3</Stock>
+    </item>
+    <item>
+        <Book_ID>178</Book_ID>
+        <Title>Organized even-keeled conglomeration</Title>
+        <Author>Christopher Ray</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1970</Published_Year>
+        <Price>27.89</Price>
+        <Stock>31</Stock>
+    </item>
+    <item>
+        <Book_ID>179</Book_ID>
+        <Title>Innovative didactic capacity</Title>
+        <Author>Matthew Vazquez</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2009</Published_Year>
+        <Price>48.21</Price>
+        <Stock>66</Stock>
+    </item>
+    <item>
+        <Book_ID>180</Book_ID>
+        <Title>Front-line discrete complexity</Title>
+        <Author>David Rodriguez</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2001</Published_Year>
+        <Price>25.09</Price>
+        <Stock>14</Stock>
+    </item>
+    <item>
+        <Book_ID>181</Book_ID>
+        <Title>Balanced object-oriented Graphic Interface</Title>
+        <Author>Dylan Christensen</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1987</Published_Year>
+        <Price>38.73</Price>
+        <Stock>85</Stock>
+    </item>
+    <item>
+        <Book_ID>182</Book_ID>
+        <Title>Reduced bottom-line forecast</Title>
+        <Author>Virginia Butler</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2014</Published_Year>
+        <Price>23.76</Price>
+        <Stock>9</Stock>
+    </item>
+    <item>
+        <Book_ID>183</Book_ID>
+        <Title>Total exuding project</Title>
+        <Author>Richard Curtis</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2001</Published_Year>
+        <Price>15.4</Price>
+        <Stock>6</Stock>
+    </item>
+    <item>
+        <Book_ID>184</Book_ID>
+        <Title>Enterprise-wide solution-oriented challenge</Title>
+        <Author>Megan Jones</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1978</Published_Year>
+        <Price>5.25</Price>
+        <Stock>22</Stock>
+    </item>
+    <item>
+        <Book_ID>185</Book_ID>
+        <Title>Networked object-oriented definition</Title>
+        <Author>Kelly Vazquez</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1940</Published_Year>
+        <Price>21.98</Price>
+        <Stock>10</Stock>
+    </item>
+    <item>
+        <Book_ID>186</Book_ID>
+        <Title>Sharable executive conglomeration</Title>
+        <Author>Pam Price</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1938</Published_Year>
+        <Price>41.33</Price>
+        <Stock>4</Stock>
+    </item>
+    <item>
+        <Book_ID>187</Book_ID>
+        <Title>Total well-modulated groupware</Title>
+        <Author>Kenneth Phillips</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1989</Published_Year>
+        <Price>22.98</Price>
+        <Stock>7</Stock>
+    </item>
+    <item>
+        <Book_ID>188</Book_ID>
+        <Title>Switchable value-added conglomeration</Title>
+        <Author>Clinton Mcintyre MD</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2014</Published_Year>
+        <Price>20.14</Price>
+        <Stock>73</Stock>
+    </item>
+    <item>
+        <Book_ID>189</Book_ID>
+        <Title>Grass-roots eco-centric task-force</Title>
+        <Author>Brandon Munoz</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1989</Published_Year>
+        <Price>13.65</Price>
+        <Stock>88</Stock>
+    </item>
+    <item>
+        <Book_ID>190</Book_ID>
+        <Title>Cross-platform even-keeled focus group</Title>
+        <Author>Andrew Parker</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2016</Published_Year>
+        <Price>38.36</Price>
+        <Stock>4</Stock>
+    </item>
+    <item>
+        <Book_ID>191</Book_ID>
+        <Title>Multi-layered 24hour infrastructure</Title>
+        <Author>Casey Moreno</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1911</Published_Year>
+        <Price>42.19</Price>
+        <Stock>8</Stock>
+    </item>
+    <item>
+        <Book_ID>192</Book_ID>
+        <Title>Phased solution-oriented collaboration</Title>
+        <Author>Nicholas Roth</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1930</Published_Year>
+        <Price>48.37</Price>
+        <Stock>71</Stock>
+    </item>
+    <item>
+        <Book_ID>193</Book_ID>
+        <Title>Customer-focused tertiary methodology</Title>
+        <Author>Justin Garcia</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1954</Published_Year>
+        <Price>29.54</Price>
+        <Stock>100</Stock>
+    </item>
+    <item>
+        <Book_ID>194</Book_ID>
+        <Title>Digitized content-based time-frame</Title>
+        <Author>Deborah White</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1982</Published_Year>
+        <Price>33.88</Price>
+        <Stock>64</Stock>
+    </item>
+    <item>
+        <Book_ID>195</Book_ID>
+        <Title>Sharable tangible collaboration</Title>
+        <Author>Christian Ward</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2021</Published_Year>
+        <Price>11.63</Price>
+        <Stock>20</Stock>
+    </item>
+    <item>
+        <Book_ID>196</Book_ID>
+        <Title>Phased context-sensitive task-force</Title>
+        <Author>Rachel Gibbs</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1934</Published_Year>
+        <Price>6.69</Price>
+        <Stock>24</Stock>
+    </item>
+    <item>
+        <Book_ID>197</Book_ID>
+        <Title>Organized content-based core</Title>
+        <Author>Brandon Martin</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1980</Published_Year>
+        <Price>43.03</Price>
+        <Stock>9</Stock>
+    </item>
+    <item>
+        <Book_ID>198</Book_ID>
+        <Title>Persevering tertiary product</Title>
+        <Author>Michael Lee</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1917</Published_Year>
+        <Price>22.38</Price>
+        <Stock>80</Stock>
+    </item>
+    <item>
+        <Book_ID>199</Book_ID>
+        <Title>Configurable fault-tolerant interface</Title>
+        <Author>Mark Parker</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1923</Published_Year>
+        <Price>42.81</Price>
+        <Stock>1</Stock>
+    </item>
+    <item>
+        <Book_ID>200</Book_ID>
+        <Title>Right-sized modular synergy</Title>
+        <Author>Marie Smith</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1939</Published_Year>
+        <Price>9.96</Price>
+        <Stock>32</Stock>
+    </item>
+    <item>
+        <Book_ID>201</Book_ID>
+        <Title>Secured 24/7 groupware</Title>
+        <Author>Alexander Smith</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1915</Published_Year>
+        <Price>37.25</Price>
+        <Stock>11</Stock>
+    </item>
+    <item>
+        <Book_ID>202</Book_ID>
+        <Title>Balanced optimal open architecture</Title>
+        <Author>Lindsey Johnson</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1964</Published_Year>
+        <Price>12.26</Price>
+        <Stock>32</Stock>
+    </item>
+    <item>
+        <Book_ID>203</Book_ID>
+        <Title>Self-enabling mobile software</Title>
+        <Author>Stephanie Frost</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2003</Published_Year>
+        <Price>27.22</Price>
+        <Stock>52</Stock>
+    </item>
+    <item>
+        <Book_ID>204</Book_ID>
+        <Title>Business-focused foreground model</Title>
+        <Author>Heather Zavala</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1921</Published_Year>
+        <Price>26.52</Price>
+        <Stock>59</Stock>
+    </item>
+    <item>
+        <Book_ID>205</Book_ID>
+        <Title>De-engineered attitude-oriented software</Title>
+        <Author>Anthony Martin</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1990</Published_Year>
+        <Price>5.83</Price>
+        <Stock>8</Stock>
+    </item>
+    <item>
+        <Book_ID>206</Book_ID>
+        <Title>Digitized executive flexibility</Title>
+        <Author>Lisa Lopez</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1960</Published_Year>
+        <Price>38.01</Price>
+        <Stock>84</Stock>
+    </item>
+    <item>
+        <Book_ID>207</Book_ID>
+        <Title>Total intangible application</Title>
+        <Author>Michael Booker</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1922</Published_Year>
+        <Price>6.67</Price>
+        <Stock>53</Stock>
+    </item>
+    <item>
+        <Book_ID>208</Book_ID>
+        <Title>Synergized intangible methodology</Title>
+        <Author>Ellen Doyle</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1917</Published_Year>
+        <Price>25</Price>
+        <Stock>83</Stock>
+    </item>
+    <item>
+        <Book_ID>209</Book_ID>
+        <Title>Distributed modular capability</Title>
+        <Author>Nicole Berger</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1979</Published_Year>
+        <Price>48.67</Price>
+        <Stock>63</Stock>
+    </item>
+    <item>
+        <Book_ID>210</Book_ID>
+        <Title>Centralized 6thgeneration model</Title>
+        <Author>Yolanda Mclean</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1971</Published_Year>
+        <Price>40.93</Price>
+        <Stock>51</Stock>
+    </item>
+    <item>
+        <Book_ID>211</Book_ID>
+        <Title>Centralized asymmetric data-warehouse</Title>
+        <Author>Dana Ibarra</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1944</Published_Year>
+        <Price>16.19</Price>
+        <Stock>44</Stock>
+    </item>
+    <item>
+        <Book_ID>212</Book_ID>
+        <Title>Diverse 4thgeneration knowledge user</Title>
+        <Author>Lindsey Lucas</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1950</Published_Year>
+        <Price>18.69</Price>
+        <Stock>35</Stock>
+    </item>
+    <item>
+        <Book_ID>213</Book_ID>
+        <Title>Synchronized transitional alliance</Title>
+        <Author>Joseph Holt</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1903</Published_Year>
+        <Price>6.79</Price>
+        <Stock>35</Stock>
+    </item>
+    <item>
+        <Book_ID>214</Book_ID>
+        <Title>Fundamental methodical open architecture</Title>
+        <Author>Jeffery Green</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>2005</Published_Year>
+        <Price>18.16</Price>
+        <Stock>47</Stock>
+    </item>
+    <item>
+        <Book_ID>215</Book_ID>
+        <Title>Organic 24/7 focus group</Title>
+        <Author>Marco Travis</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1910</Published_Year>
+        <Price>25.16</Price>
+        <Stock>37</Stock>
+    </item>
+    <item>
+        <Book_ID>216</Book_ID>
+        <Title>Down-sized mobile extranet</Title>
+        <Author>Mary Carter</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2019</Published_Year>
+        <Price>24.63</Price>
+        <Stock>92</Stock>
+    </item>
+    <item>
+        <Book_ID>217</Book_ID>
+        <Title>Open-source 3rdgeneration secured line</Title>
+        <Author>Christina Terrell</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2019</Published_Year>
+        <Price>35.38</Price>
+        <Stock>98</Stock>
+    </item>
+    <item>
+        <Book_ID>218</Book_ID>
+        <Title>User-friendly tertiary forecast</Title>
+        <Author>Malik Stephens</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1948</Published_Year>
+        <Price>5.36</Price>
+        <Stock>34</Stock>
+    </item>
+    <item>
+        <Book_ID>219</Book_ID>
+        <Title>Reactive bandwidth-monitored architecture</Title>
+        <Author>Michele Williams</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1961</Published_Year>
+        <Price>20.9</Price>
+        <Stock>32</Stock>
+    </item>
+    <item>
+        <Book_ID>220</Book_ID>
+        <Title>Multi-lateral zero-defect matrix</Title>
+        <Author>Nicole Hughes</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1904</Published_Year>
+        <Price>16.51</Price>
+        <Stock>60</Stock>
+    </item>
+    <item>
+        <Book_ID>221</Book_ID>
+        <Title>Re-engineered solution-oriented extranet</Title>
+        <Author>Robert Castaneda</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1988</Published_Year>
+        <Price>24.81</Price>
+        <Stock>2</Stock>
+    </item>
+    <item>
+        <Book_ID>222</Book_ID>
+        <Title>Virtual fault-tolerant model</Title>
+        <Author>Scott Wells</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1928</Published_Year>
+        <Price>29.59</Price>
+        <Stock>75</Stock>
+    </item>
+    <item>
+        <Book_ID>223</Book_ID>
+        <Title>Virtual holistic Internet solution</Title>
+        <Author>Lauren Merritt</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1944</Published_Year>
+        <Price>6.52</Price>
+        <Stock>95</Stock>
+    </item>
+    <item>
+        <Book_ID>224</Book_ID>
+        <Title>Multi-channeled coherent protocol</Title>
+        <Author>Joseph Jensen</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2007</Published_Year>
+        <Price>42.15</Price>
+        <Stock>80</Stock>
+    </item>
+    <item>
+        <Book_ID>225</Book_ID>
+        <Title>Synergized foreground website</Title>
+        <Author>Carrie Ware</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1976</Published_Year>
+        <Price>36.04</Price>
+        <Stock>26</Stock>
+    </item>
+    <item>
+        <Book_ID>226</Book_ID>
+        <Title>Devolved optimizing leverage</Title>
+        <Author>Thomas Anderson</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1913</Published_Year>
+        <Price>27.22</Price>
+        <Stock>68</Stock>
+    </item>
+    <item>
+        <Book_ID>227</Book_ID>
+        <Title>Centralized context-sensitive functionalities</Title>
+        <Author>Virginia Levine</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1900</Published_Year>
+        <Price>38.17</Price>
+        <Stock>78</Stock>
+    </item>
+    <item>
+        <Book_ID>228</Book_ID>
+        <Title>Managed object-oriented hardware</Title>
+        <Author>Ashley Gonzalez</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1975</Published_Year>
+        <Price>30.75</Price>
+        <Stock>5</Stock>
+    </item>
+    <item>
+        <Book_ID>229</Book_ID>
+        <Title>Managed hybrid array</Title>
+        <Author>Charles Smith</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1965</Published_Year>
+        <Price>20.46</Price>
+        <Stock>78</Stock>
+    </item>
+    <item>
+        <Book_ID>230</Book_ID>
+        <Title>Optional cohesive methodology</Title>
+        <Author>Jerome Lee</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1977</Published_Year>
+        <Price>6.1</Price>
+        <Stock>59</Stock>
+    </item>
+    <item>
+        <Book_ID>231</Book_ID>
+        <Title>Polarized maximized challenge</Title>
+        <Author>Steven Davis</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1986</Published_Year>
+        <Price>9.37</Price>
+        <Stock>84</Stock>
+    </item>
+    <item>
+        <Book_ID>232</Book_ID>
+        <Title>Monitored 24/7 groupware</Title>
+        <Author>Vicki Mcgee</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1925</Published_Year>
+        <Price>9.62</Price>
+        <Stock>1</Stock>
+    </item>
+    <item>
+        <Book_ID>233</Book_ID>
+        <Title>Team-oriented client-driven adapter</Title>
+        <Author>Adrian Avery</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2011</Published_Year>
+        <Price>10.39</Price>
+        <Stock>47</Stock>
+    </item>
+    <item>
+        <Book_ID>234</Book_ID>
+        <Title>Total reciprocal monitoring</Title>
+        <Author>Reginald Chavez</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2006</Published_Year>
+        <Price>7.15</Price>
+        <Stock>9</Stock>
+    </item>
+    <item>
+        <Book_ID>235</Book_ID>
+        <Title>Organized secondary protocol</Title>
+        <Author>Andrew Brown</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1957</Published_Year>
+        <Price>15.66</Price>
+        <Stock>19</Stock>
+    </item>
+    <item>
+        <Book_ID>236</Book_ID>
+        <Title>Assimilated disintermediate ability</Title>
+        <Author>Christopher Anderson</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1948</Published_Year>
+        <Price>10.78</Price>
+        <Stock>87</Stock>
+    </item>
+    <item>
+        <Book_ID>237</Book_ID>
+        <Title>Down-sized holistic hardware</Title>
+        <Author>Paul Williams</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1905</Published_Year>
+        <Price>40.43</Price>
+        <Stock>42</Stock>
+    </item>
+    <item>
+        <Book_ID>238</Book_ID>
+        <Title>Optimized even-keeled analyzer</Title>
+        <Author>Sherri Griffith</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1975</Published_Year>
+        <Price>48.97</Price>
+        <Stock>72</Stock>
+    </item>
+    <item>
+        <Book_ID>239</Book_ID>
+        <Title>Devolved encompassing intranet</Title>
+        <Author>Linda Rasmussen</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1922</Published_Year>
+        <Price>44.51</Price>
+        <Stock>55</Stock>
+    </item>
+    <item>
+        <Book_ID>240</Book_ID>
+        <Title>Stand-alone content-based hub</Title>
+        <Author>Lisa Ellis</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1957</Published_Year>
+        <Price>49.9</Price>
+        <Stock>41</Stock>
+    </item>
+    <item>
+        <Book_ID>241</Book_ID>
+        <Title>Up-sized fault-tolerant hub</Title>
+        <Author>Taylor Wang</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>2015</Published_Year>
+        <Price>14.06</Price>
+        <Stock>38</Stock>
+    </item>
+    <item>
+        <Book_ID>242</Book_ID>
+        <Title>Business-focused responsive parallelism</Title>
+        <Author>Amy Reyes</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1954</Published_Year>
+        <Price>33.79</Price>
+        <Stock>38</Stock>
+    </item>
+    <item>
+        <Book_ID>243</Book_ID>
+        <Title>Automated systemic toolset</Title>
+        <Author>Tiffany Conley</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1953</Published_Year>
+        <Price>8.87</Price>
+        <Stock>65</Stock>
+    </item>
+    <item>
+        <Book_ID>244</Book_ID>
+        <Title>Managed radical superstructure</Title>
+        <Author>David Hoover</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1968</Published_Year>
+        <Price>7.37</Price>
+        <Stock>88</Stock>
+    </item>
+    <item>
+        <Book_ID>245</Book_ID>
+        <Title>Automated client-driven open architecture</Title>
+        <Author>Jose Brown</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2000</Published_Year>
+        <Price>16.06</Price>
+        <Stock>18</Stock>
+    </item>
+    <item>
+        <Book_ID>246</Book_ID>
+        <Title>Visionary actuating ability</Title>
+        <Author>Paul Taylor</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1940</Published_Year>
+        <Price>7.43</Price>
+        <Stock>98</Stock>
+    </item>
+    <item>
+        <Book_ID>247</Book_ID>
+        <Title>Innovative actuating instruction set</Title>
+        <Author>Ashley Hill</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1934</Published_Year>
+        <Price>24.42</Price>
+        <Stock>45</Stock>
+    </item>
+    <item>
+        <Book_ID>248</Book_ID>
+        <Title>Cross-group responsive protocol</Title>
+        <Author>Cathy Knight</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2021</Published_Year>
+        <Price>46.99</Price>
+        <Stock>68</Stock>
+    </item>
+    <item>
+        <Book_ID>249</Book_ID>
+        <Title>Fundamental national infrastructure</Title>
+        <Author>Nancy Austin</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1928</Published_Year>
+        <Price>32.95</Price>
+        <Stock>58</Stock>
+    </item>
+    <item>
+        <Book_ID>250</Book_ID>
+        <Title>Devolved incremental intranet</Title>
+        <Author>Jessica Lopez</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1918</Published_Year>
+        <Price>12.65</Price>
+        <Stock>13</Stock>
+    </item>
+    <item>
+        <Book_ID>251</Book_ID>
+        <Title>Seamless 5thgeneration challenge</Title>
+        <Author>Michelle Harris</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1906</Published_Year>
+        <Price>8.87</Price>
+        <Stock>98</Stock>
+    </item>
+    <item>
+        <Book_ID>252</Book_ID>
+        <Title>Down-sized high-level encoding</Title>
+        <Author>Gabriela Russell MD</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1902</Published_Year>
+        <Price>12.62</Price>
+        <Stock>43</Stock>
+    </item>
+    <item>
+        <Book_ID>253</Book_ID>
+        <Title>Horizontal didactic structure</Title>
+        <Author>Robert Rodriguez</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1961</Published_Year>
+        <Price>11.66</Price>
+        <Stock>21</Stock>
+    </item>
+    <item>
+        <Book_ID>254</Book_ID>
+        <Title>Team-oriented bandwidth-monitored project</Title>
+        <Author>Jacqueline Ramsey</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1916</Published_Year>
+        <Price>42.57</Price>
+        <Stock>100</Stock>
+    </item>
+    <item>
+        <Book_ID>255</Book_ID>
+        <Title>Switchable impactful superstructure</Title>
+        <Author>Amber Wells</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1906</Published_Year>
+        <Price>24.51</Price>
+        <Stock>24</Stock>
+    </item>
+    <item>
+        <Book_ID>256</Book_ID>
+        <Title>Digitized multi-state circuit</Title>
+        <Author>Sarah Walker</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1981</Published_Year>
+        <Price>36.86</Price>
+        <Stock>77</Stock>
+    </item>
+    <item>
+        <Book_ID>257</Book_ID>
+        <Title>Multi-channeled 24/7 functionalities</Title>
+        <Author>William Pierce</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1935</Published_Year>
+        <Price>21.14</Price>
+        <Stock>33</Stock>
+    </item>
+    <item>
+        <Book_ID>258</Book_ID>
+        <Title>Robust systemic Graphical User Interface</Title>
+        <Author>Kyle Carter</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1916</Published_Year>
+        <Price>9.95</Price>
+        <Stock>6</Stock>
+    </item>
+    <item>
+        <Book_ID>259</Book_ID>
+        <Title>Pre-emptive incremental secured line</Title>
+        <Author>Jason Perez</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1994</Published_Year>
+        <Price>14.48</Price>
+        <Stock>1</Stock>
+    </item>
+    <item>
+        <Book_ID>260</Book_ID>
+        <Title>Business-focused methodical application</Title>
+        <Author>Brian King</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1907</Published_Year>
+        <Price>49.59</Price>
+        <Stock>10</Stock>
+    </item>
+    <item>
+        <Book_ID>261</Book_ID>
+        <Title>Intuitive content-based toolset</Title>
+        <Author>Christopher Fuentes</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1964</Published_Year>
+        <Price>14.25</Price>
+        <Stock>52</Stock>
+    </item>
+    <item>
+        <Book_ID>262</Book_ID>
+        <Title>Team-oriented content-based adapter</Title>
+        <Author>Dr. Kimberly Stevenson DVM</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1979</Published_Year>
+        <Price>21.02</Price>
+        <Stock>86</Stock>
+    </item>
+    <item>
+        <Book_ID>263</Book_ID>
+        <Title>Right-sized bifurcated definition</Title>
+        <Author>Kayla Wilkinson</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1965</Published_Year>
+        <Price>9.79</Price>
+        <Stock>3</Stock>
+    </item>
+    <item>
+        <Book_ID>264</Book_ID>
+        <Title>De-engineered local interface</Title>
+        <Author>Wayne Hall</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2015</Published_Year>
+        <Price>20.51</Price>
+        <Stock>47</Stock>
+    </item>
+    <item>
+        <Book_ID>265</Book_ID>
+        <Title>Adaptive homogeneous moratorium</Title>
+        <Author>Jennifer Johnson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1926</Published_Year>
+        <Price>46.6</Price>
+        <Stock>66</Stock>
+    </item>
+    <item>
+        <Book_ID>266</Book_ID>
+        <Title>Persevering disintermediate application</Title>
+        <Author>Jeremy Bailey</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1927</Published_Year>
+        <Price>33.29</Price>
+        <Stock>92</Stock>
+    </item>
+    <item>
+        <Book_ID>267</Book_ID>
+        <Title>Expanded demand-driven database</Title>
+        <Author>Gary Williams</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1905</Published_Year>
+        <Price>37.49</Price>
+        <Stock>24</Stock>
+    </item>
+    <item>
+        <Book_ID>268</Book_ID>
+        <Title>Monitored 5thgeneration challenge</Title>
+        <Author>Billy Aguilar</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1960</Published_Year>
+        <Price>8.1</Price>
+        <Stock>62</Stock>
+    </item>
+    <item>
+        <Book_ID>269</Book_ID>
+        <Title>Decentralized disintermediate Internet solution</Title>
+        <Author>Jerry Fisher</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1963</Published_Year>
+        <Price>33.08</Price>
+        <Stock>42</Stock>
+    </item>
+    <item>
+        <Book_ID>270</Book_ID>
+        <Title>Organized logistical architecture</Title>
+        <Author>Christopher Martinez</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1919</Published_Year>
+        <Price>13.17</Price>
+        <Stock>25</Stock>
+    </item>
+    <item>
+        <Book_ID>271</Book_ID>
+        <Title>Intuitive intangible circuit</Title>
+        <Author>Robin Mejia</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1974</Published_Year>
+        <Price>22.08</Price>
+        <Stock>82</Stock>
+    </item>
+    <item>
+        <Book_ID>272</Book_ID>
+        <Title>Intuitive 4thgeneration intranet</Title>
+        <Author>Daniel Gillespie</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1959</Published_Year>
+        <Price>5.16</Price>
+        <Stock>79</Stock>
+    </item>
+    <item>
+        <Book_ID>273</Book_ID>
+        <Title>Devolved zero administration process improvement</Title>
+        <Author>Emily James</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1929</Published_Year>
+        <Price>12.43</Price>
+        <Stock>23</Stock>
+    </item>
+    <item>
+        <Book_ID>274</Book_ID>
+        <Title>Automated systemic functionalities</Title>
+        <Author>Matthew Thomas</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1903</Published_Year>
+        <Price>48.8</Price>
+        <Stock>72</Stock>
+    </item>
+    <item>
+        <Book_ID>275</Book_ID>
+        <Title>Team-oriented dedicated attitude</Title>
+        <Author>Jeffrey Richardson</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2006</Published_Year>
+        <Price>25.83</Price>
+        <Stock>91</Stock>
+    </item>
+    <item>
+        <Book_ID>276</Book_ID>
+        <Title>Profound radical access</Title>
+        <Author>Ryan Clark</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1911</Published_Year>
+        <Price>19.85</Price>
+        <Stock>32</Stock>
+    </item>
+    <item>
+        <Book_ID>277</Book_ID>
+        <Title>Progressive user-facing customer loyalty</Title>
+        <Author>Ashley Cunningham</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1909</Published_Year>
+        <Price>33.21</Price>
+        <Stock>95</Stock>
+    </item>
+    <item>
+        <Book_ID>278</Book_ID>
+        <Title>Exclusive asymmetric installation</Title>
+        <Author>Benjamin Flores</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1901</Published_Year>
+        <Price>48.61</Price>
+        <Stock>69</Stock>
+    </item>
+    <item>
+        <Book_ID>279</Book_ID>
+        <Title>Upgradable radical adapter</Title>
+        <Author>Elizabeth Wilson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2008</Published_Year>
+        <Price>30.5</Price>
+        <Stock>28</Stock>
+    </item>
+    <item>
+        <Book_ID>280</Book_ID>
+        <Title>Balanced next generation forecast</Title>
+        <Author>Aaron Rangel</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1977</Published_Year>
+        <Price>16.78</Price>
+        <Stock>97</Stock>
+    </item>
+    <item>
+        <Book_ID>281</Book_ID>
+        <Title>Fundamental object-oriented productivity</Title>
+        <Author>Robert Hatfield</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1931</Published_Year>
+        <Price>16.34</Price>
+        <Stock>83</Stock>
+    </item>
+    <item>
+        <Book_ID>282</Book_ID>
+        <Title>Configurable local emulation</Title>
+        <Author>Russell Castillo</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2016</Published_Year>
+        <Price>38.19</Price>
+        <Stock>3</Stock>
+    </item>
+    <item>
+        <Book_ID>283</Book_ID>
+        <Title>Phased value-added access</Title>
+        <Author>Jessica Johnson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1903</Published_Year>
+        <Price>17</Price>
+        <Stock>94</Stock>
+    </item>
+    <item>
+        <Book_ID>284</Book_ID>
+        <Title>Progressive 24hour artificial intelligence</Title>
+        <Author>Peter Cabrera</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1906</Published_Year>
+        <Price>15.21</Price>
+        <Stock>99</Stock>
+    </item>
+    <item>
+        <Book_ID>285</Book_ID>
+        <Title>Devolved secondary function</Title>
+        <Author>Sheila Nelson</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1914</Published_Year>
+        <Price>27.65</Price>
+        <Stock>34</Stock>
+    </item>
+    <item>
+        <Book_ID>286</Book_ID>
+        <Title>Sharable client-driven contingency</Title>
+        <Author>Joseph Crawford</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1900</Published_Year>
+        <Price>8.29</Price>
+        <Stock>84</Stock>
+    </item>
+    <item>
+        <Book_ID>287</Book_ID>
+        <Title>Exclusive encompassing pricing structure</Title>
+        <Author>Cynthia Diaz</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1994</Published_Year>
+        <Price>40.19</Price>
+        <Stock>32</Stock>
+    </item>
+    <item>
+        <Book_ID>288</Book_ID>
+        <Title>Re-contextualized real-time Graphic Interface</Title>
+        <Author>Erica Parker</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1908</Published_Year>
+        <Price>27.91</Price>
+        <Stock>9</Stock>
+    </item>
+    <item>
+        <Book_ID>289</Book_ID>
+        <Title>Inverse asynchronous superstructure</Title>
+        <Author>Lacey Lang</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1959</Published_Year>
+        <Price>20.12</Price>
+        <Stock>66</Stock>
+    </item>
+    <item>
+        <Book_ID>290</Book_ID>
+        <Title>Expanded analyzing forecast</Title>
+        <Author>Holly Golden</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1988</Published_Year>
+        <Price>43.81</Price>
+        <Stock>31</Stock>
+    </item>
+    <item>
+        <Book_ID>291</Book_ID>
+        <Title>Compatible impactful interface</Title>
+        <Author>Rachael Kelley</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1957</Published_Year>
+        <Price>7.77</Price>
+        <Stock>13</Stock>
+    </item>
+    <item>
+        <Book_ID>292</Book_ID>
+        <Title>Fully-configurable mission-critical artificial intelligence</Title>
+        <Author>Rachel Adkins</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2017</Published_Year>
+        <Price>26.94</Price>
+        <Stock>2</Stock>
+    </item>
+    <item>
+        <Book_ID>293</Book_ID>
+        <Title>Secured object-oriented secured line</Title>
+        <Author>Megan Kennedy</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1955</Published_Year>
+        <Price>17.93</Price>
+        <Stock>58</Stock>
+    </item>
+    <item>
+        <Book_ID>294</Book_ID>
+        <Title>Pre-emptive clear-thinking workforce</Title>
+        <Author>Craig Sanchez</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1964</Published_Year>
+        <Price>42.53</Price>
+        <Stock>29</Stock>
+    </item>
+    <item>
+        <Book_ID>295</Book_ID>
+        <Title>Persistent disintermediate artificial intelligence</Title>
+        <Author>Todd Davis</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1977</Published_Year>
+        <Price>28.66</Price>
+        <Stock>65</Stock>
+    </item>
+    <item>
+        <Book_ID>296</Book_ID>
+        <Title>Triple-buffered heuristic adapter</Title>
+        <Author>Jennifer Johnson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1949</Published_Year>
+        <Price>11.49</Price>
+        <Stock>49</Stock>
+    </item>
+    <item>
+        <Book_ID>297</Book_ID>
+        <Title>Advanced well-modulated architecture</Title>
+        <Author>Chad Craig</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>2016</Published_Year>
+        <Price>35.65</Price>
+        <Stock>2</Stock>
+    </item>
+    <item>
+        <Book_ID>298</Book_ID>
+        <Title>Assimilated composite archive</Title>
+        <Author>Mark Gibson</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1957</Published_Year>
+        <Price>46.66</Price>
+        <Stock>62</Stock>
+    </item>
+    <item>
+        <Book_ID>299</Book_ID>
+        <Title>Centralized disintermediate array</Title>
+        <Author>Donald Wiggins</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1909</Published_Year>
+        <Price>28.19</Price>
+        <Stock>73</Stock>
+    </item>
+    <item>
+        <Book_ID>300</Book_ID>
+        <Title>Integrated fresh-thinking toolset</Title>
+        <Author>Joseph Jensen</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1962</Published_Year>
+        <Price>26.87</Price>
+        <Stock>77</Stock>
+    </item>
+    <item>
+        <Book_ID>301</Book_ID>
+        <Title>Polarized high-level installation</Title>
+        <Author>John Davidson</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1975</Published_Year>
+        <Price>21.66</Price>
+        <Stock>77</Stock>
+    </item>
+    <item>
+        <Book_ID>302</Book_ID>
+        <Title>Ergonomic leadingedge portal</Title>
+        <Author>James Curtis</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1981</Published_Year>
+        <Price>28.67</Price>
+        <Stock>92</Stock>
+    </item>
+    <item>
+        <Book_ID>303</Book_ID>
+        <Title>Open-source background extranet</Title>
+        <Author>Meredith Miller</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1968</Published_Year>
+        <Price>6.57</Price>
+        <Stock>77</Stock>
+    </item>
+    <item>
+        <Book_ID>304</Book_ID>
+        <Title>Front-line high-level emulation</Title>
+        <Author>Amber Joyce</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1935</Published_Year>
+        <Price>13.48</Price>
+        <Stock>23</Stock>
+    </item>
+    <item>
+        <Book_ID>305</Book_ID>
+        <Title>Down-sized bandwidth-monitored open system</Title>
+        <Author>Susan Robbins</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1999</Published_Year>
+        <Price>31.66</Price>
+        <Stock>27</Stock>
+    </item>
+    <item>
+        <Book_ID>306</Book_ID>
+        <Title>Phased didactic product</Title>
+        <Author>Elizabeth Koch</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1988</Published_Year>
+        <Price>43.92</Price>
+        <Stock>56</Stock>
+    </item>
+    <item>
+        <Book_ID>307</Book_ID>
+        <Title>Expanded local infrastructure</Title>
+        <Author>Valerie Moore</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1914</Published_Year>
+        <Price>14.43</Price>
+        <Stock>7</Stock>
+    </item>
+    <item>
+        <Book_ID>308</Book_ID>
+        <Title>Expanded maximized collaboration</Title>
+        <Author>Amanda Moore</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2009</Published_Year>
+        <Price>20.75</Price>
+        <Stock>35</Stock>
+    </item>
+    <item>
+        <Book_ID>309</Book_ID>
+        <Title>Mandatory homogeneous ability</Title>
+        <Author>George Sanchez</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1939</Published_Year>
+        <Price>11.74</Price>
+        <Stock>77</Stock>
+    </item>
+    <item>
+        <Book_ID>310</Book_ID>
+        <Title>Reduced well-modulated database</Title>
+        <Author>Raymond Nicholson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2021</Published_Year>
+        <Price>47.92</Price>
+        <Stock>40</Stock>
+    </item>
+    <item>
+        <Book_ID>311</Book_ID>
+        <Title>Profit-focused static intranet</Title>
+        <Author>Kaitlyn Mills</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1903</Published_Year>
+        <Price>32.28</Price>
+        <Stock>48</Stock>
+    </item>
+    <item>
+        <Book_ID>312</Book_ID>
+        <Title>Balanced multi-state monitoring</Title>
+        <Author>Clayton Garcia DDS</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1946</Published_Year>
+        <Price>36.47</Price>
+        <Stock>13</Stock>
+    </item>
+    <item>
+        <Book_ID>313</Book_ID>
+        <Title>Profound client-driven paradigm</Title>
+        <Author>Nicole Olson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1997</Published_Year>
+        <Price>47.16</Price>
+        <Stock>53</Stock>
+    </item>
+    <item>
+        <Book_ID>314</Book_ID>
+        <Title>Decentralized discrete archive</Title>
+        <Author>Jordan Holt</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1914</Published_Year>
+        <Price>9.59</Price>
+        <Stock>74</Stock>
+    </item>
+    <item>
+        <Book_ID>315</Book_ID>
+        <Title>Virtual exuding Internet solution</Title>
+        <Author>Anne George</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>2012</Published_Year>
+        <Price>42.9</Price>
+        <Stock>40</Stock>
+    </item>
+    <item>
+        <Book_ID>316</Book_ID>
+        <Title>Multi-tiered client-server methodology</Title>
+        <Author>Rebecca Chavez</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1992</Published_Year>
+        <Price>8.81</Price>
+        <Stock>74</Stock>
+    </item>
+    <item>
+        <Book_ID>317</Book_ID>
+        <Title>Upgradable client-driven ability</Title>
+        <Author>Patricia Kennedy</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1961</Published_Year>
+        <Price>29.2</Price>
+        <Stock>13</Stock>
+    </item>
+    <item>
+        <Book_ID>318</Book_ID>
+        <Title>Cloned upward-trending installation</Title>
+        <Author>Sherry Kim</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1921</Published_Year>
+        <Price>40.11</Price>
+        <Stock>94</Stock>
+    </item>
+    <item>
+        <Book_ID>319</Book_ID>
+        <Title>Distributed disintermediate groupware</Title>
+        <Author>Michael Mckenzie</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1964</Published_Year>
+        <Price>42.61</Price>
+        <Stock>50</Stock>
+    </item>
+    <item>
+        <Book_ID>320</Book_ID>
+        <Title>Ergonomic clear-thinking interface</Title>
+        <Author>Judith Gutierrez</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1950</Published_Year>
+        <Price>5.07</Price>
+        <Stock>55</Stock>
+    </item>
+    <item>
+        <Book_ID>321</Book_ID>
+        <Title>Polarized optimizing moratorium</Title>
+        <Author>Amanda Savage</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1911</Published_Year>
+        <Price>24.32</Price>
+        <Stock>16</Stock>
+    </item>
+    <item>
+        <Book_ID>322</Book_ID>
+        <Title>Customizable object-oriented paradigm</Title>
+        <Author>Gail Lawson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1932</Published_Year>
+        <Price>26.49</Price>
+        <Stock>42</Stock>
+    </item>
+    <item>
+        <Book_ID>323</Book_ID>
+        <Title>Balanced dynamic project</Title>
+        <Author>Kelly Hopkins</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1976</Published_Year>
+        <Price>35.83</Price>
+        <Stock>2</Stock>
+    </item>
+    <item>
+        <Book_ID>324</Book_ID>
+        <Title>Diverse dynamic contingency</Title>
+        <Author>James Duran</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1993</Published_Year>
+        <Price>46.08</Price>
+        <Stock>23</Stock>
+    </item>
+    <item>
+        <Book_ID>325</Book_ID>
+        <Title>Proactive secondary help-desk</Title>
+        <Author>William Drake</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1981</Published_Year>
+        <Price>40.4</Price>
+        <Stock>50</Stock>
+    </item>
+    <item>
+        <Book_ID>326</Book_ID>
+        <Title>Networked composite Internet solution</Title>
+        <Author>Victoria Wilson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1903</Published_Year>
+        <Price>15.15</Price>
+        <Stock>78</Stock>
+    </item>
+    <item>
+        <Book_ID>327</Book_ID>
+        <Title>Implemented zero-defect product</Title>
+        <Author>Kim Lee</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1984</Published_Year>
+        <Price>21.4</Price>
+        <Stock>29</Stock>
+    </item>
+    <item>
+        <Book_ID>328</Book_ID>
+        <Title>Sharable intermediate task-force</Title>
+        <Author>Andrew Cervantes</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1940</Published_Year>
+        <Price>10.26</Price>
+        <Stock>28</Stock>
+    </item>
+    <item>
+        <Book_ID>329</Book_ID>
+        <Title>Multi-tiered dedicated encryption</Title>
+        <Author>Jacob Fischer</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1973</Published_Year>
+        <Price>38.49</Price>
+        <Stock>27</Stock>
+    </item>
+    <item>
+        <Book_ID>330</Book_ID>
+        <Title>Assimilated user-facing approach</Title>
+        <Author>Roy Wolf</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1990</Published_Year>
+        <Price>32.02</Price>
+        <Stock>25</Stock>
+    </item>
+    <item>
+        <Book_ID>331</Book_ID>
+        <Title>Profit-focused systematic project</Title>
+        <Author>Dennis Hooper</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1936</Published_Year>
+        <Price>15.36</Price>
+        <Stock>89</Stock>
+    </item>
+    <item>
+        <Book_ID>332</Book_ID>
+        <Title>Quality-focused mobile migration</Title>
+        <Author>Tanya Brandt</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1968</Published_Year>
+        <Price>49.08</Price>
+        <Stock>17</Stock>
+    </item>
+    <item>
+        <Book_ID>333</Book_ID>
+        <Title>Advanced responsive extranet</Title>
+        <Author>Mark Chavez DDS</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1959</Published_Year>
+        <Price>27.76</Price>
+        <Stock>29</Stock>
+    </item>
+    <item>
+        <Book_ID>334</Book_ID>
+        <Title>Synergistic fault-tolerant attitude</Title>
+        <Author>Robert Bullock</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1913</Published_Year>
+        <Price>35.68</Price>
+        <Stock>88</Stock>
+    </item>
+    <item>
+        <Book_ID>335</Book_ID>
+        <Title>Adaptive bi-directional implementation</Title>
+        <Author>Alexandra Cox</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1938</Published_Year>
+        <Price>47.29</Price>
+        <Stock>23</Stock>
+    </item>
+    <item>
+        <Book_ID>336</Book_ID>
+        <Title>Organized high-level algorithm</Title>
+        <Author>Grace Waller</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>2006</Published_Year>
+        <Price>24.08</Price>
+        <Stock>26</Stock>
+    </item>
+    <item>
+        <Book_ID>337</Book_ID>
+        <Title>Progressive impactful structure</Title>
+        <Author>Karen Moreno</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1901</Published_Year>
+        <Price>34.28</Price>
+        <Stock>44</Stock>
+    </item>
+    <item>
+        <Book_ID>338</Book_ID>
+        <Title>Seamless analyzing encoding</Title>
+        <Author>Kevin Garcia</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1949</Published_Year>
+        <Price>10.17</Price>
+        <Stock>61</Stock>
+    </item>
+    <item>
+        <Book_ID>339</Book_ID>
+        <Title>Centralized uniform extranet</Title>
+        <Author>Steven Mcdonald</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2014</Published_Year>
+        <Price>43.51</Price>
+        <Stock>68</Stock>
+    </item>
+    <item>
+        <Book_ID>340</Book_ID>
+        <Title>Proactive system-worthy orchestration</Title>
+        <Author>Robert Scott</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1907</Published_Year>
+        <Price>49.98</Price>
+        <Stock>88</Stock>
+    </item>
+    <item>
+        <Book_ID>341</Book_ID>
+        <Title>Robust multimedia support</Title>
+        <Author>Scott Murphy</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1933</Published_Year>
+        <Price>19.59</Price>
+        <Stock>42</Stock>
+    </item>
+    <item>
+        <Book_ID>342</Book_ID>
+        <Title>Digitized regional monitoring</Title>
+        <Author>Kenneth Finley</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1969</Published_Year>
+        <Price>17.11</Price>
+        <Stock>84</Stock>
+    </item>
+    <item>
+        <Book_ID>343</Book_ID>
+        <Title>De-engineered grid-enabled secured line</Title>
+        <Author>Marissa Smith</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2006</Published_Year>
+        <Price>43.03</Price>
+        <Stock>86</Stock>
+    </item>
+    <item>
+        <Book_ID>344</Book_ID>
+        <Title>Optimized holistic approach</Title>
+        <Author>Brittney Brown</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1990</Published_Year>
+        <Price>39.63</Price>
+        <Stock>27</Stock>
+    </item>
+    <item>
+        <Book_ID>345</Book_ID>
+        <Title>Function-based disintermediate intranet</Title>
+        <Author>Michael Johnson</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1920</Published_Year>
+        <Price>25.89</Price>
+        <Stock>78</Stock>
+    </item>
+    <item>
+        <Book_ID>346</Book_ID>
+        <Title>Object-based asynchronous moratorium</Title>
+        <Author>Jennifer Oliver</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1965</Published_Year>
+        <Price>9.97</Price>
+        <Stock>23</Stock>
+    </item>
+    <item>
+        <Book_ID>347</Book_ID>
+        <Title>Synergistic exuding website</Title>
+        <Author>Angelica Elliott</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1906</Published_Year>
+        <Price>6.1</Price>
+        <Stock>86</Stock>
+    </item>
+    <item>
+        <Book_ID>348</Book_ID>
+        <Title>Object-based contextually-based model</Title>
+        <Author>Amber Patterson</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1907</Published_Year>
+        <Price>12.62</Price>
+        <Stock>22</Stock>
+    </item>
+    <item>
+        <Book_ID>349</Book_ID>
+        <Title>Monitored interactive focus group</Title>
+        <Author>Thomas Chung</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2013</Published_Year>
+        <Price>44.36</Price>
+        <Stock>51</Stock>
+    </item>
+    <item>
+        <Book_ID>350</Book_ID>
+        <Title>Exclusive 24hour groupware</Title>
+        <Author>Brian Baker</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2008</Published_Year>
+        <Price>31.67</Price>
+        <Stock>49</Stock>
+    </item>
+    <item>
+        <Book_ID>351</Book_ID>
+        <Title>Decentralized demand-driven middleware</Title>
+        <Author>Carmen Johnson</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1972</Published_Year>
+        <Price>34.98</Price>
+        <Stock>42</Stock>
+    </item>
+    <item>
+        <Book_ID>352</Book_ID>
+        <Title>Intuitive intermediate paradigm</Title>
+        <Author>Scott Bowman MD</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1927</Published_Year>
+        <Price>6.01</Price>
+        <Stock>97</Stock>
+    </item>
+    <item>
+        <Book_ID>353</Book_ID>
+        <Title>Public-key intangible frame</Title>
+        <Author>Katherine Fry</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1984</Published_Year>
+        <Price>46.97</Price>
+        <Stock>41</Stock>
+    </item>
+    <item>
+        <Book_ID>354</Book_ID>
+        <Title>Enhanced holistic solution</Title>
+        <Author>Jeremy Hughes</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1927</Published_Year>
+        <Price>21.09</Price>
+        <Stock>41</Stock>
+    </item>
+    <item>
+        <Book_ID>355</Book_ID>
+        <Title>Reduced systematic forecast</Title>
+        <Author>Christine Martin</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1987</Published_Year>
+        <Price>8.1</Price>
+        <Stock>34</Stock>
+    </item>
+    <item>
+        <Book_ID>356</Book_ID>
+        <Title>Front-line modular moratorium</Title>
+        <Author>Timothy Williams</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1957</Published_Year>
+        <Price>25.65</Price>
+        <Stock>44</Stock>
+    </item>
+    <item>
+        <Book_ID>357</Book_ID>
+        <Title>Intuitive value-added product</Title>
+        <Author>Hunter Odom</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1983</Published_Year>
+        <Price>11.85</Price>
+        <Stock>27</Stock>
+    </item>
+    <item>
+        <Book_ID>358</Book_ID>
+        <Title>Right-sized intangible infrastructure</Title>
+        <Author>Stephanie Clayton</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1962</Published_Year>
+        <Price>7.18</Price>
+        <Stock>29</Stock>
+    </item>
+    <item>
+        <Book_ID>359</Book_ID>
+        <Title>Secured maximized time-frame</Title>
+        <Author>Megan Burton</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1970</Published_Year>
+        <Price>28.19</Price>
+        <Stock>99</Stock>
+    </item>
+    <item>
+        <Book_ID>360</Book_ID>
+        <Title>Profound tertiary encoding</Title>
+        <Author>Jennifer Jones</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2020</Published_Year>
+        <Price>49.34</Price>
+        <Stock>73</Stock>
+    </item>
+    <item>
+        <Book_ID>361</Book_ID>
+        <Title>Optional object-oriented pricing structure</Title>
+        <Author>Jenna Johnson</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1957</Published_Year>
+        <Price>39.75</Price>
+        <Stock>71</Stock>
+    </item>
+    <item>
+        <Book_ID>362</Book_ID>
+        <Title>Profit-focused multimedia throughput</Title>
+        <Author>Andrea Lucas</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1933</Published_Year>
+        <Price>29.43</Price>
+        <Stock>64</Stock>
+    </item>
+    <item>
+        <Book_ID>363</Book_ID>
+        <Title>Proactive explicit capability</Title>
+        <Author>Tony Curtis</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1915</Published_Year>
+        <Price>7.48</Price>
+        <Stock>52</Stock>
+    </item>
+    <item>
+        <Book_ID>364</Book_ID>
+        <Title>Persevering scalable leverage</Title>
+        <Author>Angel Shepherd</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1923</Published_Year>
+        <Price>43.82</Price>
+        <Stock>86</Stock>
+    </item>
+    <item>
+        <Book_ID>365</Book_ID>
+        <Title>Synchronized impactful synergy</Title>
+        <Author>Megan Gutierrez</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1955</Published_Year>
+        <Price>10.64</Price>
+        <Stock>99</Stock>
+    </item>
+    <item>
+        <Book_ID>366</Book_ID>
+        <Title>Re-contextualized national secured line</Title>
+        <Author>Robert Wilson</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1922</Published_Year>
+        <Price>13.1</Price>
+        <Stock>4</Stock>
+    </item>
+    <item>
+        <Book_ID>367</Book_ID>
+        <Title>Universal analyzing support</Title>
+        <Author>Eric Taylor</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1940</Published_Year>
+        <Price>29.32</Price>
+        <Stock>35</Stock>
+    </item>
+    <item>
+        <Book_ID>368</Book_ID>
+        <Title>Stand-alone logistical installation</Title>
+        <Author>Elizabeth Williams</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1913</Published_Year>
+        <Price>44.6</Price>
+        <Stock>97</Stock>
+    </item>
+    <item>
+        <Book_ID>369</Book_ID>
+        <Title>Diverse responsive focus group</Title>
+        <Author>Ashley Chavez</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1966</Published_Year>
+        <Price>22.65</Price>
+        <Stock>100</Stock>
+    </item>
+    <item>
+        <Book_ID>370</Book_ID>
+        <Title>Synergistic user-facing frame</Title>
+        <Author>David Olson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1977</Published_Year>
+        <Price>43.91</Price>
+        <Stock>97</Stock>
+    </item>
+    <item>
+        <Book_ID>371</Book_ID>
+        <Title>Multi-tiered methodical paradigm</Title>
+        <Author>Vicki Vance</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1959</Published_Year>
+        <Price>17.4</Price>
+        <Stock>43</Stock>
+    </item>
+    <item>
+        <Book_ID>372</Book_ID>
+        <Title>Realigned mobile focus group</Title>
+        <Author>Michael Jackson</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1905</Published_Year>
+        <Price>17.73</Price>
+        <Stock>42</Stock>
+    </item>
+    <item>
+        <Book_ID>373</Book_ID>
+        <Title>Exclusive dynamic approach</Title>
+        <Author>Michelle Mercado</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1911</Published_Year>
+        <Price>39.09</Price>
+        <Stock>49</Stock>
+    </item>
+    <item>
+        <Book_ID>374</Book_ID>
+        <Title>Operative non-volatile parallelism</Title>
+        <Author>Wendy Walker</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1987</Published_Year>
+        <Price>24.26</Price>
+        <Stock>72</Stock>
+    </item>
+    <item>
+        <Book_ID>375</Book_ID>
+        <Title>Fully-configurable disintermediate solution</Title>
+        <Author>Cynthia Jones</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1993</Published_Year>
+        <Price>34.15</Price>
+        <Stock>55</Stock>
+    </item>
+    <item>
+        <Book_ID>376</Book_ID>
+        <Title>Mandatory full-range middleware</Title>
+        <Author>Debra Horn</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1997</Published_Year>
+        <Price>29.26</Price>
+        <Stock>76</Stock>
+    </item>
+    <item>
+        <Book_ID>377</Book_ID>
+        <Title>Realigned 6thgeneration infrastructure</Title>
+        <Author>Jennifer Hughes</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2007</Published_Year>
+        <Price>39.79</Price>
+        <Stock>55</Stock>
+    </item>
+    <item>
+        <Book_ID>378</Book_ID>
+        <Title>Future-proofed heuristic function</Title>
+        <Author>Samantha Mcclain</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1903</Published_Year>
+        <Price>6.01</Price>
+        <Stock>0</Stock>
+    </item>
+    <item>
+        <Book_ID>379</Book_ID>
+        <Title>Digitized zero-defect access</Title>
+        <Author>Angela Stewart</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1916</Published_Year>
+        <Price>5.7</Price>
+        <Stock>95</Stock>
+    </item>
+    <item>
+        <Book_ID>380</Book_ID>
+        <Title>Universal fault-tolerant array</Title>
+        <Author>Michael Johnson</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1984</Published_Year>
+        <Price>13.17</Price>
+        <Stock>78</Stock>
+    </item>
+    <item>
+        <Book_ID>381</Book_ID>
+        <Title>Total foreground alliance</Title>
+        <Author>Anthony Wilson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1977</Published_Year>
+        <Price>10.6</Price>
+        <Stock>14</Stock>
+    </item>
+    <item>
+        <Book_ID>382</Book_ID>
+        <Title>Implemented background approach</Title>
+        <Author>Megan King</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2012</Published_Year>
+        <Price>33.19</Price>
+        <Stock>27</Stock>
+    </item>
+    <item>
+        <Book_ID>383</Book_ID>
+        <Title>Optional clear-thinking task-force</Title>
+        <Author>Samuel Morales</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1927</Published_Year>
+        <Price>42.17</Price>
+        <Stock>71</Stock>
+    </item>
+    <item>
+        <Book_ID>384</Book_ID>
+        <Title>Multi-channeled needs-based intranet</Title>
+        <Author>Molly Roberts</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1911</Published_Year>
+        <Price>33.92</Price>
+        <Stock>46</Stock>
+    </item>
+    <item>
+        <Book_ID>385</Book_ID>
+        <Title>Right-sized holistic productivity</Title>
+        <Author>Geoffrey Burnett</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1962</Published_Year>
+        <Price>27.25</Price>
+        <Stock>65</Stock>
+    </item>
+    <item>
+        <Book_ID>386</Book_ID>
+        <Title>Synchronized 24/7 analyzer</Title>
+        <Author>Dawn Hart</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1944</Published_Year>
+        <Price>6.36</Price>
+        <Stock>71</Stock>
+    </item>
+    <item>
+        <Book_ID>387</Book_ID>
+        <Title>Grass-roots disintermediate analyzer</Title>
+        <Author>Amber Davis</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1979</Published_Year>
+        <Price>47.42</Price>
+        <Stock>6</Stock>
+    </item>
+    <item>
+        <Book_ID>388</Book_ID>
+        <Title>Distributed transitional solution</Title>
+        <Author>Marilyn Camacho</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1917</Published_Year>
+        <Price>26.62</Price>
+        <Stock>5</Stock>
+    </item>
+    <item>
+        <Book_ID>389</Book_ID>
+        <Title>Robust holistic solution</Title>
+        <Author>Jennifer Nelson</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1928</Published_Year>
+        <Price>25.39</Price>
+        <Stock>89</Stock>
+    </item>
+    <item>
+        <Book_ID>390</Book_ID>
+        <Title>Versatile mission-critical customer loyalty</Title>
+        <Author>Rachel Case</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1947</Published_Year>
+        <Price>39.96</Price>
+        <Stock>35</Stock>
+    </item>
+    <item>
+        <Book_ID>391</Book_ID>
+        <Title>Face-to-face 6thgeneration attitude</Title>
+        <Author>Erica Olson</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2009</Published_Year>
+        <Price>33.42</Price>
+        <Stock>35</Stock>
+    </item>
+    <item>
+        <Book_ID>392</Book_ID>
+        <Title>Horizontal hybrid emulation</Title>
+        <Author>Jeanne Brown</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1963</Published_Year>
+        <Price>35.52</Price>
+        <Stock>86</Stock>
+    </item>
+    <item>
+        <Book_ID>393</Book_ID>
+        <Title>Triple-buffered multimedia access</Title>
+        <Author>Nathan Ashley</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1987</Published_Year>
+        <Price>44</Price>
+        <Stock>44</Stock>
+    </item>
+    <item>
+        <Book_ID>394</Book_ID>
+        <Title>Integrated well-modulated Graphic Interface</Title>
+        <Author>Karen Reese</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1994</Published_Year>
+        <Price>27.15</Price>
+        <Stock>59</Stock>
+    </item>
+    <item>
+        <Book_ID>395</Book_ID>
+        <Title>Proactive impactful attitude</Title>
+        <Author>Travis Thompson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1945</Published_Year>
+        <Price>34.05</Price>
+        <Stock>19</Stock>
+    </item>
+    <item>
+        <Book_ID>396</Book_ID>
+        <Title>Assimilated local complexity</Title>
+        <Author>Paul Smith</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1967</Published_Year>
+        <Price>22.34</Price>
+        <Stock>97</Stock>
+    </item>
+    <item>
+        <Book_ID>397</Book_ID>
+        <Title>Object-based secondary emulation</Title>
+        <Author>Angela Richard</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1969</Published_Year>
+        <Price>28.15</Price>
+        <Stock>50</Stock>
+    </item>
+    <item>
+        <Book_ID>398</Book_ID>
+        <Title>Programmable context-sensitive forecast</Title>
+        <Author>Evelyn Cox</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1998</Published_Year>
+        <Price>33.41</Price>
+        <Stock>50</Stock>
+    </item>
+    <item>
+        <Book_ID>399</Book_ID>
+        <Title>Distributed regional collaboration</Title>
+        <Author>Juan Reynolds</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2007</Published_Year>
+        <Price>14.34</Price>
+        <Stock>25</Stock>
+    </item>
+    <item>
+        <Book_ID>400</Book_ID>
+        <Title>Multi-channeled context-sensitive adapter</Title>
+        <Author>Jeremiah Dyer</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1915</Published_Year>
+        <Price>34.57</Price>
+        <Stock>47</Stock>
+    </item>
+    <item>
+        <Book_ID>401</Book_ID>
+        <Title>Managed eco-centric hierarchy</Title>
+        <Author>Debbie Lopez</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1997</Published_Year>
+        <Price>31.72</Price>
+        <Stock>37</Stock>
+    </item>
+    <item>
+        <Book_ID>402</Book_ID>
+        <Title>Streamlined multimedia capability</Title>
+        <Author>Anthony Vaughn</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1982</Published_Year>
+        <Price>21.38</Price>
+        <Stock>24</Stock>
+    </item>
+    <item>
+        <Book_ID>403</Book_ID>
+        <Title>Persevering incremental strategy</Title>
+        <Author>David Miller</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1928</Published_Year>
+        <Price>15.01</Price>
+        <Stock>82</Stock>
+    </item>
+    <item>
+        <Book_ID>404</Book_ID>
+        <Title>Face-to-face multi-tasking Internet solution</Title>
+        <Author>Kevin Pittman</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1915</Published_Year>
+        <Price>15.65</Price>
+        <Stock>69</Stock>
+    </item>
+    <item>
+        <Book_ID>405</Book_ID>
+        <Title>Fundamental regional capacity</Title>
+        <Author>Samantha Hawkins</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1916</Published_Year>
+        <Price>7.42</Price>
+        <Stock>98</Stock>
+    </item>
+    <item>
+        <Book_ID>406</Book_ID>
+        <Title>De-engineered methodical capacity</Title>
+        <Author>James Gonzalez</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>2006</Published_Year>
+        <Price>35.79</Price>
+        <Stock>50</Stock>
+    </item>
+    <item>
+        <Book_ID>407</Book_ID>
+        <Title>Mandatory executive groupware</Title>
+        <Author>Michelle Bell</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1947</Published_Year>
+        <Price>42.19</Price>
+        <Stock>50</Stock>
+    </item>
+    <item>
+        <Book_ID>408</Book_ID>
+        <Title>Decentralized tertiary customer loyalty</Title>
+        <Author>William Roberts</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1946</Published_Year>
+        <Price>10.07</Price>
+        <Stock>2</Stock>
+    </item>
+    <item>
+        <Book_ID>409</Book_ID>
+        <Title>Innovative directional project</Title>
+        <Author>Jerry Burch</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1941</Published_Year>
+        <Price>21.56</Price>
+        <Stock>49</Stock>
+    </item>
+    <item>
+        <Book_ID>410</Book_ID>
+        <Title>Team-oriented tangible ability</Title>
+        <Author>Veronica Hebert</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2005</Published_Year>
+        <Price>44.33</Price>
+        <Stock>42</Stock>
+    </item>
+    <item>
+        <Book_ID>411</Book_ID>
+        <Title>Profit-focused solution-oriented open system</Title>
+        <Author>Aaron Hall Jr.</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2012</Published_Year>
+        <Price>15.03</Price>
+        <Stock>83</Stock>
+    </item>
+    <item>
+        <Book_ID>412</Book_ID>
+        <Title>Profound zero-defect process improvement</Title>
+        <Author>Lisa Alexander</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1921</Published_Year>
+        <Price>9.83</Price>
+        <Stock>5</Stock>
+    </item>
+    <item>
+        <Book_ID>413</Book_ID>
+        <Title>Cross-platform grid-enabled capacity</Title>
+        <Author>Kimberly James</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1997</Published_Year>
+        <Price>10.35</Price>
+        <Stock>89</Stock>
+    </item>
+    <item>
+        <Book_ID>414</Book_ID>
+        <Title>Organized directional Internet solution</Title>
+        <Author>Amanda Carrillo</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1999</Published_Year>
+        <Price>22.55</Price>
+        <Stock>93</Stock>
+    </item>
+    <item>
+        <Book_ID>415</Book_ID>
+        <Title>Enhanced next generation standardization</Title>
+        <Author>Anthony Nguyen</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1976</Published_Year>
+        <Price>29.51</Price>
+        <Stock>18</Stock>
+    </item>
+    <item>
+        <Book_ID>416</Book_ID>
+        <Title>Expanded maximized portal</Title>
+        <Author>Tina Stevenson</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2018</Published_Year>
+        <Price>49.1</Price>
+        <Stock>96</Stock>
+    </item>
+    <item>
+        <Book_ID>417</Book_ID>
+        <Title>Persistent radical neural-net</Title>
+        <Author>Christopher Jones</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1945</Published_Year>
+        <Price>46.61</Price>
+        <Stock>48</Stock>
+    </item>
+    <item>
+        <Book_ID>418</Book_ID>
+        <Title>Proactive client-driven knowledgebase</Title>
+        <Author>Jeremy Ware</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1927</Published_Year>
+        <Price>31.88</Price>
+        <Stock>83</Stock>
+    </item>
+    <item>
+        <Book_ID>419</Book_ID>
+        <Title>Enterprise-wide multimedia initiative</Title>
+        <Author>Theresa Rice</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1981</Published_Year>
+        <Price>9.28</Price>
+        <Stock>25</Stock>
+    </item>
+    <item>
+        <Book_ID>420</Book_ID>
+        <Title>Proactive radical application</Title>
+        <Author>Kevin Mosley</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1907</Published_Year>
+        <Price>33.14</Price>
+        <Stock>35</Stock>
+    </item>
+    <item>
+        <Book_ID>421</Book_ID>
+        <Title>Exclusive zero administration superstructure</Title>
+        <Author>John Pearson</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1901</Published_Year>
+        <Price>40.05</Price>
+        <Stock>58</Stock>
+    </item>
+    <item>
+        <Book_ID>422</Book_ID>
+        <Title>Grass-roots systematic moderator</Title>
+        <Author>Joyce Patton</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1919</Published_Year>
+        <Price>45.91</Price>
+        <Stock>39</Stock>
+    </item>
+    <item>
+        <Book_ID>423</Book_ID>
+        <Title>Implemented systematic leverage</Title>
+        <Author>Daisy Johnson</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1943</Published_Year>
+        <Price>25.63</Price>
+        <Stock>14</Stock>
+    </item>
+    <item>
+        <Book_ID>424</Book_ID>
+        <Title>Object-based secondary knowledgebase</Title>
+        <Author>Eric Shepherd</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1935</Published_Year>
+        <Price>40.5</Price>
+        <Stock>84</Stock>
+    </item>
+    <item>
+        <Book_ID>425</Book_ID>
+        <Title>Synergized analyzing solution</Title>
+        <Author>Tammy Cervantes</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1990</Published_Year>
+        <Price>24.23</Price>
+        <Stock>45</Stock>
+    </item>
+    <item>
+        <Book_ID>426</Book_ID>
+        <Title>Triple-buffered upward-trending artificial intelligence</Title>
+        <Author>John Shannon</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>2021</Published_Year>
+        <Price>32.82</Price>
+        <Stock>98</Stock>
+    </item>
+    <item>
+        <Book_ID>427</Book_ID>
+        <Title>Ergonomic zero-defect software</Title>
+        <Author>Denise Mclaughlin</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1965</Published_Year>
+        <Price>18</Price>
+        <Stock>46</Stock>
+    </item>
+    <item>
+        <Book_ID>428</Book_ID>
+        <Title>Innovative asymmetric utilization</Title>
+        <Author>Darryl Price</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1966</Published_Year>
+        <Price>22.73</Price>
+        <Stock>66</Stock>
+    </item>
+    <item>
+        <Book_ID>429</Book_ID>
+        <Title>Cross-platform 24hour artificial intelligence</Title>
+        <Author>Dawn Coleman</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2002</Published_Year>
+        <Price>42.58</Price>
+        <Stock>95</Stock>
+    </item>
+    <item>
+        <Book_ID>430</Book_ID>
+        <Title>Quality-focused methodical matrix</Title>
+        <Author>Dennis Hernandez</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1922</Published_Year>
+        <Price>11.9</Price>
+        <Stock>76</Stock>
+    </item>
+    <item>
+        <Book_ID>431</Book_ID>
+        <Title>Synergized fresh-thinking monitoring</Title>
+        <Author>Christopher Dixon</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1965</Published_Year>
+        <Price>19.48</Price>
+        <Stock>31</Stock>
+    </item>
+    <item>
+        <Book_ID>432</Book_ID>
+        <Title>Horizontal disintermediate alliance</Title>
+        <Author>Rodney Ward</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1951</Published_Year>
+        <Price>8.84</Price>
+        <Stock>55</Stock>
+    </item>
+    <item>
+        <Book_ID>433</Book_ID>
+        <Title>Configurable 3rdgeneration synergy</Title>
+        <Author>Teresa Bell</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1944</Published_Year>
+        <Price>22.09</Price>
+        <Stock>81</Stock>
+    </item>
+    <item>
+        <Book_ID>434</Book_ID>
+        <Title>Monitored value-added focus group</Title>
+        <Author>Mary Pollard</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1942</Published_Year>
+        <Price>45.58</Price>
+        <Stock>4</Stock>
+    </item>
+    <item>
+        <Book_ID>435</Book_ID>
+        <Title>Inverse grid-enabled attitude</Title>
+        <Author>Kara Schwartz</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1939</Published_Year>
+        <Price>27.76</Price>
+        <Stock>10</Stock>
+    </item>
+    <item>
+        <Book_ID>436</Book_ID>
+        <Title>Sharable heuristic conglomeration</Title>
+        <Author>Garrett Campbell</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1916</Published_Year>
+        <Price>15.9</Price>
+        <Stock>54</Stock>
+    </item>
+    <item>
+        <Book_ID>437</Book_ID>
+        <Title>Customizable directional matrices</Title>
+        <Author>Alyssa Lopez</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1960</Published_Year>
+        <Price>44.29</Price>
+        <Stock>7</Stock>
+    </item>
+    <item>
+        <Book_ID>438</Book_ID>
+        <Title>Synchronized mission-critical process improvement</Title>
+        <Author>Samantha Stewart</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1913</Published_Year>
+        <Price>33.39</Price>
+        <Stock>82</Stock>
+    </item>
+    <item>
+        <Book_ID>439</Book_ID>
+        <Title>Monitored eco-centric framework</Title>
+        <Author>Kelly Rodriguez</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1970</Published_Year>
+        <Price>16</Price>
+        <Stock>94</Stock>
+    </item>
+    <item>
+        <Book_ID>440</Book_ID>
+        <Title>Ergonomic disintermediate project</Title>
+        <Author>Jill Padilla</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2000</Published_Year>
+        <Price>27.42</Price>
+        <Stock>68</Stock>
+    </item>
+    <item>
+        <Book_ID>441</Book_ID>
+        <Title>Streamlined 6thgeneration collaboration</Title>
+        <Author>Susan Reeves</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>2013</Published_Year>
+        <Price>40.72</Price>
+        <Stock>65</Stock>
+    </item>
+    <item>
+        <Book_ID>442</Book_ID>
+        <Title>Enhanced grid-enabled budgetary management</Title>
+        <Author>Betty Cross</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1993</Published_Year>
+        <Price>48.48</Price>
+        <Stock>93</Stock>
+    </item>
+    <item>
+        <Book_ID>443</Book_ID>
+        <Title>Down-sized radical orchestration</Title>
+        <Author>Crystal Hall</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1987</Published_Year>
+        <Price>44.05</Price>
+        <Stock>89</Stock>
+    </item>
+    <item>
+        <Book_ID>444</Book_ID>
+        <Title>Open-source radical capability</Title>
+        <Author>Victoria Galloway</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1907</Published_Year>
+        <Price>12.73</Price>
+        <Stock>26</Stock>
+    </item>
+    <item>
+        <Book_ID>445</Book_ID>
+        <Title>Advanced reciprocal time-frame</Title>
+        <Author>Pamela Crawford</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2007</Published_Year>
+        <Price>13.61</Price>
+        <Stock>71</Stock>
+    </item>
+    <item>
+        <Book_ID>446</Book_ID>
+        <Title>Open-architected 3rdgeneration budgetary management</Title>
+        <Author>Carolyn Schmidt</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1909</Published_Year>
+        <Price>34.49</Price>
+        <Stock>7</Stock>
+    </item>
+    <item>
+        <Book_ID>447</Book_ID>
+        <Title>Enterprise-wide empowering circuit</Title>
+        <Author>Steven Hutchinson</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1906</Published_Year>
+        <Price>36.25</Price>
+        <Stock>9</Stock>
+    </item>
+    <item>
+        <Book_ID>448</Book_ID>
+        <Title>Digitized uniform Internet solution</Title>
+        <Author>Douglas Malone</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1929</Published_Year>
+        <Price>6.26</Price>
+        <Stock>70</Stock>
+    </item>
+    <item>
+        <Book_ID>449</Book_ID>
+        <Title>Universal homogeneous adapter</Title>
+        <Author>Gina Lopez</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1966</Published_Year>
+        <Price>40.17</Price>
+        <Stock>1</Stock>
+    </item>
+    <item>
+        <Book_ID>450</Book_ID>
+        <Title>Reactive high-level framework</Title>
+        <Author>Miguel Smith</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1935</Published_Year>
+        <Price>45.75</Price>
+        <Stock>18</Stock>
+    </item>
+    <item>
+        <Book_ID>451</Book_ID>
+        <Title>Re-contextualized logistical throughput</Title>
+        <Author>Danielle Alvarez</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2009</Published_Year>
+        <Price>5.63</Price>
+        <Stock>87</Stock>
+    </item>
+    <item>
+        <Book_ID>452</Book_ID>
+        <Title>Vision-oriented 5thgeneration analyzer</Title>
+        <Author>Amber Hayden</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1909</Published_Year>
+        <Price>40.78</Price>
+        <Stock>5</Stock>
+    </item>
+    <item>
+        <Book_ID>453</Book_ID>
+        <Title>Optional 6thgeneration task-force</Title>
+        <Author>Jesse Morgan</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1996</Published_Year>
+        <Price>48.55</Price>
+        <Stock>65</Stock>
+    </item>
+    <item>
+        <Book_ID>454</Book_ID>
+        <Title>Stand-alone methodical implementation</Title>
+        <Author>Kim Wilson</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1940</Published_Year>
+        <Price>9.56</Price>
+        <Stock>94</Stock>
+    </item>
+    <item>
+        <Book_ID>455</Book_ID>
+        <Title>Diverse zero tolerance service-desk</Title>
+        <Author>Ashley Jackson</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1960</Published_Year>
+        <Price>27.03</Price>
+        <Stock>55</Stock>
+    </item>
+    <item>
+        <Book_ID>456</Book_ID>
+        <Title>User-centric composite projection</Title>
+        <Author>Jordan West</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1991</Published_Year>
+        <Price>20.11</Price>
+        <Stock>37</Stock>
+    </item>
+    <item>
+        <Book_ID>457</Book_ID>
+        <Title>Configurable disintermediate extranet</Title>
+        <Author>Melissa Lewis</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1953</Published_Year>
+        <Price>28.22</Price>
+        <Stock>2</Stock>
+    </item>
+    <item>
+        <Book_ID>458</Book_ID>
+        <Title>Cross-group analyzing matrix</Title>
+        <Author>Nancy Griffith</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1914</Published_Year>
+        <Price>37.28</Price>
+        <Stock>53</Stock>
+    </item>
+    <item>
+        <Book_ID>459</Book_ID>
+        <Title>Customizable optimal infrastructure</Title>
+        <Author>Robert Garcia</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2013</Published_Year>
+        <Price>35.77</Price>
+        <Stock>45</Stock>
+    </item>
+    <item>
+        <Book_ID>460</Book_ID>
+        <Title>Optimized human-resource forecast</Title>
+        <Author>Rachel Travis</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1900</Published_Year>
+        <Price>35.88</Price>
+        <Stock>39</Stock>
+    </item>
+    <item>
+        <Book_ID>461</Book_ID>
+        <Title>Cloned cohesive attitude</Title>
+        <Author>Daniel Walsh</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1969</Published_Year>
+        <Price>9.6</Price>
+        <Stock>39</Stock>
+    </item>
+    <item>
+        <Book_ID>462</Book_ID>
+        <Title>Innovative 3rdgeneration database</Title>
+        <Author>Allison Contreras</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1988</Published_Year>
+        <Price>49.23</Price>
+        <Stock>62</Stock>
+    </item>
+    <item>
+        <Book_ID>463</Book_ID>
+        <Title>Re-engineered disintermediate definition</Title>
+        <Author>Cheryl Anderson</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1911</Published_Year>
+        <Price>11.99</Price>
+        <Stock>36</Stock>
+    </item>
+    <item>
+        <Book_ID>464</Book_ID>
+        <Title>Function-based human-resource migration</Title>
+        <Author>Lauren Hall</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1998</Published_Year>
+        <Price>38.54</Price>
+        <Stock>12</Stock>
+    </item>
+    <item>
+        <Book_ID>465</Book_ID>
+        <Title>Organic attitude-oriented support</Title>
+        <Author>Kayla Clarke</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1920</Published_Year>
+        <Price>24.93</Price>
+        <Stock>78</Stock>
+    </item>
+    <item>
+        <Book_ID>466</Book_ID>
+        <Title>Multi-channeled mission-critical initiative</Title>
+        <Author>Michelle Hanson</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>2015</Published_Year>
+        <Price>37.17</Price>
+        <Stock>93</Stock>
+    </item>
+    <item>
+        <Book_ID>467</Book_ID>
+        <Title>Function-based dedicated frame</Title>
+        <Author>Larry Hunt</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1979</Published_Year>
+        <Price>13.82</Price>
+        <Stock>96</Stock>
+    </item>
+    <item>
+        <Book_ID>468</Book_ID>
+        <Title>Organized upward-trending parallelism</Title>
+        <Author>Nicole Davenport</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1987</Published_Year>
+        <Price>30.59</Price>
+        <Stock>83</Stock>
+    </item>
+    <item>
+        <Book_ID>469</Book_ID>
+        <Title>Automated 5thgeneration customer loyalty</Title>
+        <Author>Kimberly Shannon</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1967</Published_Year>
+        <Price>23.25</Price>
+        <Stock>92</Stock>
+    </item>
+    <item>
+        <Book_ID>470</Book_ID>
+        <Title>Function-based mobile neural-net</Title>
+        <Author>Christopher Gomez</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1915</Published_Year>
+        <Price>27.67</Price>
+        <Stock>40</Stock>
+    </item>
+    <item>
+        <Book_ID>471</Book_ID>
+        <Title>Cross-platform next generation website</Title>
+        <Author>Anna Roberts</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1929</Published_Year>
+        <Price>45.38</Price>
+        <Stock>37</Stock>
+    </item>
+    <item>
+        <Book_ID>472</Book_ID>
+        <Title>Stand-alone clear-thinking extranet</Title>
+        <Author>Craig Dominguez</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1942</Published_Year>
+        <Price>28.09</Price>
+        <Stock>9</Stock>
+    </item>
+    <item>
+        <Book_ID>473</Book_ID>
+        <Title>Fully-configurable mobile solution</Title>
+        <Author>Cathy Stone</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1964</Published_Year>
+        <Price>30.26</Price>
+        <Stock>72</Stock>
+    </item>
+    <item>
+        <Book_ID>474</Book_ID>
+        <Title>Grass-roots static hub</Title>
+        <Author>Ryan Mcintyre</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>2010</Published_Year>
+        <Price>46.84</Price>
+        <Stock>98</Stock>
+    </item>
+    <item>
+        <Book_ID>475</Book_ID>
+        <Title>Stand-alone zero administration emulation</Title>
+        <Author>Michelle Lyons</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1986</Published_Year>
+        <Price>47.76</Price>
+        <Stock>100</Stock>
+    </item>
+    <item>
+        <Book_ID>476</Book_ID>
+        <Title>Front-line next generation migration</Title>
+        <Author>Russell Sparks</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1907</Published_Year>
+        <Price>39.42</Price>
+        <Stock>37</Stock>
+    </item>
+    <item>
+        <Book_ID>477</Book_ID>
+        <Title>Distributed cohesive approach</Title>
+        <Author>Chris Brown</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>2019</Published_Year>
+        <Price>27.71</Price>
+        <Stock>17</Stock>
+    </item>
+    <item>
+        <Book_ID>478</Book_ID>
+        <Title>Total logistical parallelism</Title>
+        <Author>Andrea Meyer</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1913</Published_Year>
+        <Price>35.46</Price>
+        <Stock>53</Stock>
+    </item>
+    <item>
+        <Book_ID>479</Book_ID>
+        <Title>Balanced grid-enabled architecture</Title>
+        <Author>Christian Morales</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>2009</Published_Year>
+        <Price>38.27</Price>
+        <Stock>60</Stock>
+    </item>
+    <item>
+        <Book_ID>480</Book_ID>
+        <Title>Adaptive mobile toolset</Title>
+        <Author>Andrew James</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1940</Published_Year>
+        <Price>38.15</Price>
+        <Stock>75</Stock>
+    </item>
+    <item>
+        <Book_ID>481</Book_ID>
+        <Title>Automated transitional hardware</Title>
+        <Author>Nicole Smith</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1980</Published_Year>
+        <Price>10.55</Price>
+        <Stock>77</Stock>
+    </item>
+    <item>
+        <Book_ID>482</Book_ID>
+        <Title>Pre-emptive transitional contingency</Title>
+        <Author>Joseph Holt</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1965</Published_Year>
+        <Price>31.96</Price>
+        <Stock>33</Stock>
+    </item>
+    <item>
+        <Book_ID>483</Book_ID>
+        <Title>Enterprise-wide analyzing alliance</Title>
+        <Author>Alicia Martin</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1931</Published_Year>
+        <Price>14.03</Price>
+        <Stock>46</Stock>
+    </item>
+    <item>
+        <Book_ID>484</Book_ID>
+        <Title>User-centric discrete software</Title>
+        <Author>Emma Hudson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1991</Published_Year>
+        <Price>37.51</Price>
+        <Stock>37</Stock>
+    </item>
+    <item>
+        <Book_ID>485</Book_ID>
+        <Title>Decentralized content-based access</Title>
+        <Author>Nancy Taylor</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1900</Published_Year>
+        <Price>23.16</Price>
+        <Stock>57</Stock>
+    </item>
+    <item>
+        <Book_ID>486</Book_ID>
+        <Title>Monitored tangible extranet</Title>
+        <Author>Lisa Medina</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2018</Published_Year>
+        <Price>19.13</Price>
+        <Stock>52</Stock>
+    </item>
+    <item>
+        <Book_ID>487</Book_ID>
+        <Title>Self-enabling actuating monitoring</Title>
+        <Author>Allison Salas</Author>
+        <Genre>Mystery</Genre>
+        <Published_Year>1921</Published_Year>
+        <Price>39.26</Price>
+        <Stock>26</Stock>
+    </item>
+    <item>
+        <Book_ID>488</Book_ID>
+        <Title>Optimized attitude-oriented synergy</Title>
+        <Author>Cory Ross</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1985</Published_Year>
+        <Price>49.15</Price>
+        <Stock>64</Stock>
+    </item>
+    <item>
+        <Book_ID>489</Book_ID>
+        <Title>Enhanced system-worthy middleware</Title>
+        <Author>Roger Austin</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1906</Published_Year>
+        <Price>34.02</Price>
+        <Stock>49</Stock>
+    </item>
+    <item>
+        <Book_ID>490</Book_ID>
+        <Title>Progressive client-server infrastructure</Title>
+        <Author>Philip Thompson</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>2019</Published_Year>
+        <Price>12.88</Price>
+        <Stock>40</Stock>
+    </item>
+    <item>
+        <Book_ID>491</Book_ID>
+        <Title>Pre-emptive intangible adapter</Title>
+        <Author>Michael Hill</Author>
+        <Genre>Fantasy</Genre>
+        <Published_Year>1910</Published_Year>
+        <Price>14.87</Price>
+        <Stock>2</Stock>
+    </item>
+    <item>
+        <Book_ID>492</Book_ID>
+        <Title>Implemented next generation open architecture</Title>
+        <Author>Marcus Spencer</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1984</Published_Year>
+        <Price>44.07</Price>
+        <Stock>76</Stock>
+    </item>
+    <item>
+        <Book_ID>493</Book_ID>
+        <Title>User-centric bi-directional application</Title>
+        <Author>Anthony Poole</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1956</Published_Year>
+        <Price>28.08</Price>
+        <Stock>89</Stock>
+    </item>
+    <item>
+        <Book_ID>494</Book_ID>
+        <Title>Triple-buffered dedicated strategy</Title>
+        <Author>Kimberly Smith MD</Author>
+        <Genre>Romance</Genre>
+        <Published_Year>1901</Published_Year>
+        <Price>6.66</Price>
+        <Stock>59</Stock>
+    </item>
+    <item>
+        <Book_ID>495</Book_ID>
+        <Title>Horizontal background throughput</Title>
+        <Author>Billy Lopez</Author>
+        <Genre>Fiction</Genre>
+        <Published_Year>1987</Published_Year>
+        <Price>20.31</Price>
+        <Stock>43</Stock>
+    </item>
+    <item>
+        <Book_ID>496</Book_ID>
+        <Title>Decentralized radical forecast</Title>
+        <Author>James Adams</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1966</Published_Year>
+        <Price>43.75</Price>
+        <Stock>96</Stock>
+    </item>
+    <item>
+        <Book_ID>497</Book_ID>
+        <Title>Function-based local installation</Title>
+        <Author>Craig Thompson</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1919</Published_Year>
+        <Price>24.1</Price>
+        <Stock>33</Stock>
+    </item>
+    <item>
+        <Book_ID>498</Book_ID>
+        <Title>Secured 24/7 neural-net</Title>
+        <Author>Heather Marks</Author>
+        <Genre>Non-Fiction</Genre>
+        <Published_Year>1975</Published_Year>
+        <Price>10.88</Price>
+        <Stock>22</Stock>
+    </item>
+    <item>
+        <Book_ID>499</Book_ID>
+        <Title>Compatible transitional budgetary management</Title>
+        <Author>Isaac Nelson</Author>
+        <Genre>Biography</Genre>
+        <Published_Year>1905</Published_Year>
+        <Price>6.94</Price>
+        <Stock>64</Stock>
+    </item>
+    <item>
+        <Book_ID>500</Book_ID>
+        <Title>Vision-oriented zero tolerance initiative</Title>
+        <Author>David Hatfield</Author>
+        <Genre>Science Fiction</Genre>
+        <Published_Year>1921</Published_Year>
+        <Price>15.94</Price>
+        <Stock>64</Stock>
+    </item>
+</Livros>

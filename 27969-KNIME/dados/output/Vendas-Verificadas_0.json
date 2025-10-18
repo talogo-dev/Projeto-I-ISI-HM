@@ -1,0 +1,71 @@
+[ {
+  "Venda_Id" : 6,
+  "Cliente_Id" : 439,
+  "Livro_Id" : 119,
+  "Data_Venda" : "2024-10-11",
+  "Quantidade" : "5.0",
+  "Preço_Total" : "249.4"
+}, {
+  "Venda_Id" : 17,
+  "Cliente_Id" : 462,
+  "Livro_Id" : 481,
+  "Data_Venda" : "2023-03-20",
+  "Quantidade" : "5.0",
+  "Preço_Total" : "52.75"
+}, {
+  "Venda_Id" : 77,
+  "Cliente_Id" : 497,
+  "Livro_Id" : 242,
+  "Data_Venda" : "2024-03-20",
+  "Quantidade" : "7.0",
+  "Preço_Total" : "236.53"
+}, {
+  "Venda_Id" : 180,
+  "Cliente_Id" : 460,
+  "Livro_Id" : 227,
+  "Data_Venda" : "2023-01-20",
+  "Quantidade" : "7.0",
+  "Preço_Total" : "267.19"
+}, {
+  "Venda_Id" : 267,
+  "Cliente_Id" : 467,
+  "Livro_Id" : 390,
+  "Data_Venda" : "2024-08-30",
+  "Quantidade" : "9.0",
+  "Preço_Total" : "359.64"
+}, {
+  "Venda_Id" : 322,
+  "Cliente_Id" : 270,
+  "Livro_Id" : 112,
+  "Data_Venda" : "2023-11-08",
+  "Quantidade" : "2.0",
+  "Preço_Total" : "16.04"
+}, {
+  "Venda_Id" : 395,
+  "Cliente_Id" : 159,
+  "Livro_Id" : 443,
+  "Data_Venda" : "2024-05-27",
+  "Quantidade" : "9.0",
+  "Preço_Total" : "396.45"
+}, {
+  "Venda_Id" : 453,
+  "Cliente_Id" : 22,
+  "Livro_Id" : 418,
+  "Data_Venda" : "2023-04-19",
+  "Quantidade" : "8.0",
+  "Preço_Total" : "255.04"
+}, {
+  "Venda_Id" : 481,
+  "Cliente_Id" : 405,
+  "Livro_Id" : 353,
+  "Data_Venda" : "2023-07-07",
+  "Quantidade" : "10.0",
+  "Preço_Total" : "469.7"
+}, {
+  "Venda_Id" : 492,
+  "Cliente_Id" : 284,
+  "Livro_Id" : 120,
+  "Data_Venda" : "2024-04-28",
+  "Quantidade" : "10.0",
+  "Preço_Total" : "480.3"
+} ]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clientes>
+    <item>
+        <Customer_ID>1</Customer_ID>
+        <Name>Marco Cardoso</Name>
+        <Email>madik75822@apocaw.com</Email>
+        <Phone>1234567891</Phone>
+        <City>Barcelos</City>
+        <Country>Portugal</Country>
+    </item>
+</Clientes>

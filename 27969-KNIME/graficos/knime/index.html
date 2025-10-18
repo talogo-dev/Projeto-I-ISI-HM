@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestão de Vendas de Livros</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Informações sobre clientes</h1>
+        <div class="navbar">
+            <ul>
+                <a href="#"><li>Clientes</li></a>
+                <a href="livros.html"><li>Livros</li></a>
+                <a href="vendas.html"><li>Vendas</li></a>
+            </ul>
+        </div>
+        <button onclick="criarGraficoClientes()">Gerar gráfico</button>
+    </header>
+
+    <main>
+        <canvas id="grafico" width="600" height="300"></canvas>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

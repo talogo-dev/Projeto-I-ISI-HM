@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Livros>
+    <item>
+        <Book_ID>1</Book_ID>
+        <Title>Livro teste</Title>
+        <Author>Marco</Author>
+        <Genre>Testar</Genre>
+        <Published_Year>2026</Published_Year>
+        <Price>10.0</Price>
+        <Stock>1</Stock>
+    </item>
+</Livros>

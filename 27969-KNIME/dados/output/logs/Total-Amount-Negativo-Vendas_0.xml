@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vendas-Invalidas>
+    <item>
+        <Order_ID>309</Order_ID>
+        <Customer_ID>185</Customer_ID>
+        <Book_ID>227</Book_ID>
+        <Order_Date>2022-29-12</Order_Date>
+        <Quantity>8.0</Quantity>
+        <Total_Amount>-305.36</Total_Amount>
+    </item>
+    <item>
+        <Order_ID>94</Order_ID>
+        <Customer_ID>136</Customer_ID>
+        <Book_ID>88</Book_ID>
+        <Order_Date>2024-06-07</Order_Date>
+        <Quantity>0.0</Quantity>
+        <Total_Amount>-241.32</Total_Amount>
+    </item>
+    <item>
+        <Order_ID>241</Order_ID>
+        <Customer_ID>119</Customer_ID>
+        <Book_ID>69</Book_ID>
+        <Order_Date>2024-08-07</Order_Date>
+        <Quantity>0.0</Quantity>
+        <Total_Amount>-52.74</Total_Amount>
+    </item>
+    <item>
+        <Order_ID>12</Order_ID>
+        <Customer_ID>454</Customer_ID>
+        <Book_ID>3</Book_ID>
+        <Order_Date>2024-17-06</Order_Date>
+        <Quantity>2.0</Quantity>
+        <Total_Amount>-31.5</Total_Amount>
+    </item>
+</Vendas-Invalidas>

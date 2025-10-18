@@ -1,0 +1,1297 @@
+[ {
+  "Id" : 1,
+  "Titulo" : "Configurable modular throughput",
+  "Autor" : "Joseph Crane",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1949,
+  "Preco" : 21.3,
+  "Quantidade" : 100
+}, {
+  "Id" : 4,
+  "Titulo" : "Customizable 24hour product",
+  "Autor" : "Christopher Andrews",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 2020,
+  "Preco" : 43.5,
+  "Quantidade" : 8
+}, {
+  "Id" : 5,
+  "Titulo" : "Adaptive 5thgeneration encoding",
+  "Autor" : "Juan Miller",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1956,
+  "Preco" : 11.0,
+  "Quantidade" : 16
+}, {
+  "Id" : 8,
+  "Titulo" : "Persistent local encoding",
+  "Autor" : "Troy Cox",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 2019,
+  "Preco" : 49.0,
+  "Quantidade" : 84
+}, {
+  "Id" : 9,
+  "Titulo" : "Optimized interactive challenge",
+  "Autor" : "Colin Buckley",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1987,
+  "Preco" : 14.3,
+  "Quantidade" : 70
+}, {
+  "Id" : 11,
+  "Titulo" : "Secured zero tolerance time-frame",
+  "Autor" : "Denise Barnes",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1998,
+  "Preco" : 36.0,
+  "Quantidade" : 10
+}, {
+  "Id" : 13,
+  "Titulo" : "Adaptive 5thgeneration orchestration",
+  "Autor" : "Jaclyn Miller",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1913,
+  "Preco" : 14.0,
+  "Quantidade" : 99
+}, {
+  "Id" : 15,
+  "Titulo" : "User-friendly motivating strategy",
+  "Autor" : "Keith Smith",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1997,
+  "Preco" : 23.8,
+  "Quantidade" : 58
+}, {
+  "Id" : 19,
+  "Titulo" : "Progressive asymmetric Internet solution",
+  "Autor" : "Sean Miller",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1990,
+  "Preco" : 11.3,
+  "Quantidade" : 1
+}, {
+  "Id" : 23,
+  "Titulo" : "Reverse-engineered context-sensitive hardware",
+  "Autor" : "Christina Hernandez",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1967,
+  "Preco" : 38.6,
+  "Quantidade" : 70
+}, {
+  "Id" : 28,
+  "Titulo" : "Expanded analyzing portal",
+  "Autor" : "Lisa Coffey",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1941,
+  "Preco" : 37.5,
+  "Quantidade" : 79
+}, {
+  "Id" : 29,
+  "Titulo" : "Quality-focused multi-tasking challenge",
+  "Autor" : "Katrina Underwood",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1905,
+  "Preco" : 31.1,
+  "Quantidade" : 100
+}, {
+  "Id" : 30,
+  "Titulo" : "Multi-layered global open system",
+  "Autor" : "Jose Meyer",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 2012,
+  "Preco" : 30.6,
+  "Quantidade" : 37
+}, {
+  "Id" : 33,
+  "Titulo" : "Team-oriented empowering synergy",
+  "Autor" : "Sandra Williams",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 2023,
+  "Preco" : 35.1,
+  "Quantidade" : 49
+}, {
+  "Id" : 36,
+  "Titulo" : "Open-source needs-based secured line",
+  "Autor" : "Jacob French",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1949,
+  "Preco" : 34.5,
+  "Quantidade" : 86
+}, {
+  "Id" : 40,
+  "Titulo" : "Adaptive didactic interface",
+  "Autor" : "Natalie Gonzalez",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1923,
+  "Preco" : 26.0,
+  "Quantidade" : 94
+}, {
+  "Id" : 42,
+  "Titulo" : "Pre-emptive interactive focus group",
+  "Autor" : "Shannon Reese",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1937,
+  "Preco" : 48.4,
+  "Quantidade" : 82
+}, {
+  "Id" : 49,
+  "Titulo" : "Robust attitude-oriented attitude",
+  "Autor" : "Zachary Hayes",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1955,
+  "Preco" : 49.5,
+  "Quantidade" : 15
+}, {
+  "Id" : 50,
+  "Titulo" : "Face-to-face responsive secured line",
+  "Autor" : "Lindsey Rodriguez",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1970,
+  "Preco" : 37.0,
+  "Quantidade" : 63
+}, {
+  "Id" : 53,
+  "Titulo" : "Triple-buffered multi-tasking help-desk",
+  "Autor" : "Brian Johnson",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1969,
+  "Preco" : 29.3,
+  "Quantidade" : 60
+}, {
+  "Id" : 54,
+  "Titulo" : "Progressive bi-directional methodology",
+  "Autor" : "Adrian Taylor",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 2015,
+  "Preco" : 44.8,
+  "Quantidade" : 27
+}, {
+  "Id" : 56,
+  "Titulo" : "Integrated intermediate Internet solution",
+  "Autor" : "Stacy Cabrera",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1976,
+  "Preco" : 7.9,
+  "Quantidade" : 67
+}, {
+  "Id" : 60,
+  "Titulo" : "Robust eco-centric capacity",
+  "Autor" : "Brian Haney",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1990,
+  "Preco" : 35.1,
+  "Quantidade" : 0
+}, {
+  "Id" : 67,
+  "Titulo" : "Grass-roots zero tolerance archive",
+  "Autor" : "Michelle Taylor",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1966,
+  "Preco" : 10.2,
+  "Quantidade" : 25
+}, {
+  "Id" : 68,
+  "Titulo" : "Centralized responsive firmware",
+  "Autor" : "Alexander Nelson",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1919,
+  "Preco" : 29.6,
+  "Quantidade" : 23
+}, {
+  "Id" : 69,
+  "Titulo" : "Cloned impactful solution",
+  "Autor" : "Nichole Smith",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1961,
+  "Preco" : 8.8,
+  "Quantidade" : 50
+}, {
+  "Id" : 72,
+  "Titulo" : "Networked contextually-based throughput",
+  "Autor" : "Andrea Eaton",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1959,
+  "Preco" : 46.5,
+  "Quantidade" : 65
+}, {
+  "Id" : 75,
+  "Titulo" : "Multi-layered fresh-thinking solution",
+  "Autor" : "James Buckley",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1912,
+  "Preco" : 47.1,
+  "Quantidade" : 3
+}, {
+  "Id" : 76,
+  "Titulo" : "Innovative directional matrix",
+  "Autor" : "David Castaneda",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 2009,
+  "Preco" : 41.3,
+  "Quantidade" : 9
+}, {
+  "Id" : 79,
+  "Titulo" : "Extended actuating encryption",
+  "Autor" : "Kylie Brown",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1935,
+  "Preco" : 32.5,
+  "Quantidade" : 4
+}, {
+  "Id" : 81,
+  "Titulo" : "Team-oriented logistical analyzer",
+  "Autor" : "Scott Gentry",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 2010,
+  "Preco" : 44.2,
+  "Quantidade" : 13
+}, {
+  "Id" : 82,
+  "Titulo" : "Optimized multi-state capacity",
+  "Autor" : "Sean Griffin",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 2001,
+  "Preco" : 45.7,
+  "Quantidade" : 38
+}, {
+  "Id" : 84,
+  "Titulo" : "Stand-alone 24hour interface",
+  "Autor" : "James Ortiz",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1980,
+  "Preco" : 44.6,
+  "Quantidade" : 20
+}, {
+  "Id" : 86,
+  "Titulo" : "Re-engineered 24/7 projection",
+  "Autor" : "Kathryn Williams",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1948,
+  "Preco" : 25.5,
+  "Quantidade" : 44
+}, {
+  "Id" : 88,
+  "Titulo" : "Robust tangible hardware",
+  "Autor" : "Paul Miles",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1999,
+  "Preco" : 40.2,
+  "Quantidade" : 32
+}, {
+  "Id" : 91,
+  "Titulo" : "Integrated exuding application",
+  "Autor" : "Elizabeth Morrison",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1923,
+  "Preco" : 27.8,
+  "Quantidade" : 81
+}, {
+  "Id" : 96,
+  "Titulo" : "Up-sized impactful artificial intelligence",
+  "Autor" : "Rebecca Delgado",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1913,
+  "Preco" : 12.6,
+  "Quantidade" : 73
+}, {
+  "Id" : 103,
+  "Titulo" : "Upgradable foreground open system",
+  "Autor" : "Kathryn Lopez",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1907,
+  "Preco" : 43.2,
+  "Quantidade" : 11
+}, {
+  "Id" : 104,
+  "Titulo" : "Automated radical solution",
+  "Autor" : "Leonard Vega",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1948,
+  "Preco" : 10.6,
+  "Quantidade" : 82
+}, {
+  "Id" : 109,
+  "Titulo" : "Operative foreground project",
+  "Autor" : "Valerie Mcfarland",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1970,
+  "Preco" : 8.5,
+  "Quantidade" : 60
+}, {
+  "Id" : 111,
+  "Titulo" : "Switchable full-range definition",
+  "Autor" : "Joseph Rivas",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1932,
+  "Preco" : 40.3,
+  "Quantidade" : 54
+}, {
+  "Id" : 112,
+  "Titulo" : "Distributed secondary software",
+  "Autor" : "Erik Reynolds",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1969,
+  "Preco" : 8.0,
+  "Quantidade" : 21
+}, {
+  "Id" : 113,
+  "Titulo" : "Versatile value-added structure",
+  "Autor" : "Jackson Hill",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1936,
+  "Preco" : 6.4,
+  "Quantidade" : 76
+}, {
+  "Id" : 117,
+  "Titulo" : "Self-enabling contextually-based frame",
+  "Autor" : "Lori Taylor",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1966,
+  "Preco" : 14.9,
+  "Quantidade" : 20
+}, {
+  "Id" : 120,
+  "Titulo" : "Integrated secondary access",
+  "Autor" : "Sheena Harris",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1984,
+  "Preco" : 48.0,
+  "Quantidade" : 93
+}, {
+  "Id" : 126,
+  "Titulo" : "Persevering national encoding",
+  "Autor" : "Paul Moore",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1949,
+  "Preco" : 25.3,
+  "Quantidade" : 78
+}, {
+  "Id" : 135,
+  "Titulo" : "Customizable bi-directional focus group",
+  "Autor" : "Kristin Farley",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 2001,
+  "Preco" : 15.1,
+  "Quantidade" : 83
+}, {
+  "Id" : 137,
+  "Titulo" : "Networked contextually-based encryption",
+  "Autor" : "Leslie Montoya",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1942,
+  "Preco" : 26.3,
+  "Quantidade" : 1
+}, {
+  "Id" : 138,
+  "Titulo" : "Profound zero-defect knowledgebase",
+  "Autor" : "Carolyn Garcia",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1978,
+  "Preco" : 24.8,
+  "Quantidade" : 8
+}, {
+  "Id" : 141,
+  "Titulo" : "Exclusive hybrid monitoring",
+  "Autor" : "Dr. Heather Boyd",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1909,
+  "Preco" : 49.4,
+  "Quantidade" : 36
+}, {
+  "Id" : 143,
+  "Titulo" : "Networked multimedia support",
+  "Autor" : "Nancy Goodman",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 2012,
+  "Preco" : 43.6,
+  "Quantidade" : 50
+}, {
+  "Id" : 146,
+  "Titulo" : "Stand-alone hybrid framework",
+  "Autor" : "Ethan Kennedy",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1903,
+  "Preco" : 14.5,
+  "Quantidade" : 91
+}, {
+  "Id" : 148,
+  "Titulo" : "Upgradable contextually-based hierarchy",
+  "Autor" : "Jared Reyes",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1941,
+  "Preco" : 12.2,
+  "Quantidade" : 97
+}, {
+  "Id" : 150,
+  "Titulo" : "Phased logistical open system",
+  "Autor" : "Jenna Henderson",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1952,
+  "Preco" : 32.0,
+  "Quantidade" : 32
+}, {
+  "Id" : 156,
+  "Titulo" : "Synergistic grid-enabled website",
+  "Autor" : "Brandon Black",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1953,
+  "Preco" : 31.7,
+  "Quantidade" : 34
+}, {
+  "Id" : 160,
+  "Titulo" : "Digitized cohesive emulation",
+  "Autor" : "Jared Cortez",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1924,
+  "Preco" : 34.5,
+  "Quantidade" : 65
+}, {
+  "Id" : 165,
+  "Titulo" : "Exclusive uniform superstructure",
+  "Autor" : "Carl Cantrell",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1912,
+  "Preco" : 32.1,
+  "Quantidade" : 19
+}, {
+  "Id" : 166,
+  "Titulo" : "Customizable discrete Graphical User Interface",
+  "Autor" : "Rebecca Alexander",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1951,
+  "Preco" : 11.0,
+  "Quantidade" : 56
+}, {
+  "Id" : 169,
+  "Titulo" : "Networked tertiary approach",
+  "Autor" : "Margaret Moore",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1963,
+  "Preco" : 23.6,
+  "Quantidade" : 45
+}, {
+  "Id" : 171,
+  "Titulo" : "Integrated hybrid collaboration",
+  "Autor" : "Sarah Vincent",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 2004,
+  "Preco" : 32.2,
+  "Quantidade" : 99
+}, {
+  "Id" : 177,
+  "Titulo" : "Visionary exuding product",
+  "Autor" : "Christopher Johnson",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1904,
+  "Preco" : 36.2,
+  "Quantidade" : 3
+}, {
+  "Id" : 178,
+  "Titulo" : "Organized even-keeled conglomeration",
+  "Autor" : "Christopher Ray",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1970,
+  "Preco" : 27.9,
+  "Quantidade" : 31
+}, {
+  "Id" : 179,
+  "Titulo" : "Innovative didactic capacity",
+  "Autor" : "Matthew Vazquez",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 2009,
+  "Preco" : 48.2,
+  "Quantidade" : 66
+}, {
+  "Id" : 190,
+  "Titulo" : "Cross-platform even-keeled focus group",
+  "Autor" : "Andrew Parker",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 2016,
+  "Preco" : 38.4,
+  "Quantidade" : 4
+}, {
+  "Id" : 192,
+  "Titulo" : "Phased solution-oriented collaboration",
+  "Autor" : "Nicholas Roth",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1930,
+  "Preco" : 48.4,
+  "Quantidade" : 71
+}, {
+  "Id" : 196,
+  "Titulo" : "Phased context-sensitive task-force",
+  "Autor" : "Rachel Gibbs",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1934,
+  "Preco" : 6.7,
+  "Quantidade" : 24
+}, {
+  "Id" : 197,
+  "Titulo" : "Organized content-based core",
+  "Autor" : "Brandon Martin",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1980,
+  "Preco" : 43.0,
+  "Quantidade" : 9
+}, {
+  "Id" : 202,
+  "Titulo" : "Balanced optimal open architecture",
+  "Autor" : "Lindsey Johnson",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1964,
+  "Preco" : 12.3,
+  "Quantidade" : 32
+}, {
+  "Id" : 203,
+  "Titulo" : "Self-enabling mobile software",
+  "Autor" : "Stephanie Frost",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 2003,
+  "Preco" : 27.2,
+  "Quantidade" : 52
+}, {
+  "Id" : 204,
+  "Titulo" : "Business-focused foreground model",
+  "Autor" : "Heather Zavala",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1921,
+  "Preco" : 26.5,
+  "Quantidade" : 59
+}, {
+  "Id" : 206,
+  "Titulo" : "Digitized executive flexibility",
+  "Autor" : "Lisa Lopez",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1960,
+  "Preco" : 38.0,
+  "Quantidade" : 84
+}, {
+  "Id" : 215,
+  "Titulo" : "Organic 24/7 focus group",
+  "Autor" : "Marco Travis",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1910,
+  "Preco" : 25.2,
+  "Quantidade" : 37
+}, {
+  "Id" : 219,
+  "Titulo" : "Reactive bandwidth-monitored architecture",
+  "Autor" : "Michele Williams",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1961,
+  "Preco" : 20.9,
+  "Quantidade" : 32
+}, {
+  "Id" : 223,
+  "Titulo" : "Virtual holistic Internet solution",
+  "Autor" : "Lauren Merritt",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1944,
+  "Preco" : 6.5,
+  "Quantidade" : 95
+}, {
+  "Id" : 225,
+  "Titulo" : "Synergized foreground website",
+  "Autor" : "Carrie Ware",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1976,
+  "Preco" : 36.0,
+  "Quantidade" : 26
+}, {
+  "Id" : 229,
+  "Titulo" : "Managed hybrid array",
+  "Autor" : "Charles Smith",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1965,
+  "Preco" : 20.5,
+  "Quantidade" : 78
+}, {
+  "Id" : 236,
+  "Titulo" : "Assimilated disintermediate ability",
+  "Autor" : "Christopher Anderson",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1948,
+  "Preco" : 10.8,
+  "Quantidade" : 87
+}, {
+  "Id" : 238,
+  "Titulo" : "Optimized even-keeled analyzer",
+  "Autor" : "Sherri Griffith",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1975,
+  "Preco" : 49.0,
+  "Quantidade" : 72
+}, {
+  "Id" : 242,
+  "Titulo" : "Business-focused responsive parallelism",
+  "Autor" : "Amy Reyes",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1954,
+  "Preco" : 33.8,
+  "Quantidade" : 38
+}, {
+  "Id" : 244,
+  "Titulo" : "Managed radical superstructure",
+  "Autor" : "David Hoover",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1968,
+  "Preco" : 7.4,
+  "Quantidade" : 88
+}, {
+  "Id" : 250,
+  "Titulo" : "Devolved incremental intranet",
+  "Autor" : "Jessica Lopez",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1918,
+  "Preco" : 12.6,
+  "Quantidade" : 13
+}, {
+  "Id" : 253,
+  "Titulo" : "Horizontal didactic structure",
+  "Autor" : "Robert Rodriguez",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1961,
+  "Preco" : 11.7,
+  "Quantidade" : 21
+}, {
+  "Id" : 256,
+  "Titulo" : "Digitized multi-state circuit",
+  "Autor" : "Sarah Walker",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1981,
+  "Preco" : 36.9,
+  "Quantidade" : 77
+}, {
+  "Id" : 270,
+  "Titulo" : "Organized logistical architecture",
+  "Autor" : "Christopher Martinez",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1919,
+  "Preco" : 13.2,
+  "Quantidade" : 25
+}, {
+  "Id" : 271,
+  "Titulo" : "Intuitive intangible circuit",
+  "Autor" : "Robin Mejia",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1974,
+  "Preco" : 22.1,
+  "Quantidade" : 82
+}, {
+  "Id" : 273,
+  "Titulo" : "Devolved zero administration process improvement",
+  "Autor" : "Emily James",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1929,
+  "Preco" : 12.4,
+  "Quantidade" : 23
+}, {
+  "Id" : 276,
+  "Titulo" : "Profound radical access",
+  "Autor" : "Ryan Clark",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1911,
+  "Preco" : 19.8,
+  "Quantidade" : 32
+}, {
+  "Id" : 277,
+  "Titulo" : "Progressive user-facing customer loyalty",
+  "Autor" : "Ashley Cunningham",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1909,
+  "Preco" : 33.2,
+  "Quantidade" : 95
+}, {
+  "Id" : 281,
+  "Titulo" : "Fundamental object-oriented productivity",
+  "Autor" : "Robert Hatfield",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1931,
+  "Preco" : 16.3,
+  "Quantidade" : 83
+}, {
+  "Id" : 284,
+  "Titulo" : "Progressive 24hour artificial intelligence",
+  "Autor" : "Peter Cabrera",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1906,
+  "Preco" : 15.2,
+  "Quantidade" : 99
+}, {
+  "Id" : 286,
+  "Titulo" : "Sharable client-driven contingency",
+  "Autor" : "Joseph Crawford",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1900,
+  "Preco" : 8.3,
+  "Quantidade" : 84
+}, {
+  "Id" : 290,
+  "Titulo" : "Expanded analyzing forecast",
+  "Autor" : "Holly Golden",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1988,
+  "Preco" : 43.8,
+  "Quantidade" : 31
+}, {
+  "Id" : 292,
+  "Titulo" : "Fully-configurable mission-critical artificial intelligence",
+  "Autor" : "Rachel Adkins",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 2017,
+  "Preco" : 26.9,
+  "Quantidade" : 2
+}, {
+  "Id" : 294,
+  "Titulo" : "Pre-emptive clear-thinking workforce",
+  "Autor" : "Craig Sanchez",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1964,
+  "Preco" : 42.5,
+  "Quantidade" : 29
+}, {
+  "Id" : 300,
+  "Titulo" : "Integrated fresh-thinking toolset",
+  "Autor" : "Joseph Jensen",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1962,
+  "Preco" : 26.9,
+  "Quantidade" : 77
+}, {
+  "Id" : 301,
+  "Titulo" : "Polarized high-level installation",
+  "Autor" : "John Davidson",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1975,
+  "Preco" : 21.7,
+  "Quantidade" : 77
+}, {
+  "Id" : 302,
+  "Titulo" : "Ergonomic leadingedge portal",
+  "Autor" : "James Curtis",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1981,
+  "Preco" : 28.7,
+  "Quantidade" : 92
+}, {
+  "Id" : 306,
+  "Titulo" : "Phased didactic product",
+  "Autor" : "Elizabeth Koch",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1988,
+  "Preco" : 43.9,
+  "Quantidade" : 56
+}, {
+  "Id" : 307,
+  "Titulo" : "Expanded local infrastructure",
+  "Autor" : "Valerie Moore",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1914,
+  "Preco" : 14.4,
+  "Quantidade" : 7
+}, {
+  "Id" : 313,
+  "Titulo" : "Profound client-driven paradigm",
+  "Autor" : "Nicole Olson",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1997,
+  "Preco" : 47.2,
+  "Quantidade" : 53
+}, {
+  "Id" : 315,
+  "Titulo" : "Virtual exuding Internet solution",
+  "Autor" : "Anne George",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 2012,
+  "Preco" : 42.9,
+  "Quantidade" : 40
+}, {
+  "Id" : 316,
+  "Titulo" : "Multi-tiered client-server methodology",
+  "Autor" : "Rebecca Chavez",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1992,
+  "Preco" : 8.8,
+  "Quantidade" : 74
+}, {
+  "Id" : 320,
+  "Titulo" : "Ergonomic clear-thinking interface",
+  "Autor" : "Judith Gutierrez",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1950,
+  "Preco" : 5.1,
+  "Quantidade" : 55
+}, {
+  "Id" : 321,
+  "Titulo" : "Polarized optimizing moratorium",
+  "Autor" : "Amanda Savage",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1911,
+  "Preco" : 24.3,
+  "Quantidade" : 16
+}, {
+  "Id" : 322,
+  "Titulo" : "Customizable object-oriented paradigm",
+  "Autor" : "Gail Lawson",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1932,
+  "Preco" : 26.5,
+  "Quantidade" : 42
+}, {
+  "Id" : 324,
+  "Titulo" : "Diverse dynamic contingency",
+  "Autor" : "James Duran",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1993,
+  "Preco" : 46.1,
+  "Quantidade" : 23
+}, {
+  "Id" : 325,
+  "Titulo" : "Proactive secondary help-desk",
+  "Autor" : "William Drake",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1981,
+  "Preco" : 40.4,
+  "Quantidade" : 50
+}, {
+  "Id" : 326,
+  "Titulo" : "Networked composite Internet solution",
+  "Autor" : "Victoria Wilson",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1903,
+  "Preco" : 15.2,
+  "Quantidade" : 78
+}, {
+  "Id" : 336,
+  "Titulo" : "Organized high-level algorithm",
+  "Autor" : "Grace Waller",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 2006,
+  "Preco" : 24.1,
+  "Quantidade" : 26
+}, {
+  "Id" : 337,
+  "Titulo" : "Progressive impactful structure",
+  "Autor" : "Karen Moreno",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1901,
+  "Preco" : 34.3,
+  "Quantidade" : 44
+}, {
+  "Id" : 338,
+  "Titulo" : "Seamless analyzing encoding",
+  "Autor" : "Kevin Garcia",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1949,
+  "Preco" : 10.2,
+  "Quantidade" : 61
+}, {
+  "Id" : 340,
+  "Titulo" : "Proactive system-worthy orchestration",
+  "Autor" : "Robert Scott",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1907,
+  "Preco" : 50.0,
+  "Quantidade" : 88
+}, {
+  "Id" : 342,
+  "Titulo" : "Digitized regional monitoring",
+  "Autor" : "Kenneth Finley",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1969,
+  "Preco" : 17.1,
+  "Quantidade" : 84
+}, {
+  "Id" : 351,
+  "Titulo" : "Decentralized demand-driven middleware",
+  "Autor" : "Carmen Johnson",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1972,
+  "Preco" : 35.0,
+  "Quantidade" : 42
+}, {
+  "Id" : 352,
+  "Titulo" : "Intuitive intermediate paradigm",
+  "Autor" : "Scott Bowman MD",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1927,
+  "Preco" : 6.0,
+  "Quantidade" : 97
+}, {
+  "Id" : 353,
+  "Titulo" : "Public-key intangible frame",
+  "Autor" : "Katherine Fry",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1984,
+  "Preco" : 47.0,
+  "Quantidade" : 41
+}, {
+  "Id" : 355,
+  "Titulo" : "Reduced systematic forecast",
+  "Autor" : "Christine Martin",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1987,
+  "Preco" : 8.1,
+  "Quantidade" : 34
+}, {
+  "Id" : 357,
+  "Titulo" : "Intuitive value-added product",
+  "Autor" : "Hunter Odom",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1983,
+  "Preco" : 11.8,
+  "Quantidade" : 27
+}, {
+  "Id" : 360,
+  "Titulo" : "Profound tertiary encoding",
+  "Autor" : "Jennifer Jones",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 2020,
+  "Preco" : 49.3,
+  "Quantidade" : 73
+}, {
+  "Id" : 363,
+  "Titulo" : "Proactive explicit capability",
+  "Autor" : "Tony Curtis",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1915,
+  "Preco" : 7.5,
+  "Quantidade" : 52
+}, {
+  "Id" : 370,
+  "Titulo" : "Synergistic user-facing frame",
+  "Autor" : "David Olson",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1977,
+  "Preco" : 43.9,
+  "Quantidade" : 97
+}, {
+  "Id" : 372,
+  "Titulo" : "Realigned mobile focus group",
+  "Autor" : "Michael Jackson",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1905,
+  "Preco" : 17.7,
+  "Quantidade" : 42
+}, {
+  "Id" : 377,
+  "Titulo" : "Realigned 6thgeneration infrastructure",
+  "Autor" : "Jennifer Hughes",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 2007,
+  "Preco" : 39.8,
+  "Quantidade" : 55
+}, {
+  "Id" : 378,
+  "Titulo" : "Future-proofed heuristic function",
+  "Autor" : "Samantha Mcclain",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1903,
+  "Preco" : 6.0,
+  "Quantidade" : 0
+}, {
+  "Id" : 379,
+  "Titulo" : "Digitized zero-defect access",
+  "Autor" : "Angela Stewart",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1916,
+  "Preco" : 5.7,
+  "Quantidade" : 95
+}, {
+  "Id" : 389,
+  "Titulo" : "Robust holistic solution",
+  "Autor" : "Jennifer Nelson",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1928,
+  "Preco" : 25.4,
+  "Quantidade" : 89
+}, {
+  "Id" : 393,
+  "Titulo" : "Triple-buffered multimedia access",
+  "Autor" : "Nathan Ashley",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1987,
+  "Preco" : 44.0,
+  "Quantidade" : 44
+}, {
+  "Id" : 398,
+  "Titulo" : "Programmable context-sensitive forecast",
+  "Autor" : "Evelyn Cox",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1998,
+  "Preco" : 33.4,
+  "Quantidade" : 50
+}, {
+  "Id" : 399,
+  "Titulo" : "Distributed regional collaboration",
+  "Autor" : "Juan Reynolds",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 2007,
+  "Preco" : 14.3,
+  "Quantidade" : 25
+}, {
+  "Id" : 406,
+  "Titulo" : "De-engineered methodical capacity",
+  "Autor" : "James Gonzalez",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 2006,
+  "Preco" : 35.8,
+  "Quantidade" : 50
+}, {
+  "Id" : 407,
+  "Titulo" : "Mandatory executive groupware",
+  "Autor" : "Michelle Bell",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1947,
+  "Preco" : 42.2,
+  "Quantidade" : 50
+}, {
+  "Id" : 414,
+  "Titulo" : "Organized directional Internet solution",
+  "Autor" : "Amanda Carrillo",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1999,
+  "Preco" : 22.6,
+  "Quantidade" : 93
+}, {
+  "Id" : 415,
+  "Titulo" : "Enhanced next generation standardization",
+  "Autor" : "Anthony Nguyen",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1976,
+  "Preco" : 29.5,
+  "Quantidade" : 18
+}, {
+  "Id" : 417,
+  "Titulo" : "Persistent radical neural-net",
+  "Autor" : "Christopher Jones",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1945,
+  "Preco" : 46.6,
+  "Quantidade" : 48
+}, {
+  "Id" : 420,
+  "Titulo" : "Proactive radical application",
+  "Autor" : "Kevin Mosley",
+  "Genero" : "Biography",
+  "Ano_Publicado" : 1907,
+  "Preco" : 33.1,
+  "Quantidade" : 35
+}, {
+  "Id" : 421,
+  "Titulo" : "Exclusive zero administration superstructure",
+  "Autor" : "John Pearson",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1901,
+  "Preco" : 40.0,
+  "Quantidade" : 58
+}, {
+  "Id" : 424,
+  "Titulo" : "Object-based secondary knowledgebase",
+  "Autor" : "Eric Shepherd",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1935,
+  "Preco" : 40.5,
+  "Quantidade" : 84
+}, {
+  "Id" : 428,
+  "Titulo" : "Innovative asymmetric utilization",
+  "Autor" : "Darryl Price",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1966,
+  "Preco" : 22.7,
+  "Quantidade" : 66
+}, {
+  "Id" : 437,
+  "Titulo" : "Customizable directional matrices",
+  "Autor" : "Alyssa Lopez",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1960,
+  "Preco" : 44.3,
+  "Quantidade" : 7
+}, {
+  "Id" : 441,
+  "Titulo" : "Streamlined 6thgeneration collaboration",
+  "Autor" : "Susan Reeves",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 2013,
+  "Preco" : 40.7,
+  "Quantidade" : 65
+}, {
+  "Id" : 446,
+  "Titulo" : "Open-architected 3rdgeneration budgetary management",
+  "Autor" : "Carolyn Schmidt",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1909,
+  "Preco" : 34.5,
+  "Quantidade" : 7
+}, {
+  "Id" : 447,
+  "Titulo" : "Enterprise-wide empowering circuit",
+  "Autor" : "Steven Hutchinson",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1906,
+  "Preco" : 36.2,
+  "Quantidade" : 9
+}, {
+  "Id" : 448,
+  "Titulo" : "Digitized uniform Internet solution",
+  "Autor" : "Douglas Malone",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1929,
+  "Preco" : 6.3,
+  "Quantidade" : 70
+}, {
+  "Id" : 449,
+  "Titulo" : "Universal homogeneous adapter",
+  "Autor" : "Gina Lopez",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1966,
+  "Preco" : 40.2,
+  "Quantidade" : 1
+}, {
+  "Id" : 455,
+  "Titulo" : "Diverse zero tolerance service-desk",
+  "Autor" : "Ashley Jackson",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1960,
+  "Preco" : 27.0,
+  "Quantidade" : 55
+}, {
+  "Id" : 456,
+  "Titulo" : "User-centric composite projection",
+  "Autor" : "Jordan West",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1991,
+  "Preco" : 20.1,
+  "Quantidade" : 37
+}, {
+  "Id" : 458,
+  "Titulo" : "Cross-group analyzing matrix",
+  "Autor" : "Nancy Griffith",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1914,
+  "Preco" : 37.3,
+  "Quantidade" : 53
+}, {
+  "Id" : 465,
+  "Titulo" : "Organic attitude-oriented support",
+  "Autor" : "Kayla Clarke",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1920,
+  "Preco" : 24.9,
+  "Quantidade" : 78
+}, {
+  "Id" : 467,
+  "Titulo" : "Function-based dedicated frame",
+  "Autor" : "Larry Hunt",
+  "Genero" : "Romance",
+  "Ano_Publicado" : 1979,
+  "Preco" : 13.8,
+  "Quantidade" : 96
+}, {
+  "Id" : 469,
+  "Titulo" : "Automated 5thgeneration customer loyalty",
+  "Autor" : "Kimberly Shannon",
+  "Genero" : "Fantasy",
+  "Ano_Publicado" : 1967,
+  "Preco" : 23.2,
+  "Quantidade" : 92
+}, {
+  "Id" : 472,
+  "Titulo" : "Stand-alone clear-thinking extranet",
+  "Autor" : "Craig Dominguez",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1942,
+  "Preco" : 28.1,
+  "Quantidade" : 9
+}, {
+  "Id" : 474,
+  "Titulo" : "Grass-roots static hub",
+  "Autor" : "Ryan Mcintyre",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 2010,
+  "Preco" : 46.8,
+  "Quantidade" : 98
+}, {
+  "Id" : 479,
+  "Titulo" : "Balanced grid-enabled architecture",
+  "Autor" : "Christian Morales",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 2009,
+  "Preco" : 38.3,
+  "Quantidade" : 60
+}, {
+  "Id" : 480,
+  "Titulo" : "Adaptive mobile toolset",
+  "Autor" : "Andrew James",
+  "Genero" : "Fiction",
+  "Ano_Publicado" : 1940,
+  "Preco" : 38.2,
+  "Quantidade" : 75
+}, {
+  "Id" : 482,
+  "Titulo" : "Pre-emptive transitional contingency",
+  "Autor" : "Joseph Holt",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1965,
+  "Preco" : 32.0,
+  "Quantidade" : 33
+}, {
+  "Id" : 487,
+  "Titulo" : "Self-enabling actuating monitoring",
+  "Autor" : "Allison Salas",
+  "Genero" : "Mystery",
+  "Ano_Publicado" : 1921,
+  "Preco" : 39.3,
+  "Quantidade" : 26
+}, {
+  "Id" : 488,
+  "Titulo" : "Optimized attitude-oriented synergy",
+  "Autor" : "Cory Ross",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 1985,
+  "Preco" : 49.2,
+  "Quantidade" : 64
+}, {
+  "Id" : 490,
+  "Titulo" : "Progressive client-server infrastructure",
+  "Autor" : "Philip Thompson",
+  "Genero" : "Non-Fiction",
+  "Ano_Publicado" : 2019,
+  "Preco" : 12.9,
+  "Quantidade" : 40
+}, {
+  "Id" : 492,
+  "Titulo" : "Implemented next generation open architecture",
+  "Autor" : "Marcus Spencer",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1984,
+  "Preco" : 44.1,
+  "Quantidade" : 76
+}, {
+  "Id" : 493,
+  "Titulo" : "User-centric bi-directional application",
+  "Autor" : "Anthony Poole",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1956,
+  "Preco" : 28.1,
+  "Quantidade" : 89
+}, {
+  "Id" : 496,
+  "Titulo" : "Decentralized radical forecast",
+  "Autor" : "James Adams",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1966,
+  "Preco" : 43.8,
+  "Quantidade" : 96
+}, {
+  "Id" : 500,
+  "Titulo" : "Vision-oriented zero tolerance initiative",
+  "Autor" : "David Hatfield",
+  "Genero" : "Science Fiction",
+  "Ano_Publicado" : 1921,
+  "Preco" : 15.9,
+  "Quantidade" : 64
+} ]

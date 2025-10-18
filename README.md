@@ -79,4 +79,4 @@ O workflow no KNIME segue a seguinte estrutura:
 
 ## 7. Conclusão
 
-Apesar das dificuldades iniciais, estas foram ultrapassadas, permitindo concluir o projeto com sucesso. O uso do KNIME facilitou o desenvolvimento e automatização de tarefas, reforçando a importância do tratamento rigoroso da informação para garantir decisões fiáveis.
+Apesar das dificuldades iniciais, estas foram ultrapassadas, permitindo concluir o projeto com sucesso.

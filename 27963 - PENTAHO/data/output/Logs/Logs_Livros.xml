@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Livros>
+<Livro><Book_ID>1</Book_ID> <Title></Title> <Author>Joseph Crane</Author> <Genre>Biography</Genre> <Published_Year>1949</Published_Year> <Price>21.34</Price> <Stock>100</Stock></Livro>
+<Livro><Book_ID>10</Book_ID> <Title></Title> <Author>Samantha Ruiz</Author> <Genre>Mystery</Genre> <Published_Year>2015</Published_Year> <Price>24.63</Price> <Stock>25</Stock></Livro>
+<Livro><Book_ID>100</Book_ID> <Title></Title> <Author>James Alvarado</Author> <Genre>Fiction</Genre> <Published_Year>1906</Published_Year> <Price>49.89</Price> <Stock>29</Stock></Livro>
+<Livro><Book_ID>103</Book_ID> <Title></Title> <Author>Kathryn Lopez</Author> <Genre>Science Fiction</Genre> <Published_Year>1907</Published_Year> <Price>43.25</Price> <Stock>11</Stock></Livro>
+<Livro><Book_ID>104</Book_ID> <Title></Title> <Author>Leonard Vega</Author> <Genre>Biography</Genre> <Published_Year>1948</Published_Year> <Price>10.56</Price> <Stock>82</Stock></Livro>
+<Livro><Book_ID>107</Book_ID> <Title></Title> <Author>Amy Andrews</Author> <Genre>Science Fiction</Genre> <Published_Year>1996</Published_Year> <Price>19.85</Price> <Stock>44</Stock></Livro>
+<Livro><Book_ID>113</Book_ID> <Title></Title> <Author>Jackson Hill</Author> <Genre>Science Fiction</Genre> <Published_Year>1936</Published_Year> <Price>6.38</Price> <Stock>76</Stock></Livro>
+<Livro><Book_ID>116</Book_ID> <Title></Title> <Author>Jamie Gates</Author> <Genre>Fiction</Genre> <Published_Year>1938</Published_Year> <Price>41.82</Price> <Stock>50</Stock></Livro>
+<Livro><Book_ID>117</Book_ID> <Title></Title> <Author>Lori Taylor</Author> <Genre>Science Fiction</Genre> <Published_Year>1966</Published_Year> <Price>14.87</Price> <Stock>20</Stock></Livro>
+<Livro><Book_ID>119</Book_ID> <Title></Title> <Author>Tonya Saunders</Author> <Genre>Romance</Genre> <Published_Year>2010</Published_Year> <Price>49.88</Price> <Stock>76</Stock></Livro>
+<Livro><Book_ID>120</Book_ID> <Title></Title> <Author>Sheena Harris</Author> <Genre>Non-Fiction</Genre> <Published_Year>1984</Published_Year> <Price>48.03</Price> <Stock>93</Stock></Livro>
+<Livro><Book_ID>121</Book_ID> <Title></Title> <Author>Richard Fisher</Author> <Genre>Biography</Genre> <Published_Year>1957</Published_Year> <Price>42.47</Price> <Stock>38</Stock></Livro>
+<Livro><Book_ID>123</Book_ID> <Title></Title> <Author>Jordan Merritt</Author> <Genre>Mystery</Genre> <Published_Year>1938</Published_Year> <Price>37.6</Price> <Stock>16</Stock></Livro>
+<Livro><Book_ID>131</Book_ID> <Title></Title> <Author>Betty Carroll</Author> <Genre>Mystery</Genre> <Published_Year>1902</Published_Year> <Price>27.28</Price> <Stock>11</Stock></Livro>
+<Livro><Book_ID>134</Book_ID> <Title></Title> <Author>Linda Newman</Author> <Genre>Fiction</Genre> <Published_Year>1955</Published_Year> <Price>35.72</Price> <Stock>49</Stock></Livro>
+<Livro><Book_ID>138</Book_ID> <Title></Title> <Author>Carolyn Garcia</Author> <Genre>Fantasy</Genre> <Published_Year>1978</Published_Year> <Price>24.77</Price> <Stock>8</Stock></Livro>
+<Livro><Book_ID>139</Book_ID> <Title></Title> <Author>Robert Garcia</Author> <Genre>Biography</Genre> <Published_Year>1923</Published_Year> <Price>35.4</Price> <Stock>51</Stock></Livro>
+<Livro><Book_ID>140</Book_ID> <Title></Title> <Author>Timothy Williams</Author> <Genre>Biography</Genre> <Published_Year>2003</Published_Year> <Price>31.49</Price> <Stock>6</Stock></Livro>
+<Livro><Book_ID>141</Book_ID> <Title></Title> <Author>Dr. Heather Boyd</Author> <Genre>Romance</Genre> <Published_Year>1909</Published_Year> <Price>49.42</Price> <Stock>36</Stock></Livro>
+<Livro><Book_ID>148</Book_ID> <Title></Title> <Author>Jared Reyes</Author> <Genre>Fantasy</Genre> <Published_Year>1941</Published_Year> <Price>12.25</Price> <Stock>97</Stock></Livro>
+<Livro><Book_ID>150</Book_ID> <Title></Title> <Author>Jenna Henderson</Author> <Genre>Biography</Genre> <Published_Year>1952</Published_Year> <Price>31.95</Price> <Stock>32</Stock></Livro>
+<Livro><Book_ID>159</Book_ID> <Title></Title> <Author>Brandon Foster</Author> <Genre>Biography</Genre> <Published_Year>1999</Published_Year> <Price>36.21</Price> <Stock>49</Stock></Livro>
+<Livro><Book_ID>162</Book_ID> <Title></Title> <Author>Tracy Pace</Author> <Genre>Mystery</Genre> <Published_Year>1981</Published_Year> <Price>48.84</Price> <Stock>64</Stock></Livro>
+<Livro><Book_ID>163</Book_ID> <Title></Title> <Author>Douglas Mccarthy</Author> <Genre>Non-Fiction</Genre> <Published_Year>1905</Published_Year> <Price>19.11</Price> <Stock>0</Stock></Livro>
+<Livro><Book_ID>164</Book_ID> <Title></Title> <Author>Ashley Mason</Author> <Genre>Non-Fiction</Genre> <Published_Year>2013</Published_Year> <Price>41.83</Price> <Stock>4</Stock></Livro>
+<Livro><Book_ID>168</Book_ID> <Title></Title> <Author>Tracy Parker</Author> <Genre>Mystery</Genre> <Published_Year>2018</Published_Year> <Price>14.13</Price> <Stock>61</Stock></Livro>
+<Livro><Book_ID>170</Book_ID> <Title></Title> <Author>Michael Wells</Author> <Genre>Non-Fiction</Genre> <Published_Year>1947</Published_Year> <Price>11.28</Price> <Stock>62</Stock></Livro>
+<Livro><Book_ID>171</Book_ID> <Title></Title> <Author>Sarah Vincent</Author> <Genre>Science Fiction</Genre> <Published_Year>2004</Published_Year> <Price>32.15</Price> <Stock>99</Stock></Livro>
+<Livro><Book_ID>173</Book_ID> <Title></Title> <Author>Patrick Williams</Author> <Genre>Fiction</Genre> <Published_Year>1948</Published_Year> <Price>6.07</Price> <Stock>100</Stock></Livro>
+<Livro><Book_ID>174</Book_ID> <Title></Title> <Author>Rebecca Mann</Author> <Genre>Mystery</Genre> <Published_Year>1951</Published_Year> <Price>37.83</Price> <Stock>18</Stock></Livro>
+<Livro><Book_ID>175</Book_ID> <Title></Title> <Author>John Bradley</Author> <Genre>Biography</Genre> <Published_Year>1910</Published_Year> <Price>32.85</Price> <Stock>39</Stock></Livro>
+<Livro><Book_ID>182</Book_ID> <Title></Title> <Author>Virginia Butler</Author> <Genre>Mystery</Genre> <Published_Year>2014</Published_Year> <Price>23.76</Price> <Stock>9</Stock></Livro>
+<Livro><Book_ID>187</Book_ID> <Title></Title> <Author>Kenneth Phillips</Author> <Genre>Fiction</Genre> <Published_Year>1989</Published_Year> <Price>22.98</Price> <Stock>7</Stock></Livro>
+<Livro><Book_ID>188</Book_ID> <Title></Title> <Author>Clinton Mcintyre MD</Author> <Genre>Science Fiction</Genre> <Published_Year>2014</Published_Year> <Price>20.14</Price> <Stock>73</Stock></Livro>
+<Livro><Book_ID>192</Book_ID> <Title></Title> <Author>Nicholas Roth</Author> <Genre>Romance</Genre> <Published_Year>1930</Published_Year> <Price>48.37</Price> <Stock>71</Stock></Livro>
+<Livro><Book_ID>194</Book_ID> <Title></Title> <Author>Deborah White</Author> <Genre>Science Fiction</Genre> <Published_Year>1982</Published_Year> <Price>33.88</Price> <Stock>64</Stock></Livro>
+<Livro><Book_ID>195</Book_ID> <Title></Title> <Author>Christian Ward</Author> <Genre>Biography</Genre> <Published_Year>2021</Published_Year> <Price>11.63</Price> <Stock>20</Stock></Livro>
+<Livro><Book_ID>198</Book_ID> <Title></Title> <Author>Michael Lee</Author> <Genre>Biography</Genre> <Published_Year>1917</Published_Year> <Price>22.38</Price> <Stock>80</Stock></Livro>
+<Livro><Book_ID>199</Book_ID> <Title></Title> <Author>Mark Parker</Author> <Genre>Mystery</Genre> <Published_Year>1923</Published_Year> <Price>42.81</Price> <Stock>1</Stock></Livro>
+<Livro><Book_ID>202</Book_ID> <Title></Title> <Author>Lindsey Johnson</Author> <Genre>Mystery</Genre> <Published_Year>1964</Published_Year> <Price>12.26</Price> <Stock>32</Stock></Livro>
+<Livro><Book_ID>203</Book_ID> <Title></Title> <Author>Stephanie Frost</Author> <Genre>Non-Fiction</Genre> <Published_Year>2003</Published_Year> <Price>27.22</Price> <Stock>52</Stock></Livro>
+<Livro><Book_ID>205</Book_ID> <Title></Title> <Author>Anthony Martin</Author> <Genre>Fantasy</Genre> <Published_Year>1990</Published_Year> <Price>5.83</Price> <Stock>8</Stock></Livro>
+<Livro><Book_ID>209</Book_ID> <Title></Title> <Author>Nicole Berger</Author> <Genre>Mystery</Genre> <Published_Year>1979</Published_Year> <Price>48.67</Price> <Stock>63</Stock></Livro>
+<Livro><Book_ID>22</Book_ID> <Title></Title> <Author>Wesley Escobar</Author> <Genre>Fiction</Genre> <Published_Year>1908</Published_Year> <Price>39.23</Price> <Stock>78</Stock></Livro>
+<Livro><Book_ID>220</Book_ID> <Title></Title> <Author>Nicole Hughes</Author> <Genre>Fiction</Genre> <Published_Year>1904</Published_Year> <Price>16.51</Price> <Stock>60</Stock></Livro>
+<Livro><Book_ID>223</Book_ID> <Title></Title> <Author>Lauren Merritt</Author> <Genre>Mystery</Genre> <Published_Year>1944</Published_Year> <Price>6.52</Price> <Stock>95</Stock></Livro>
+<Livro><Book_ID>225</Book_ID> <Title></Title> <Author>Carrie Ware</Author> <Genre>Biography</Genre> <Published_Year>1976</Published_Year> <Price>36.04</Price> <Stock>26</Stock></Livro>
+<Livro><Book_ID>226</Book_ID> <Title></Title> <Author>Thomas Anderson</Author> <Genre>Fantasy</Genre> <Published_Year>1913</Published_Year> <Price>27.22</Price> <Stock>68</Stock></Livro>
+<Livro><Book_ID>231</Book_ID> <Title></Title> <Author>Steven Davis</Author> <Genre>Non-Fiction</Genre> <Published_Year>1986</Published_Year> <Price>9.37</Price> <Stock>84</Stock></Livro>
+<Livro><Book_ID>236</Book_ID> <Title></Title> <Author>Christopher Anderson</Author> <Genre>Romance</Genre> <Published_Year>1948</Published_Year> <Price>10.78</Price> <Stock>87</Stock></Livro>
+<Livro><Book_ID>240</Book_ID> <Title></Title> <Author>Lisa Ellis</Author> <Genre>Fantasy</Genre> <Published_Year>1957</Published_Year> <Price>49.9</Price> <Stock>41</Stock></Livro>
+<Livro><Book_ID>241</Book_ID> <Title></Title> <Author>Taylor Wang</Author> <Genre>Fantasy</Genre> <Published_Year>2015</Published_Year> <Price>14.06</Price> <Stock>38</Stock></Livro>
+<Livro><Book_ID>246</Book_ID> <Title></Title> <Author>Paul Taylor</Author> <Genre>Biography</Genre> <Published_Year>1940</Published_Year> <Price>7.43</Price> <Stock>98</Stock></Livro>
+<Livro><Book_ID>252</Book_ID> <Title></Title> <Author>Gabriela Russell MD</Author> <Genre>Fiction</Genre> <Published_Year>1902</Published_Year> <Price>12.62</Price> <Stock>43</Stock></Livro>
+<Livro><Book_ID>254</Book_ID> <Title></Title> <Author>Jacqueline Ramsey</Author> <Genre>Mystery</Genre> <Published_Year>1916</Published_Year> <Price>42.57</Price> <Stock>100</Stock></Livro>
+<Livro><Book_ID>256</Book_ID> <Title></Title> <Author>Sarah Walker</Author> <Genre>Biography</Genre> <Published_Year>1981</Published_Year> <Price>36.86</Price> <Stock>77</Stock></Livro>
+<Livro><Book_ID>258</Book_ID> <Title></Title> <Author>Kyle Carter</Author> <Genre>Mystery</Genre> <Published_Year>1916</Published_Year> <Price>9.95</Price> <Stock>6</Stock></Livro>
+<Livro><Book_ID>261</Book_ID> <Title></Title> <Author>Christopher Fuentes</Author> <Genre>Science Fiction</Genre> <Published_Year>1964</Published_Year> <Price>14.25</Price> <Stock>52</Stock></Livro>
+<Livro><Book_ID>263</Book_ID> <Title></Title> <Author>Kayla Wilkinson</Author> <Genre>Fiction</Genre> <Published_Year>1965</Published_Year> <Price>9.79</Price> <Stock>3</Stock></Livro>
+<Livro><Book_ID>265</Book_ID> <Title></Title> <Author>Jennifer Johnson</Author> <Genre>Non-Fiction</Genre> <Published_Year>1926</Published_Year> <Price>46.6</Price> <Stock>66</Stock></Livro>
+<Livro><Book_ID>267</Book_ID> <Title></Title> <Author>Gary Williams</Author> <Genre>Biography</Genre> <Published_Year>1905</Published_Year> <Price>37.49</Price> <Stock>24</Stock></Livro>
+<Livro><Book_ID>274</Book_ID> <Title></Title> <Author>Matthew Thomas</Author> <Genre>Fiction</Genre> <Published_Year>1903</Published_Year> <Price>48.8</Price> <Stock>72</Stock></Livro>
+<Livro><Book_ID>277</Book_ID> <Title></Title> <Author>Ashley Cunningham</Author> <Genre>Biography</Genre> <Published_Year>1909</Published_Year> <Price>33.21</Price> <Stock>95</Stock></Livro>
+<Livro><Book_ID>278</Book_ID> <Title></Title> <Author>Benjamin Flores</Author> <Genre>Fiction</Genre> <Published_Year>1901</Published_Year> <Price>48.61</Price> <Stock>69</Stock></Livro>
+<Livro><Book_ID>28</Book_ID> <Title></Title> <Author>Lisa Coffey</Author> <Genre>Fiction</Genre> <Published_Year>1941</Published_Year> <Price>37.51</Price> <Stock>79</Stock></Livro>
+<Livro><Book_ID>281</Book_ID> <Title></Title> <Author>Robert Hatfield</Author> <Genre>Mystery</Genre> <Published_Year>1931</Published_Year> <Price>16.34</Price> <Stock>83</Stock></Livro>
+<Livro><Book_ID>282</Book_ID> <Title></Title> <Author>Russell Castillo</Author> <Genre>Biography</Genre> <Published_Year>2016</Published_Year> <Price>38.19</Price> <Stock>3</Stock></Livro>
+<Livro><Book_ID>284</Book_ID> <Title></Title> <Author>Peter Cabrera</Author> <Genre>Science Fiction</Genre> <Published_Year>1906</Published_Year> <Price>15.21</Price> <Stock>99</Stock></Livro>
+<Livro><Book_ID>287</Book_ID> <Title></Title> <Author>Cynthia Diaz</Author> <Genre>Science Fiction</Genre> <Published_Year>1994</Published_Year> <Price>40.19</Price> <Stock>32</Stock></Livro>
+<Livro><Book_ID>293</Book_ID> <Title></Title> <Author>Megan Kennedy</Author> <Genre>Fantasy</Genre> <Published_Year>1955</Published_Year> <Price>17.93</Price> <Stock>58</Stock></Livro>
+<Livro><Book_ID>295</Book_ID> <Title></Title> <Author>Todd Davis</Author> <Genre>Non-Fiction</Genre> <Published_Year>1977</Published_Year> <Price>28.66</Price> <Stock>65</Stock></Livro>
+<Livro><Book_ID>296</Book_ID> <Title></Title> <Author>Jennifer Johnson</Author> <Genre>Non-Fiction</Genre> <Published_Year>1949</Published_Year> <Price>11.49</Price> <Stock>49</Stock></Livro>
+<Livro><Book_ID>297</Book_ID> <Title></Title> <Author>Chad Craig</Author> <Genre>Fiction</Genre> <Published_Year>2016</Published_Year> <Price>35.65</Price> <Stock>2</Stock></Livro>
+<Livro><Book_ID>300</Book_ID> <Title></Title> <Author>Joseph Jensen</Author> <Genre>Non-Fiction</Genre> <Published_Year>1962</Published_Year> <Price>26.87</Price> <Stock>77</Stock></Livro>
+<Livro><Book_ID>307</Book_ID> <Title></Title> <Author>Valerie Moore</Author> <Genre>Mystery</Genre> <Published_Year>1914</Published_Year> <Price>14.43</Price> <Stock>7</Stock></Livro>
+<Livro><Book_ID>311</Book_ID> <Title></Title> <Author>Kaitlyn Mills</Author> <Genre>Biography</Genre> <Published_Year>1903</Published_Year> <Price>32.28</Price> <Stock>48</Stock></Livro>
+<Livro><Book_ID>313</Book_ID> <Title></Title> <Author>Nicole Olson</Author> <Genre>Non-Fiction</Genre> <Published_Year>1997</Published_Year> <Price>47.16</Price> <Stock>53</Stock></Livro>
+<Livro><Book_ID>330</Book_ID> <Title></Title> <Author>Roy Wolf</Author> <Genre>Biography</Genre> <Published_Year>1990</Published_Year> <Price>32.02</Price> <Stock>25</Stock></Livro>
+<Livro><Book_ID>332</Book_ID> <Title></Title> <Author>Tanya Brandt</Author> <Genre>Biography</Genre> <Published_Year>1968</Published_Year> <Price>49.08</Price> <Stock>17</Stock></Livro>
+<Livro><Book_ID>333</Book_ID> <Title></Title> <Author>Mark Chavez DDS</Author> <Genre>Fantasy</Genre> <Published_Year>1959</Published_Year> <Price>27.76</Price> <Stock>29</Stock></Livro>
+<Livro><Book_ID>334</Book_ID> <Title></Title> <Author>Robert Bullock</Author> <Genre>Mystery</Genre> <Published_Year>1913</Published_Year> <Price>35.68</Price> <Stock>88</Stock></Livro>
+<Livro><Book_ID>336</Book_ID> <Title></Title> <Author>Grace Waller</Author> <Genre>Fantasy</Genre> <Published_Year>2006</Published_Year> <Price>24.08</Price> <Stock>26</Stock></Livro>
+<Livro><Book_ID>339</Book_ID> <Title></Title> <Author>Steven Mcdonald</Author> <Genre>Romance</Genre> <Published_Year>2014</Published_Year> <Price>43.51</Price> <Stock>68</Stock></Livro>
+<Livro><Book_ID>343</Book_ID> <Title></Title> <Author>Marissa Smith</Author> <Genre>Mystery</Genre> <Published_Year>2006</Published_Year> <Price>43.03</Price> <Stock>86</Stock></Livro>
+<Livro><Book_ID>344</Book_ID> <Title></Title> <Author>Brittney Brown</Author> <Genre>Romance</Genre> <Published_Year>1990</Published_Year> <Price>39.63</Price> <Stock>27</Stock></Livro>
+<Livro><Book_ID>345</Book_ID> <Title></Title> <Author>Michael Johnson</Author> <Genre>Science Fiction</Genre> <Published_Year>1920</Published_Year> <Price>25.89</Price> <Stock>78</Stock></Livro>
+<Livro><Book_ID>349</Book_ID> <Title></Title> <Author>Thomas Chung</Author> <Genre>Non-Fiction</Genre> <Published_Year>2013</Published_Year> <Price>44.36</Price> <Stock>51</Stock></Livro>
+<Livro><Book_ID>357</Book_ID> <Title></Title> <Author>Hunter Odom</Author> <Genre>Non-Fiction</Genre> <Published_Year>1983</Published_Year> <Price>11.85</Price> <Stock>27</Stock></Livro>
+<Livro><Book_ID>367</Book_ID> <Title></Title> <Author>Eric Taylor</Author> <Genre>Fiction</Genre> <Published_Year>1940</Published_Year> <Price>29.32</Price> <Stock>35</Stock></Livro>
+<Livro><Book_ID>370</Book_ID> <Title></Title> <Author>David Olson</Author> <Genre>Non-Fiction</Genre> <Published_Year>1977</Published_Year> <Price>43.91</Price> <Stock>97</Stock></Livro>
+<Livro><Book_ID>378</Book_ID> <Title></Title> <Author>Samantha Mcclain</Author> <Genre>Romance</Genre> <Published_Year>1903</Published_Year> <Price>6.01</Price> <Stock>0</Stock></Livro>
+<Livro><Book_ID>383</Book_ID> <Title></Title> <Author>Samuel Morales</Author> <Genre>Mystery</Genre> <Published_Year>1927</Published_Year> <Price>42.17</Price> <Stock>71</Stock></Livro>
+<Livro><Book_ID>385</Book_ID> <Title></Title> <Author>Geoffrey Burnett</Author> <Genre>Fantasy</Genre> <Published_Year>1962</Published_Year> <Price>27.25</Price> <Stock>65</Stock></Livro>
+<Livro><Book_ID>389</Book_ID> <Title></Title> <Author>Jennifer Nelson</Author> <Genre>Romance</Genre> <Published_Year>1928</Published_Year> <Price>25.39</Price> <Stock>89</Stock></Livro>
+<Livro><Book_ID>39</Book_ID> <Title></Title> <Author>Megan Goodwin</Author> <Genre>Fiction</Genre> <Published_Year>1978</Published_Year> <Price>10.99</Price> <Stock>42</Stock></Livro>
+<Livro><Book_ID>391</Book_ID> <Title></Title> <Author>Erica Olson</Author> <Genre>Romance</Genre> <Published_Year>2009</Published_Year> <Price>33.42</Price> <Stock>35</Stock></Livro>
+<Livro><Book_ID>395</Book_ID> <Title></Title> <Author>Travis Thompson</Author> <Genre>Non-Fiction</Genre> <Published_Year>1945</Published_Year> <Price>34.05</Price> <Stock>19</Stock></Livro>
+<Livro><Book_ID>396</Book_ID> <Title></Title> <Author>Paul Smith</Author> <Genre>Mystery</Genre> <Published_Year>1967</Published_Year> <Price>22.34</Price> <Stock>97</Stock></Livro>
+<Livro><Book_ID>399</Book_ID> <Title></Title> <Author>Juan Reynolds</Author> <Genre>Biography</Genre> <Published_Year>2007</Published_Year> <Price>14.34</Price> <Stock>25</Stock></Livro>
+<Livro><Book_ID>4</Book_ID> <Title></Title> <Author>Christopher Andrews</Author> <Genre>Fiction</Genre> <Published_Year>2020</Published_Year> <Price>43.52</Price> <Stock>8</Stock></Livro>
+<Livro><Book_ID>400</Book_ID> <Title></Title> <Author>Jeremiah Dyer</Author> <Genre>Fantasy</Genre> <Published_Year>1915</Published_Year> <Price>34.57</Price> <Stock>47</Stock></Livro>
+<Livro><Book_ID>406</Book_ID> <Title></Title> <Author>James Gonzalez</Author> <Genre>Fiction</Genre> <Published_Year>2006</Published_Year> <Price>35.79</Price> <Stock>50</Stock></Livro>
+<Livro><Book_ID>410</Book_ID> <Title></Title> <Author>Veronica Hebert</Author> <Genre>Science Fiction</Genre> <Published_Year>2005</Published_Year> <Price>44.33</Price> <Stock>42</Stock></Livro>
+<Livro><Book_ID>414</Book_ID> <Title></Title> <Author>Amanda Carrillo</Author> <Genre>Fiction</Genre> <Published_Year>1999</Published_Year> <Price>22.55</Price> <Stock>93</Stock></Livro>
+<Livro><Book_ID>416</Book_ID> <Title></Title> <Author>Tina Stevenson</Author> <Genre>Science Fiction</Genre> <Published_Year>2018</Published_Year> <Price>49.1</Price> <Stock>96</Stock></Livro>
+<Livro><Book_ID>42</Book_ID> <Title></Title> <Author>Shannon Reese</Author> <Genre>Mystery</Genre> <Published_Year>1937</Published_Year> <Price>48.35</Price> <Stock>82</Stock></Livro>
+<Livro><Book_ID>421</Book_ID> <Title></Title> <Author>John Pearson</Author> <Genre>Fiction</Genre> <Published_Year>1901</Published_Year> <Price>40.05</Price> <Stock>58</Stock></Livro>
+<Livro><Book_ID>425</Book_ID> <Title></Title> <Author>Tammy Cervantes</Author> <Genre>Non-Fiction</Genre> <Published_Year>1990</Published_Year> <Price>24.23</Price> <Stock>45</Stock></Livro>
+<Livro><Book_ID>426</Book_ID> <Title></Title> <Author>John Shannon</Author> <Genre>Biography</Genre> <Published_Year>2021</Published_Year> <Price>32.82</Price> <Stock>98</Stock></Livro>
+<Livro><Book_ID>431</Book_ID> <Title></Title> <Author>Christopher Dixon</Author> <Genre>Romance</Genre> <Published_Year>1965</Published_Year> <Price>19.48</Price> <Stock>31</Stock></Livro>
+<Livro><Book_ID>432</Book_ID> <Title></Title> <Author>Rodney Ward</Author> <Genre>Non-Fiction</Genre> <Published_Year>1951</Published_Year> <Price>8.84</Price> <Stock>55</Stock></Livro>
+<Livro><Book_ID>436</Book_ID> <Title></Title> <Author>Garrett Campbell</Author> <Genre>Mystery</Genre> <Published_Year>1916</Published_Year> <Price>15.9</Price> <Stock>54</Stock></Livro>
+<Livro><Book_ID>438</Book_ID> <Title></Title> <Author>Samantha Stewart</Author> <Genre>Science Fiction</Genre> <Published_Year>1913</Published_Year> <Price>33.39</Price> <Stock>82</Stock></Livro>
+<Livro><Book_ID>44</Book_ID> <Title></Title> <Author>Ryan Frank</Author> <Genre>Science Fiction</Genre> <Published_Year>1965</Published_Year> <Price>13.55</Price> <Stock>0</Stock></Livro>
+<Livro><Book_ID>440</Book_ID> <Title></Title> <Author>Jill Padilla</Author> <Genre>Non-Fiction</Genre> <Published_Year>2000</Published_Year> <Price>27.42</Price> <Stock>68</Stock></Livro>
+<Livro><Book_ID>441</Book_ID> <Title></Title> <Author>Susan Reeves</Author> <Genre>Science Fiction</Genre> <Published_Year>2013</Published_Year> <Price>40.72</Price> <Stock>65</Stock></Livro>
+<Livro><Book_ID>442</Book_ID> <Title></Title> <Author>Betty Cross</Author> <Genre>Non-Fiction</Genre> <Published_Year>1993</Published_Year> <Price>48.48</Price> <Stock>93</Stock></Livro>
+<Livro><Book_ID>447</Book_ID> <Title></Title> <Author>Steven Hutchinson</Author> <Genre>Mystery</Genre> <Published_Year>1906</Published_Year> <Price>36.25</Price> <Stock>9</Stock></Livro>
+<Livro><Book_ID>453</Book_ID> <Title></Title> <Author>Jesse Morgan</Author> <Genre>Non-Fiction</Genre> <Published_Year>1996</Published_Year> <Price>48.55</Price> <Stock>65</Stock></Livro>
+<Livro><Book_ID>46</Book_ID> <Title></Title> <Author>Jamie Lambert</Author> <Genre>Romance</Genre> <Published_Year>1923</Published_Year> <Price>33.17</Price> <Stock>75</Stock></Livro>
+<Livro><Book_ID>468</Book_ID> <Title></Title> <Author>Nicole Davenport</Author> <Genre>Fantasy</Genre> <Published_Year>1987</Published_Year> <Price>30.59</Price> <Stock>83</Stock></Livro>
+<Livro><Book_ID>47</Book_ID> <Title></Title> <Author>John Christian</Author> <Genre>Fiction</Genre> <Published_Year>2006</Published_Year> <Price>20.37</Price> <Stock>90</Stock></Livro>
+<Livro><Book_ID>473</Book_ID> <Title></Title> <Author>Cathy Stone</Author> <Genre>Fantasy</Genre> <Published_Year>1964</Published_Year> <Price>30.26</Price> <Stock>72</Stock></Livro>
+<Livro><Book_ID>474</Book_ID> <Title></Title> <Author>Ryan Mcintyre</Author> <Genre>Mystery</Genre> <Published_Year>2010</Published_Year> <Price>46.84</Price> <Stock>98</Stock></Livro>
+<Livro><Book_ID>477</Book_ID> <Title></Title> <Author>Chris Brown</Author> <Genre>Romance</Genre> <Published_Year>2019</Published_Year> <Price>27.71</Price> <Stock>17</Stock></Livro>
+<Livro><Book_ID>482</Book_ID> <Title></Title> <Author>Joseph Holt</Author> <Genre>Science Fiction</Genre> <Published_Year>1965</Published_Year> <Price>31.96</Price> <Stock>33</Stock></Livro>
+<Livro><Book_ID>483</Book_ID> <Title></Title> <Author>Alicia Martin</Author> <Genre>Mystery</Genre> <Published_Year>1931</Published_Year> <Price>14.03</Price> <Stock>46</Stock></Livro>
+<Livro><Book_ID>484</Book_ID> <Title></Title> <Author>Emma Hudson</Author> <Genre>Non-Fiction</Genre> <Published_Year>1991</Published_Year> <Price>37.51</Price> <Stock>37</Stock></Livro>
+<Livro><Book_ID>486</Book_ID> <Title></Title> <Author>Lisa Medina</Author> <Genre>Non-Fiction</Genre> <Published_Year>2018</Published_Year> <Price>19.13</Price> <Stock>52</Stock></Livro>
+<Livro><Book_ID>49</Book_ID> <Title></Title> <Author>Zachary Hayes</Author> <Genre>Biography</Genre> <Published_Year>1955</Published_Year> <Price>49.5</Price> <Stock>15</Stock></Livro>
+<Livro><Book_ID>490</Book_ID> <Title></Title> <Author>Philip Thompson</Author> <Genre>Non-Fiction</Genre> <Published_Year>2019</Published_Year> <Price>12.88</Price> <Stock>40</Stock></Livro>
+<Livro><Book_ID>494</Book_ID> <Title></Title> <Author>Kimberly Smith MD</Author> <Genre>Romance</Genre> <Published_Year>1901</Published_Year> <Price>6.66</Price> <Stock>59</Stock></Livro>
+<Livro><Book_ID>50</Book_ID> <Title></Title> <Author>Lindsey Rodriguez</Author> <Genre>Fantasy</Genre> <Published_Year>1970</Published_Year> <Price>37.0</Price> <Stock>63</Stock></Livro>
+<Livro><Book_ID>51</Book_ID> <Title></Title> <Author>Douglas Bush</Author> <Genre>Biography</Genre> <Published_Year>2022</Published_Year> <Price>46.3</Price> <Stock>95</Stock></Livro>
+<Livro><Book_ID>52</Book_ID> <Title></Title> <Author>Kristi Phillips</Author> <Genre>Science Fiction</Genre> <Published_Year>2003</Published_Year> <Price>16.53</Price> <Stock>85</Stock></Livro>
+<Livro><Book_ID>53</Book_ID> <Title></Title> <Author>Brian Johnson</Author> <Genre>Biography</Genre> <Published_Year>1969</Published_Year> <Price>29.28</Price> <Stock>60</Stock></Livro>
+<Livro><Book_ID>57</Book_ID> <Title></Title> <Author>Sabrina Hernandez DVM</Author> <Genre>Romance</Genre> <Published_Year>1962</Published_Year> <Price>23.59</Price> <Stock>27</Stock></Livro>
+<Livro><Book_ID>6</Book_ID> <Title></Title> <Author>Bryan Morgan</Author> <Genre>Biography</Genre> <Published_Year>1985</Published_Year> <Price>6.56</Price> <Stock>2</Stock></Livro>
+<Livro><Book_ID>61</Book_ID> <Title></Title> <Author>Gregory Wallace</Author> <Genre>Non-Fiction</Genre> <Published_Year>1934</Published_Year> <Price>41.05</Price> <Stock>10</Stock></Livro>
+<Livro><Book_ID>64</Book_ID> <Title></Title> <Author>Christopher Washington</Author> <Genre>Science Fiction</Genre> <Published_Year>1963</Published_Year> <Price>24.1</Price> <Stock>86</Stock></Livro>
+<Livro><Book_ID>65</Book_ID> <Title></Title> <Author>Zachary Williams</Author> <Genre>Science Fiction</Genre> <Published_Year>1982</Published_Year> <Price>22.7</Price> <Stock>7</Stock></Livro>
+<Livro><Book_ID>70</Book_ID> <Title></Title> <Author>Mary Warren</Author> <Genre>Science Fiction</Genre> <Published_Year>2021</Published_Year> <Price>23.45</Price> <Stock>19</Stock></Livro>
+<Livro><Book_ID>74</Book_ID> <Title></Title> <Author>Mitchell Hess</Author> <Genre>Biography</Genre> <Published_Year>1986</Published_Year> <Price>45.12</Price> <Stock>83</Stock></Livro>
+<Livro><Book_ID>8</Book_ID> <Title></Title> <Author>Troy Cox</Author> <Genre>Science Fiction</Genre> <Published_Year>2019</Published_Year> <Price>48.99</Price> <Stock>84</Stock></Livro>
+<Livro><Book_ID>80</Book_ID> <Title></Title> <Author>Michael Anderson</Author> <Genre>Science Fiction</Genre> <Published_Year>1985</Published_Year> <Price>34.84</Price> <Stock>19</Stock></Livro>
+<Livro><Book_ID>86</Book_ID> <Title></Title> <Author>Kathryn Williams</Author> <Genre>Non-Fiction</Genre> <Published_Year>1948</Published_Year> <Price>25.51</Price> <Stock>44</Stock></Livro>
+<Livro><Book_ID>88</Book_ID> <Title></Title> <Author>Paul Miles</Author> <Genre>Non-Fiction</Genre> <Published_Year>1999</Published_Year> <Price>40.22</Price> <Stock>32</Stock></Livro>
+<Livro><Book_ID>89</Book_ID> <Title></Title> <Author>Vincent Miles</Author> <Genre>Romance</Genre> <Published_Year>1959</Published_Year> <Price>14.72</Price> <Stock>16</Stock></Livro>
+<Livro><Book_ID>93</Book_ID> <Title></Title> <Author>Frank Aguilar</Author> <Genre>Non-Fiction</Genre> <Published_Year>2009</Published_Year> <Price>17.43</Price> <Stock>37</Stock></Livro>
+<Livro><Book_ID>94</Book_ID> <Title></Title> <Author>Laurie Allen</Author> <Genre>Science Fiction</Genre> <Published_Year>2001</Published_Year> <Price>16.86</Price> <Stock>75</Stock></Livro>
+<Livro><Book_ID>96</Book_ID> <Title></Title> <Author>Rebecca Delgado</Author> <Genre>Science Fiction</Genre> <Published_Year>1913</Published_Year> <Price>12.55</Price> <Stock>73</Stock></Livro>
+<Livro><Book_ID>99</Book_ID> <Title></Title> <Author>Tracy Hendrix</Author> <Genre>Science Fiction</Genre> <Published_Year>1962</Published_Year> <Price>46.93</Price> <Stock>26</Stock></Livro>
+</Livros>

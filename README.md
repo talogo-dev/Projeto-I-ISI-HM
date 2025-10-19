@@ -191,6 +191,8 @@ O workflow no PENTAHO segue a seguinte estrutura:
 Apesar das dificuldades iniciais, estas foram ultrapassadas, permitindo concluir o projeto com sucesso.
 
 ---
-## 9. Link Github
-[Link](https://github.com/talogo-dev/Projeto-I-ISI-HM)
+## 9. Link's
+[Link Github](https://github.com/talogo-dev/Projeto-I-ISI-HM)
+[Link Video KNIME](https://www.youtube.com/watch?v=zEHlerWDQoQ)
+[Link Video PENTAHO](https://youtu.be/uSKGDYQckBc)
 

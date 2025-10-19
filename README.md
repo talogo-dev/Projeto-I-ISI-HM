@@ -102,17 +102,15 @@ O workflow no PENTAHO segue a seguinte estrutura:
 
 
 ```
-📁 Projeto_ETL/
-│
 ├── 📂 27969-KNIME/
 │ ├── dados/
 │ │ ├── input/
 │ │ │  ├── testar/
 │ │ │  │  ├── Clientes.xml
-│ │ │  │  └──  Livros.xml
+│ │ │  │  └── Livros.xml
 │ │ │  ├── Livros.xml
 │ │ │  ├── Orders.csv
-│ │ │  └──  XML-Customers.xml
+│ │ │  └── XML-Customers.xml
 │ │ ├── output/
 │ │ │  ├── logs/
 │ │ │  │  ├── Email-Telefones-Invalidos-Clientes_0.xml
@@ -121,14 +119,14 @@ O workflow no PENTAHO segue a seguinte estrutura:
 │ │ │  │  ├── Missing-Values-Vendas_0.xml
 │ │ │  │  ├── Preco-Negativo-Livros_0.xml
 │ │ │  │  ├── Quantidade-Invalida-Vendas_0.xml
-│ │ │  │  └──  Total-Amount-Negativo-Vendas_0.xml
+│ │ │  │  └── Total-Amount-Negativo-Vendas_0.xml
 │ │ │  ├── preparacao-dados/
 │ │ │  │  ├── Clientes_0.xml
 │ │ │  │  ├── Livros_0.xml
-│ │ │  │  └──  vendas.csv
+│ │ │  │  └── vendas.csv
 │ │ │  ├── Clientes-verificados_0.json
 │ │ │  ├── Livros-Verificados_0.json
-│ │ │  └──  Vendas-Verificadas_0.json
+│ │ │  └── Vendas-Verificadas_0.json
 │ ├── dataInt/
 │ │ ├── converterDados/
 │ │ │  ├── csv para json.knwf
@@ -141,7 +139,7 @@ O workflow no PENTAHO segue a seguinte estrutura:
 │ ├── doc/
 │ │ │  └── 27963_27969_doc.pdf
 │ ├── src/
-│ | ├── knime/
+│ │ ├── knime/
 │ │ │  ├── Clientes_Pais_0.json
 │ │ │  ├── index.html
 │ │ │  ├── livros.html

@@ -69,7 +69,8 @@ O workflow no KNIME segue a seguinte estrutura:
 
 ## 6. Tecnologias e Ferramentas
 
-- **KNIME Analytics Platform** – Principal ferramenta para criação do workflow ETL.  
+- **KNIME Analytics Platform** – Ferramenta para criação do workflow ETL.
+- **PENTAHO KETTLE** – Ferramenta para criação do workflow ETL.
 - **Chart.js** – Para visualização gráfica dos dados exportados.  
 - **CSV, XML, JSON** – Formatos de dados tratados no workflow.  
 - **JavaScript** – Para scripts de visualização e manipulação de dados em gráficos.
@@ -78,4 +79,4 @@ O workflow no KNIME segue a seguinte estrutura:
 
 ## 7. Conclusão
 
-Apesar das dificuldades iniciais, estas foram ultrapassadas, permitindo concluir o projeto com sucesso. O uso do KNIME facilitou o desenvolvimento e automatização de tarefas, reforçando a importância do tratamento rigoroso da informação para garantir decisões fiáveis.
+Apesar das dificuldades iniciais, estas foram ultrapassadas, permitindo concluir o projeto com sucesso.

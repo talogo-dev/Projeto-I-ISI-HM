@@ -57,11 +57,33 @@ O workflow no KNIME segue a seguinte estrutura:
    - Geração de gráficos interativos utilizando Chart.js (para visualização de vendas e clientes).  
    - Logs de remoção e de validação para rastreabilidade.
 
+
+O workflow no PENTAHO segue a seguinte estrutura:
+
+1. **Importação dos Dados**  
+   - Leitura dos ficheiros CSV, XML e JSON usando nós **CSV Input**,  **XML Input** e **JSON Input**.  
+   - Conversão para tabelas utilizáveis dentro do PENTAHO.
+
+2. **Verificação e Limpeza**  
+   - **Validação de emails** utilizando expressões regulares.  
+   - Detecção de valores em falta (missing values) e remoção de linhas ou colunas inválidas.  
+   - Normalização de campos e formatação consistente dos dados.
+
+3. **Transformações e Análise**  
+   - Agrupamento de vendas por género e contagem de livros vendidos por país usando **GroupBy**.  
+   - Junção de tabelas (**Stream Lookup**) para cruzar clientes, livros e vendas.  
+   - Criação de variáveis para envio de email sobre livros vendidos por género.
+
+4. **Exportação e Visualização**  
+   - Escrita de ficheiros de saída (JSON) com caminhos relativos para portabilidade.  
+   - Geração de gráficos interativos utilizando Chart.js (para visualização de vendas).  
+   - Logs de remoção e de validação para rastreabilidade.
 ---
 
 ## 5. Funcionalidades Adicionais
 
-- Automatização do envio de emails (simulado) para clientes sobre novos lançamentos de livros.  
+- Automatização do envio de emails (simulado) para clientes sobre novos lançamentos de livros (KNIME).
+- Automatização do envio de emails sobre a quantidade de pedidos de livros por género (PENTAHO).  
 - Rastreamento de inconsistências nos dados e geração de logs detalhados.  
 - Capacidade de desformatação dos dados originais para demonstração de métodos de normalização e validação.
 
@@ -76,7 +98,96 @@ O workflow no KNIME segue a seguinte estrutura:
 - **JavaScript** – Para scripts de visualização e manipulação de dados em gráficos.
 
 ---
+## 7. Estrutura do trabalho
 
-## 7. Conclusão
+
+```
+📁 Projeto_ETL/
+│
+├── 📂 27969-KNIME/
+│ ├── dados/
+│ │ ├── input/
+│ │ │  ├── testar/
+│ │ │  │  ├── Clientes.xml
+│ │ │  │  └──  Livros.xml
+│ │ │  ├── Livros.xml
+│ │ │  ├── Orders.csv
+│ │ │  └──  XML-Customers.xml
+│ │ ├── output/
+│ │ │  ├── logs/
+│ │ │  │  ├── Email-Telefones-Invalidos-Clientes_0.xml
+│ │ │  │  ├── Missing-Values-Clientes_0.xml
+│ │ │  │  ├── Missing-Values-Livros_0.xml
+│ │ │  │  ├── Missing-Values-Vendas_0.xml
+│ │ │  │  ├── Preco-Negativo-Livros_0.xml
+│ │ │  │  ├── Quantidade-Invalida-Vendas_0.xml
+│ │ │  │  └──  Total-Amount-Negativo-Vendas_0.xml
+│ │ │  ├── preparacao-dados/
+│ │ │  │  ├── Clientes_0.xml
+│ │ │  │  ├── Livros_0.xml
+│ │ │  │  └──  vendas.csv
+│ │ │  ├── Clientes-verificados_0.json
+│ │ │  ├── Livros-Verificados_0.json
+│ │ │  └──  Vendas-Verificadas_0.json
+│ ├── dataInt/
+│ │ ├── converterDados/
+│ │ │  ├── csv para json.knwf
+│ │ │  └── csv para xml v2.knwf
+│ │ ├── projeto/
+│ │ │  ├── ISI-Projeto-I.knwf
+│ │ │  ├── ISI-Projeto-I-Desformatar.knwf
+│ │ │  ├── ISI-Projeto-I-Jobs.knwf
+│ │ │  └── ISI-Testar Email.knwf
+│ ├── doc/
+│ │ │  └── 27963_27969_doc.pdf
+│ ├── src/
+│ | ├── knime/
+│ │ │  ├── Clientes_Pais_0.json
+│ │ │  ├── index.html
+│ │ │  ├── livros.html
+│ │ │  ├── Livros_Por_Ano_0.json
+│ │ │  ├── script.js
+│ │ │  ├── style.css
+│ │ │  ├── vendas.html
+│ │ │  └── Vendas_Por_Ano_0.json
+├── 📂 27963-PENTAHO/
+│ ├── data/
+│ │ ├── input/
+│ │ │  ├── Books.xml
+│ │ │  ├── Customers.xml
+│ │ │  └── Orders.xml
+│ │ ├── output/
+│ │ │  ├── datavalid/
+│ │ │  │  ├── clientes_validos.xml
+│ │ │  │  ├── livros_validos.xml
+│ │ │  │  └── pedidos_validos.xml
+│ │ │  ├── Logs/
+│ │ │  │  ├── Logs_Clientes.xml
+│ │ │  │  ├── Logs_Livros.xml
+│ │ │  │  └── Logs_Pedidos.xml
+│ │ │  ├── Clientes.xml
+│ │ │  ├── Livros.xml
+│ │ │  └── Pedidos.xml
+│ ├── dataint/
+│ │ ├── Desformatacao.ktr
+│ │ ├── FormatacaoValidacao.ktr
+│ │ ├── Job_Principal.kjb
+│ │ ├── LivrosVendidosPorgGenero.ktr
+│ │ ├── SendeEmail.ktr
+│ │ └── VendasPorPaises.ktr
+│ ├── doc/
+│ │ │  └── 27963_27969_doc.pdf
+│ ├── Web/
+│ │ ├── node_modules/
+│ │ ├── index.html
+│ │ ├── PedidosTotaisPorGenero_0.json
+│ │ ├── script.js
+│ │ ├── style.css
+│ │ └── VendasPorPais_0.json
+```
+
+
+---
+## 8. Conclusão
 
 Apesar das dificuldades iniciais, estas foram ultrapassadas, permitindo concluir o projeto com sucesso.
